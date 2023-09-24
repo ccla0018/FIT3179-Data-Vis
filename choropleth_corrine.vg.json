@@ -15,7 +15,7 @@
           "as": "note"
         }
       ],
-      "mark": {"type": "geoshape", "fill": "lightgrey", "stroke": "white"},
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"},
       "encoding": {"tooltip": {"field": "note"}}
     },
     {
@@ -34,14 +34,14 @@
               "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/life_expectancy.csv"
             },
             "key": "Country",
-            "fields": ["Life Expectancy"]
+            "fields": ["LifeExpectancy"]
           }
         }
       ],
       "mark": {"type": "geoshape", "stroke": "white"},
       "encoding": {
         "color": {
-          "field": "Life Expectancy",
+          "field": "LifeExpectancy",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
