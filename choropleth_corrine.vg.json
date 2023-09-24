@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Meat Consumption",
+  "width": 800,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
+    "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+  },
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
+    },
+    {
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FAO_Meat_13Years.csv"
+            },
+            "key": "Area",
+            "fields": ["Y2013"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "white"},
+      "encoding": {
+        "color": {
+          "field": "Y2013",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 10, 100, 1000, 10000, 100000],
+            "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603", "#e6550e", "#a63608", "##8b0000"]
+          }
+        }
+      }
+    }
+  ],
+  "config": {}
+};
