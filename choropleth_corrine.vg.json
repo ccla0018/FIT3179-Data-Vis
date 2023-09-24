@@ -13,7 +13,7 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/oceans.json",
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/oceans.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "lightblue"}
