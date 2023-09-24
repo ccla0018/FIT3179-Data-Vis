@@ -1,4 +1,4 @@
-Country,Country Code,Region,IncomeGroup,Year,Life Expectancy,Prevelance of Undernourishment,CO2,Health Expenditure %,Education Expenditure %,Unemployment,Corruption,Sanitation,Injuries,Communicable,NonCommunicable
+Country,Country Code,Region,IncomeGroup,Year,LifeExpectancy,Prevelance of Undernourishment,CO2,Health Expenditure %,Education Expenditure %,Unemployment,Corruption,Sanitation,Injuries,Communicable,NonCommunicable
 Afghanistan,AFG,South Asia,Low income,2001,56.308,47.8,730,,,10.80900002,,,2179727.1,9689193.7,5795426.38
 Angola,AGO,Sub-Saharan Africa,Lower middle income,2001,47.059,67.5,15960,4.48351622,,4.004000187,,,1392080.71,11190210.53,2663516.34
 Albania,ALB,Europe & Central Asia,Upper middle income,2001,74.288,4.9,3230,7.13952398,3.458699942,18.57500076,,40.52089533,117081.67,140894.78,532324.75
