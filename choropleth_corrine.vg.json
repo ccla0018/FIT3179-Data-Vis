@@ -16,6 +16,13 @@
       "mark": {"type": "geoshape", "fill": null, "stroke": "white"}
     },
     {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/oceans.json",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightblue"}
+    },
+    {
       "transform": [
         {
           "calculate": "'Data is not available in ' + datum.properties.NAME",
@@ -48,8 +55,18 @@
             "domain": [0, 2, 4, 6, 8, 10],
             "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#8b0000"]
           }
+        },
+      "tooltip": [
+        {"field": "properties.NAME", 
+          "type": "nominal", 
+          "title": "Countries"},
+        {
+          "field": "hf_score",
+          "type": "nominal",
+          "title": "Human Freedom Score"
         }
-      }
+      ]
+    }
     }
   ],
   "config": {}
