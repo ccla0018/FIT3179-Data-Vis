@@ -13,10 +13,10 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_100m_ocean.json",
-        "format": {"type": "topojson", "feature": "ocean"}
+        "url": "ne_100m_ocean.json",
+        "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "lightblue"}
+      "mark": {"type": "geoshape", "fill": "aliceblue"}
     },
     {
       "data": {
@@ -56,19 +56,18 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [0, 2, 4, 6, 8, 10],
-            "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
+            "domain": [0, 2, 4, 6, 8],
+            "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66"]
           },
           "legend":
           {
-            "title": "Human Freedom Score (0 to 10)",
             "direction": "horizontal"
           }
         },
       "tooltip": [
         {"field": "properties.NAME", 
           "type": "nominal", 
-          "title": "Countries"},
+          "title": "Country"},
         {
           "field": "hf_score",
           "type": "nominal",
