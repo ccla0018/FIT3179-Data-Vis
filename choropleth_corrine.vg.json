@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "World Life Expectancy",
+  "title": "World Human Freedom Rank",
   "width": 800,
   "height": 400,
   "data": {
@@ -31,21 +31,21 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/life_expectancy.csv"
+              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/human_freedom.csv"
             },
-            "key": "Country",
-            "fields": ["LifeExpectancy"]
+            "key": "Countries",
+            "fields": ["hf_score"]
           }
         }
       ],
       "mark": {"type": "geoshape", "stroke": "white"},
       "encoding": {
         "color": {
-          "field": "LifeExpectancy",
+          "field": "hf_score",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [0, 20, 40, 60, 80, 100],
+            "domain": [0, 2, 4, 6, 8, 10],
             "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603", "#e6550e", "#a63608", "#8b0000"]
           }
         }
