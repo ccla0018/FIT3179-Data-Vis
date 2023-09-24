@@ -10,7 +10,7 @@
   <script>
     const spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Meat Consumption",
+  "title": "Global Youtube Statistics",
   "width": 800,
   "height": 400,
   "data": {
@@ -31,17 +31,17 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/Global Youtube Statistics.csv"
+              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/Global_Youtube_Statistics.csv"
             },
-            "key": "Area",
-            "fields": ["Y2013"]
+            "key": "Country",
+            "fields": ["Video Views"]
           }
         }
       ],
       "mark": {"type": "geoshape", "stroke": "white"},
       "encoding": {
         "color": {
-          "field": "Y2013",
+          "field": "Video Views",
           "type": "quantitative",
           "scale": {
             "type": "threshold",
