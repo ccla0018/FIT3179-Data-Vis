@@ -23,8 +23,8 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/oceans.topojson",
-        "format": {"type": "topojson", "feature": "ocean"}
+        "url": "ne_100m_ocean.json",
+        "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "lightblue"}
     },
@@ -89,7 +89,8 @@
     }
   ],
   "config": {}
-};
+}
+;
     vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
 </body>
