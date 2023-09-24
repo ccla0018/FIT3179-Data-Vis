@@ -1,6 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "World Human Freedom Rank",
+  "title": {
+      "text": "World Human Freedom Rank",
+      "fontSize": 30  
+    },
   "width": 800,
   "height": 400,
   "data": {
@@ -10,17 +13,18 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/WorldMapWithGraticules.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
-      },
-      "mark": {"type": "geoshape", "fill": null, "stroke": "white"}
-    },
-    {
-      "data": {
         "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/oceans.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "lightblue"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "projection": {"type": "equalEarth"},
+      "mark": {"type": "geoshape", "fill": null, "stroke": "white"}
     },
     {
       "transform": [
@@ -53,7 +57,12 @@
           "scale": {
             "type": "threshold",
             "domain": [0, 2, 4, 6, 8, 10],
-            "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#8b0000"]
+            "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
+          },
+          "legend":
+          {
+            "title": "Human Freedom Score (0 to 10)",
+            "direction": "horizontal"
           }
         },
       "tooltip": [

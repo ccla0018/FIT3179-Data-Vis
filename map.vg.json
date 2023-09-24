@@ -68,7 +68,8 @@
               },
               "key": "countries",
               "fields": ["hf_score"]
-            }
+            },
+            "as": "score"
           },
           {"filter": "datum.year == year_selection"}
         ],
