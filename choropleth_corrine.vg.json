@@ -22,7 +22,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FAO_Meat_13Years.csv"
+              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/37975d93244b6849ae26d1ceb95a1eec684ca461/FAO_Meat_13Years.csv"
             },
             "key": "Area",
             "fields": ["Y2013"]
@@ -37,7 +37,7 @@
           "scale": {
             "type": "threshold",
             "domain": [0, 10, 100, 1000, 10000, 100000],
-            "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603", "#e6550e", "#a63608", "##8b0000"]
+            "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603", "#e6550e", "#a63608", "#8b0000"]
           }
         }
       }
