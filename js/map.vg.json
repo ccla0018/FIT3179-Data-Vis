@@ -1,18 +1,20 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-      "text": "World Human Freedom Score",
-      "fontSize": 30  
-    },
+    "text": "World Human Freedom Score",
+    "fontSize": 30
+  },
   "width": 800,
   "height": 400,
   "data": {
+    "name": "worldData",
     "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   "layer": [
     {
       "data": {
+        "name": "oceanData",
         "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_100m_ocean.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
@@ -20,6 +22,7 @@
     },
     {
       "data": {
+        "name": "graticulesData",
         "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/WorldMapWithGraticules.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
@@ -47,6 +50,9 @@
             "key": "countries",
             "fields": ["hf_score"]
           }
+        },
+        {
+          "filter": {"selection": "yearFilter"}
         }
       ],
       "mark": {"type": "geoshape", "stroke": "white"},
@@ -59,23 +65,26 @@
             "domain": [0, 2, 4, 6, 8, 10],
             "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
           },
-          "legend":
-          {
+          "legend": {
             "title": "Human Freedom Score (0 to 10)",
             "direction": "horizontal"
           }
         },
-      "tooltip": [
-        {"field": "properties.NAME", 
-          "type": "nominal", 
-          "title": "Countries"},
-        {
-          "field": "hf_score",
-          "type": "nominal",
-          "title": "Human Freedom Score"
-        }
-      ]
+        "tooltip": [
+          {"field": "properties.NAME", "type": "nominal", "title": "Countries"},
+          {"field": "hf_score", "type": "nominal", "title": "Human Freedom Score"}
+        ]
+      }
     }
+  ],
+  "selection": {
+    "yearFilter": {
+      "type": "single",
+      "fields": ["year"],
+      "bind": {
+        "input": "select",
+        "options": [2015, 2016, 2017, 2018, 2019, 2020]  // Add the years you want to filter by
+      }
     }
-  ]
+  }
 }
