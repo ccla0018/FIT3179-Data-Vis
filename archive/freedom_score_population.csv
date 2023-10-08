@@ -1,0 +1,3084 @@
+﻿year,countries,region,hf_score,ef_score,population
+2020,Albania,Eastern Europe,7.67,7.64,123000
+2020,Algeria,Middle East & North Africa,5.13,5.12,123001
+2020,Angola,Sub-Saharan Africa,5.97,5.91,123002
+2020,Argentina,Latin America & the Caribbean,6.99,4.87,123003
+2020,Armenia,Caucasus & Central Asia,8.14,7.84,123004
+2020,Australia,Oceania,8.51,8.04,123005
+2020,Austria,Western Europe,8.26,7.56,123006
+2020,Azerbaijan,Caucasus & Central Asia,5.7,6.21,123007
+2020,"Bahamas, The",Latin America & the Caribbean,8.14,7.02,123008
+2020,Bahrain,Middle East & North Africa,5.49,7.47,123009
+2020,Bangladesh,South Asia,5.51,5.89,123010
+2020,Barbados,Latin America & the Caribbean,7.69,7.01,123011
+2020,Belarus,Eastern Europe,5.78,6.83,123012
+2020,Belgium,Western Europe,8.27,7.37,123013
+2020,Belize,Latin America & the Caribbean,7.02,6.23,123014
+2020,Benin,Sub-Saharan Africa,6.95,6.51,123015
+2020,Bhutan,South Asia,6.71,6.49,123016
+2020,Bolivia,Latin America & the Caribbean,6.6,6.15,123017
+2020,Bosnia and Herzegovina,Eastern Europe,7.35,6.72,123018
+2020,Botswana,Sub-Saharan Africa,7.44,7.35,123019
+2020,Brazil,Latin America & the Caribbean,6.86,6.33,123020
+2020,Brunei Darussalam,South Asia,5.62,7.21,123021
+2020,Bulgaria,Eastern Europe,7.81,7.69,123022
+2020,Burkina Faso,Sub-Saharan Africa,6.63,6.15,123023
+2020,Burundi,Sub-Saharan Africa,4.82,5.67,123024
+2020,Cabo Verde,Sub-Saharan Africa,8.12,7.6,123025
+2020,Cambodia,South Asia,6.24,7.13,123026
+2020,Cameroon,Sub-Saharan Africa,5.34,5.76,123027
+2020,Canada,North America,8.47,7.81,123028
+2020,Central African Republic,Sub-Saharan Africa,5.47,5.4,123029
+2020,Chad,Sub-Saharan Africa,5.2,5.55,123030
+2020,Chile,Latin America & the Caribbean,8.06,7.56,123031
+2020,China,East Asia,5.22,6.27,123032
+2020,Colombia,Latin America & the Caribbean,6.65,6.55,123033
+2020,Comoros,Sub-Saharan Africa,5.75,6.31,123034
+2020,"Congo, Dem. Rep.",Sub-Saharan Africa,5.39,5.36,123035
+2020,"Congo, Rep.",Sub-Saharan Africa,5.55,5.08,123036
+2020,Costa Rica,Latin America & the Caribbean,7.98,7.62,123037
+2020,Cote d'Ivoire,Sub-Saharan Africa,6.47,6.01,123038
+2020,Croatia,Eastern Europe,7.86,7.16,123039
+2020,Cyprus,Eastern Europe,8.13,7.49,123040
+2020,Czech Republic,Eastern Europe,8.33,7.75,123041
+2020,Denmark,Western Europe,8.72,8.09,123042
+2020,Djibouti,Sub-Saharan Africa,5.51,6.21,123043
+2020,Dominican Republic,Latin America & the Caribbean,7.61,7.36,123044
+2020,Ecuador,Latin America & the Caribbean,7.12,6.51,123045
+2020,"Egypt, Arab Rep.",Middle East & North Africa,4.28,5.61,123046
+2020,El Salvador,Latin America & the Caribbean,6.65,7.12,123047
+2020,Estonia,Eastern Europe,8.73,7.95,123048
+2020,Eswatini,Sub-Saharan Africa,5.45,5.76,123049
+2020,Ethiopia,Sub-Saharan Africa,5.42,5.58,123050
+2020,Fiji,Oceania,7.28,6.53,123051
+2020,Finland,Western Europe,8.62,7.64,123052
+2020,France,Western Europe,7.8,7.33,123053
+2020,Gabon,Sub-Saharan Africa,6.62,5.72,123054
+2020,"Gambia, The",Sub-Saharan Africa,6.61,7.23,123055
+2020,Georgia,Caucasus & Central Asia,7.71,7.78,123056
+2020,Germany,Western Europe,8.33,7.65,123057
+2020,Ghana,Sub-Saharan Africa,7.26,6.49,123058
+2020,Greece,Eastern Europe,7.5,6.81,123059
+2020,Guatemala,Latin America & the Caribbean,7.08,7.59,123060
+2020,Guinea,Sub-Saharan Africa,5.45,5.84,123061
+2020,Guinea-Bissau,Sub-Saharan Africa,6.54,5.64,123062
+2020,Guyana,Latin America & the Caribbean,6.9,5.82,123063
+2020,Haiti,Latin America & the Caribbean,6.78,6.57,123064
+2020,Honduras,Latin America & the Caribbean,6.67,7.04,123065
+2020,"Hong Kong SAR, China",East Asia,8.01,8.59,123066
+2020,Hungary,Eastern Europe,7.21,7.24,123067
+2020,Iceland,Western Europe,8.64,7.73,123068
+2020,India,South Asia,6.3,6.72,123069
+2020,Indonesia,South Asia,6.74,7.09,123070
+2020,"Iran, Islamic Rep.",Middle East & North Africa,4.26,4.96,123071
+2020,Iraq,Middle East & North Africa,4.77,5.51,123072
+2020,Ireland,Western Europe,8.7,7.86,123073
+2020,Israel,Middle East & North Africa,7.36,7.35,123074
+2020,Italy,Western Europe,8.02,7.4,123075
+2020,Jamaica,Latin America & the Caribbean,7.53,7.38,123076
+2020,Japan,East Asia,8.39,7.82,123077
+2020,Jordan,Middle East & North Africa,6.39,7.37,123078
+2020,Kazakhstan,Caucasus & Central Asia,6.46,7.35,123079
+2020,Kenya,Sub-Saharan Africa,6.58,6.96,123080
+2020,"Korea, Rep.",East Asia,8.11,7.42,123081
+2020,Kuwait,Middle East & North Africa,6.25,6.73,123082
+2020,Kyrgyz Republic,Caucasus & Central Asia,6.7,6.97,123083
+2020,Lao PDR,South Asia,5.44,6.5,123084
+2020,Latvia,Eastern Europe,8.42,7.77,123085
+2020,Lebanon,Middle East & North Africa,5.98,5.45,123086
+2020,Lesotho,Sub-Saharan Africa,6.8,6.52,123087
+2020,Liberia,Sub-Saharan Africa,6.62,6.51,123088
+2020,Libya,Middle East & North Africa,4.95,4.95,123089
+2020,Lithuania,Eastern Europe,8.34,7.82,123090
+2020,Luxembourg,Western Europe,8.53,7.54,123091
+2020,Madagascar,Sub-Saharan Africa,6.47,6.1,123092
+2020,Malawi,Sub-Saharan Africa,6.89,5.98,123093
+2020,Malaysia,South Asia,6.78,7.35,123094
+2020,Mali,Sub-Saharan Africa,6.01,5.85,123095
+2020,Malta,Western Europe,8.2,7.72,123096
+2020,Mauritania,Sub-Saharan Africa,5.54,6.13,123097
+2020,Mauritius,Sub-Saharan Africa,7.63,7.88,123098
+2020,Mexico,Latin America & the Caribbean,6.6,7.12,123099
+2020,Moldova,Eastern Europe,7.46,7.05,123100
+2020,Mongolia,East Asia,7.62,7.3,123101
+2020,Montenegro,Eastern Europe,7.45,7.46,123102
+2020,Morocco,Middle East & North Africa,5.55,6.55,123103
+2020,Mozambique,Sub-Saharan Africa,6.62,6.27,123104
+2020,Myanmar,South Asia,5.56,5.93,123105
+2020,Namibia,Sub-Saharan Africa,7.49,6.57,123106
+2020,Nepal,South Asia,6.77,6.54,123107
+2020,Netherlands,Western Europe,8.55,7.75,123108
+2020,New Zealand,Oceania,8.75,8.27,123109
+2020,Nicaragua,Latin America & the Caribbean,5.96,6.84,123110
+2020,Niger,Sub-Saharan Africa,6.33,5.97,123111
+2020,Nigeria,Sub-Saharan Africa,5.93,6.7,123112
+2020,North Macedonia,Eastern Europe,7.67,7.16,123113
+2020,Norway,Western Europe,8.51,7.58,123114
+2020,Oman,Middle East & North Africa,5.57,6.65,123115
+2020,Pakistan,South Asia,5.44,6.03,123116
+2020,Panama,Latin America & the Caribbean,7.52,7.45,123117
+2020,Papua New Guinea,Oceania,6.98,6.17,123118
+2020,Paraguay,Latin America & the Caribbean,7.03,6.96,123119
+2020,Peru,Latin America & the Caribbean,7.51,7.5,123120
+2020,Philippines,South Asia,6.52,7.09,123121
+2020,Poland,Eastern Europe,7.66,6.93,123122
+2020,Portugal,Western Europe,8.2,7.43,123123
+2020,Qatar,Middle East & North Africa,5.73,6.99,123124
+2020,Romania,Eastern Europe,7.89,7.74,123125
+2020,Russian Federation,Eastern Europe,6.01,6.62,123126
+2020,Rwanda,Sub-Saharan Africa,5.93,6.9,123127
+2020,Saudi Arabia,Middle East & North Africa,4.56,6.78,123128
+2020,Senegal,Sub-Saharan Africa,6.7,6.05,123129
+2020,Serbia,Eastern Europe,7.16,6.82,123130
+2020,Seychelles,Sub-Saharan Africa,7.7,7.01,123131
+2020,Sierra Leone,Sub-Saharan Africa,6.53,5.98,123132
+2020,Singapore,South Asia,7.7,8.48,123133
+2020,Slovak Republic,Eastern Europe,7.94,7.33,123134
+2020,Slovenia,Eastern Europe,7.88,7,123135
+2020,Somalia,Sub-Saharan Africa,4.67,6.03,123136
+2020,South Africa,Sub-Saharan Africa,6.93,6.55,123137
+2020,Spain,Western Europe,8.08,7.63,123138
+2020,Sri Lanka,South Asia,6.33,6.72,123139
+2020,Sudan,Sub-Saharan Africa,4.31,4.21,123140
+2020,Suriname,Latin America & the Caribbean,7.2,5.81,123141
+2020,Sweden,Western Europe,8.66,7.56,123142
+2020,Switzerland,Western Europe,8.94,8.37,123143
+2020,Syrian Arab Republic,Middle East & North Africa,3.3,4.63,123144
+2020,Taiwan,East Asia,8.44,7.68,123145
+2020,Tajikistan,Caucasus & Central Asia,5.49,6.6,123146
+2020,Tanzania,Sub-Saharan Africa,6.24,6.55,123147
+2020,Thailand,South Asia,6.49,6.78,123148
+2020,Timor-Leste,South Asia,7.27,5.94,123149
+2020,Togo,Sub-Saharan Africa,6.25,6.19,123150
+2020,Trinidad and Tobago,Latin America & the Caribbean,7.53,7.01,123151
+2020,Tunisia,Middle East & North Africa,6.25,6.09,123152
+2020,Turkey,Middle East & North Africa,5.71,6.48,123153
+2020,Uganda,Sub-Saharan Africa,6.13,7.18,123154
+2020,Ukraine,Eastern Europe,6.68,6.11,123155
+2020,United Arab Emirates,Middle East & North Africa,5.76,7.35,123156
+2020,United Kingdom,Western Europe,8.3,7.71,123157
+2020,United States of America,North America,8.23,7.97,123158
+2020,Uruguay,Latin America & the Caribbean,7.97,7.06,123159
+2020,"Venezuela, RB",Latin America & the Caribbean,4.09,3.32,123160
+2020,Vietnam,South Asia,5.64,6.42,123161
+2020,"Yemen, Rep.",Middle East & North Africa,3.94,5.67,123162
+2020,Zambia,Sub-Saharan Africa,6.38,6.56,123163
+2020,Zimbabwe,Sub-Saharan Africa,5.25,4.48,123164
+2019,Albania,Eastern Europe,8.07,7.79,123165
+2019,Algeria,Middle East & North Africa,5.08,4.86,123166
+2019,Angola,Sub-Saharan Africa,5.96,5.55,123167
+2019,Argentina,Latin America & the Caribbean,7.33,5.44,123168
+2019,Armenia,Caucasus & Central Asia,8.32,7.98,123169
+2019,Australia,Oceania,8.83,8.17,123170
+2019,Austria,Western Europe,8.68,7.86,123171
+2019,Azerbaijan,Caucasus & Central Asia,6.02,6.43,123172
+2019,"Bahamas, The",Latin America & the Caribbean,8.15,7.21,123173
+2019,Bahrain,Middle East & North Africa,5.43,7.43,123174
+2019,Bangladesh,South Asia,5.56,6.04,123175
+2019,Barbados,Latin America & the Caribbean,7.93,7.05,123176
+2019,Belarus,Eastern Europe,6.27,6.48,123177
+2019,Belgium,Western Europe,8.55,7.62,123178
+2019,Belize,Latin America & the Caribbean,7.48,6.41,123179
+2019,Benin,Sub-Saharan Africa,7.25,6.66,123180
+2019,Bhutan,South Asia,6.68,6.52,123181
+2019,Bolivia,Latin America & the Caribbean,6.88,6.32,123182
+2019,Bosnia and Herzegovina,Eastern Europe,7.43,6.94,123183
+2019,Botswana,Sub-Saharan Africa,7.76,7.47,123184
+2019,Brazil,Latin America & the Caribbean,7.25,6.6,123185
+2019,Brunei Darussalam,South Asia,5.96,7.3,123186
+2019,Bulgaria,Eastern Europe,7.97,7.79,123187
+2019,Burkina Faso,Sub-Saharan Africa,6.83,6.25,123188
+2019,Burundi,Sub-Saharan Africa,4.91,5.67,123189
+2019,Cabo Verde,Sub-Saharan Africa,8.44,7.65,123190
+2019,Cambodia,South Asia,6.43,7.38,123191
+2019,Cameroon,Sub-Saharan Africa,5.34,5.79,123192
+2019,Canada,North America,8.85,8.05,123193
+2019,Central African Republic,Sub-Saharan Africa,5.68,5.37,123194
+2019,Chad,Sub-Saharan Africa,5.41,5.63,123195
+2019,Chile,Latin America & the Caribbean,8.5,7.86,123196
+2019,China,East Asia,5.27,6.33,123197
+2019,Colombia,Latin America & the Caribbean,6.95,6.83,123198
+2019,Comoros,Sub-Saharan Africa,5.91,6.33,123199
+2019,"Congo, Dem. Rep.",Sub-Saharan Africa,5.49,5.42,123200
+2019,"Congo, Rep.",Sub-Saharan Africa,5.33,4.78,123201
+2019,Costa Rica,Latin America & the Caribbean,8.28,7.67,123202
+2019,Cote d'Ivoire,Sub-Saharan Africa,6.78,6.17,123203
+2019,Croatia,Eastern Europe,8.15,7.42,123204
+2019,Cyprus,Eastern Europe,8.49,7.89,123205
+2019,Czech Republic,Eastern Europe,8.61,7.98,123206
+2019,Denmark,Western Europe,9.01,8.23,123207
+2019,Djibouti,Sub-Saharan Africa,5.63,6.45,123208
+2019,Dominican Republic,Latin America & the Caribbean,7.87,7.6,123209
+2019,Ecuador,Latin America & the Caribbean,7.37,6.68,123210
+2019,"Egypt, Arab Rep.",Middle East & North Africa,4.35,5.74,123211
+2019,El Salvador,Latin America & the Caribbean,7.34,7.34,123212
+2019,Estonia,Eastern Europe,8.94,8.11,123213
+2019,Eswatini,Sub-Saharan Africa,5.73,6.14,123214
+2019,Ethiopia,Sub-Saharan Africa,5.73,5.82,123215
+2019,Fiji,Oceania,7.35,6.36,123216
+2019,Finland,Western Europe,8.87,7.92,123217
+2019,France,Western Europe,8.26,7.55,123218
+2019,Gabon,Sub-Saharan Africa,6.66,5.83,123219
+2019,"Gambia, The",Sub-Saharan Africa,6.82,7.06,123220
+2019,Georgia,Caucasus & Central Asia,7.85,8.16,123221
+2019,Germany,Western Europe,8.73,7.89,123222
+2019,Ghana,Sub-Saharan Africa,7.46,6.72,123223
+2019,Greece,Eastern Europe,7.83,7.19,123224
+2019,Guatemala,Latin America & the Caribbean,7.47,7.78,123225
+2019,Guinea,Sub-Saharan Africa,5.82,5.94,123226
+2019,Guinea-Bissau,Sub-Saharan Africa,6.78,5.7,123227
+2019,Guyana,Latin America & the Caribbean,7.04,5.81,123228
+2019,Haiti,Latin America & the Caribbean,7.2,6.68,123229
+2019,Honduras,Latin America & the Caribbean,6.98,7.24,123230
+2019,"Hong Kong SAR, China",East Asia,8.38,8.87,123231
+2019,Hungary,Eastern Europe,7.63,7.51,123232
+2019,Iceland,Western Europe,8.84,7.91,123233
+2019,India,South Asia,6.42,6.76,123234
+2019,Indonesia,South Asia,6.98,7.26,123235
+2019,"Iran, Islamic Rep.",Middle East & North Africa,4.27,5.02,123236
+2019,Iraq,Middle East & North Africa,5.12,5.41,123237
+2019,Ireland,Western Europe,8.95,8.19,123238
+2019,Israel,Middle East & North Africa,7.61,7.63,123239
+2019,Italy,Western Europe,8.43,7.61,123240
+2019,Jamaica,Latin America & the Caribbean,7.9,7.61,123241
+2019,Japan,East Asia,8.75,7.97,123242
+2019,Jordan,Middle East & North Africa,6.71,7.51,123243
+2019,Kazakhstan,Caucasus & Central Asia,6.63,7.6,123244
+2019,Kenya,Sub-Saharan Africa,6.57,7,123245
+2019,"Korea, Rep.",East Asia,8.31,7.62,123246
+2019,Kuwait,Middle East & North Africa,6.2,6.74,123247
+2019,Kyrgyz Republic,Caucasus & Central Asia,7.02,7.17,123248
+2019,Lao PDR,South Asia,5.68,6.65,123249
+2019,Latvia,Eastern Europe,8.62,7.94,123250
+2019,Lebanon,Middle East & North Africa,6.67,6.85,123251
+2019,Lesotho,Sub-Saharan Africa,7,6.46,123252
+2019,Liberia,Sub-Saharan Africa,6.6,6.16,123253
+2019,Libya,Middle East & North Africa,4.72,4.47,123254
+2019,Lithuania,Eastern Europe,8.72,8.22,123255
+2019,Luxembourg,Western Europe,8.85,7.89,123256
+2019,Madagascar,Sub-Saharan Africa,6.86,6.32,123257
+2019,Malawi,Sub-Saharan Africa,6.92,5.94,123258
+2019,Malaysia,South Asia,7.08,7.52,123259
+2019,Mali,Sub-Saharan Africa,6.19,5.9,123260
+2019,Malta,Western Europe,8.43,8.02,123261
+2019,Mauritania,Sub-Saharan Africa,5.56,6.55,123262
+2019,Mauritius,Sub-Saharan Africa,8.02,8.2,123263
+2019,Mexico,Latin America & the Caribbean,6.8,7.2,123264
+2019,Moldova,Eastern Europe,7.6,7.32,123265
+2019,Mongolia,East Asia,7.97,7.42,123266
+2019,Montenegro,Eastern Europe,7.91,7.63,123267
+2019,Morocco,Middle East & North Africa,5.68,6.74,123268
+2019,Mozambique,Sub-Saharan Africa,6.77,6.47,123269
+2019,Myanmar,South Asia,5.4,5.56,123270
+2019,Namibia,Sub-Saharan Africa,7.57,6.75,123271
+2019,Nepal,South Asia,7.01,6.73,123272
+2019,Netherlands,Western Europe,8.8,7.96,123273
+2019,New Zealand,Oceania,9.04,8.56,123274
+2019,Nicaragua,Latin America & the Caribbean,6.13,7.04,123275
+2019,Niger,Sub-Saharan Africa,6.14,5.62,123276
+2019,Nigeria,Sub-Saharan Africa,6.1,7.03,123277
+2019,North Macedonia,Eastern Europe,7.68,7.17,123278
+2019,Norway,Western Europe,8.81,7.75,123279
+2019,Oman,Middle East & North Africa,5.77,6.77,123280
+2019,Pakistan,South Asia,5.48,6,123281
+2019,Panama,Latin America & the Caribbean,7.94,7.74,123282
+2019,Papua New Guinea,Oceania,7.17,6.01,123283
+2019,Paraguay,Latin America & the Caribbean,7.46,7.11,123284
+2019,Peru,Latin America & the Caribbean,7.83,7.78,123285
+2019,Philippines,South Asia,6.69,7.34,123286
+2019,Poland,Eastern Europe,7.92,7.22,123287
+2019,Portugal,Western Europe,8.69,7.77,123288
+2019,Qatar,Middle East & North Africa,5.96,7.11,123289
+2019,Romania,Eastern Europe,8.25,7.87,123290
+2019,Russian Federation,Eastern Europe,6.11,6.83,123291
+2019,Rwanda,Sub-Saharan Africa,6.19,7.25,123292
+2019,Saudi Arabia,Middle East & North Africa,4.77,6.89,123293
+2019,Senegal,Sub-Saharan Africa,6.9,6.26,123294
+2019,Serbia,Eastern Europe,7.5,7.21,123295
+2019,Seychelles,Sub-Saharan Africa,7.91,7.63,123296
+2019,Sierra Leone,Sub-Saharan Africa,6.47,5.85,123297
+2019,Singapore,South Asia,7.86,8.81,123298
+2019,Slovak Republic,Eastern Europe,8.15,7.61,123299
+2019,Slovenia,Eastern Europe,8.33,7.43,123300
+2019,Somalia,Sub-Saharan Africa,4.71,6.25,123301
+2019,South Africa,Sub-Saharan Africa,7.15,6.79,123302
+2019,Spain,Western Europe,8.49,7.89,123303
+2019,Sri Lanka,South Asia,6.47,6.72,123304
+2019,Sudan,Sub-Saharan Africa,4.04,3.58,123305
+2019,Suriname,Latin America & the Caribbean,7.51,6,123306
+2019,Sweden,Western Europe,8.85,7.7,123307
+2019,Switzerland,Western Europe,9.17,8.49,123308
+2019,Syrian Arab Republic,Middle East & North Africa,3.36,4.8,123309
+2019,Taiwan,East Asia,8.8,8.1,123310
+2019,Tajikistan,Caucasus & Central Asia,5.44,6.54,123311
+2019,Tanzania,Sub-Saharan Africa,6.29,6.58,123312
+2019,Thailand,South Asia,6.75,6.91,123313
+2019,Timor-Leste,South Asia,7.36,5.92,123314
+2019,Togo,Sub-Saharan Africa,6.28,6.07,123315
+2019,Trinidad and Tobago,Latin America & the Caribbean,7.78,7.22,123316
+2019,Tunisia,Middle East & North Africa,6.3,5.94,123317
+2019,Turkey,Middle East & North Africa,5.63,6.49,123318
+2019,Uganda,Sub-Saharan Africa,6.17,7.41,123319
+2019,Ukraine,Eastern Europe,6.77,6.2,123320
+2019,United Arab Emirates,Middle East & North Africa,5.89,7.28,123321
+2019,United Kingdom,Western Europe,8.79,8.16,123322
+2019,United States of America,North America,8.75,8.25,123323
+2019,Uruguay,Latin America & the Caribbean,8.4,7.38,123324
+2019,"Venezuela, RB",Latin America & the Caribbean,3.9,2.87,123325
+2019,Vietnam,South Asia,5.74,6.4,123326
+2019,"Yemen, Rep.",Middle East & North Africa,3.99,5.72,123327
+2019,Zambia,Sub-Saharan Africa,6.6,6.95,123328
+2019,Zimbabwe,Sub-Saharan Africa,5.3,4.6,123329
+2018,Albania,Eastern Europe,8.08,7.76,123330
+2018,Algeria,Middle East & North Africa,5.08,4.87,123331
+2018,Angola,Sub-Saharan Africa,5.62,4.86,123332
+2018,Argentina,Latin America & the Caribbean,7.54,5.89,123333
+2018,Armenia,Caucasus & Central Asia,8.04,7.95,123334
+2018,Australia,Oceania,8.98,8.29,123335
+2018,Austria,Western Europe,8.69,7.86,123336
+2018,Azerbaijan,Caucasus & Central Asia,5.98,6.51,123337
+2018,"Bahamas, The",Latin America & the Caribbean,8.05,7.21,123338
+2018,Bahrain,Middle East & North Africa,5.28,7.37,123339
+2018,Bangladesh,South Asia,5.64,6.07,123340
+2018,Barbados,Latin America & the Caribbean,7.8,6.56,123341
+2018,Belarus,Eastern Europe,6.23,6.34,123342
+2018,Belgium,Western Europe,8.55,7.62,123343
+2018,Belize,Latin America & the Caribbean,7.38,6.46,123344
+2018,Benin,Sub-Saharan Africa,7.35,6.48,123345
+2018,Bhutan,South Asia,6.64,6.49,123346
+2018,Bolivia,Latin America & the Caribbean,7.02,6.35,123347
+2018,Bosnia and Herzegovina,Eastern Europe,7.46,6.99,123348
+2018,Botswana,Sub-Saharan Africa,7.55,7.46,123349
+2018,Brazil,Latin America & the Caribbean,7.35,6.58,123350
+2018,Brunei Darussalam,South Asia,5.94,7.26,123351
+2018,Bulgaria,Eastern Europe,8.07,7.89,123352
+2018,Burkina Faso,Sub-Saharan Africa,6.85,5.99,123353
+2018,Burundi,Sub-Saharan Africa,4.8,5.72,123354
+2018,Cabo Verde,Sub-Saharan Africa,8.41,7.72,123355
+2018,Cambodia,South Asia,6.42,7.38,123356
+2018,Cameroon,Sub-Saharan Africa,5.35,5.78,123357
+2018,Canada,North America,8.85,8.11,123358
+2018,Central African Republic,Sub-Saharan Africa,5.73,5.2,123359
+2018,Chad,Sub-Saharan Africa,5.4,5.59,123360
+2018,Chile,Latin America & the Caribbean,8.65,7.95,123361
+2018,China,East Asia,5.31,6.33,123362
+2018,Colombia,Latin America & the Caribbean,6.99,6.78,123363
+2018,"Congo, Dem. Rep.",Sub-Saharan Africa,5.16,5.16,123364
+2018,"Congo, Rep.",Sub-Saharan Africa,5.26,4.65,123365
+2018,Costa Rica,Latin America & the Caribbean,8.28,7.7,123366
+2018,Cote d'Ivoire,Sub-Saharan Africa,6.77,6.1,123367
+2018,Croatia,Eastern Europe,8.2,7.44,123368
+2018,Cyprus,Eastern Europe,8.51,7.89,123369
+2018,Czech Republic,Eastern Europe,8.66,8.02,123370
+2018,Denmark,Western Europe,9,8.21,123371
+2018,Dominican Republic,Latin America & the Caribbean,7.89,7.57,123372
+2018,Ecuador,Latin America & the Caribbean,7.38,6.61,123373
+2018,"Egypt, Arab Rep.",Middle East & North Africa,4.3,5.56,123374
+2018,El Salvador,Latin America & the Caribbean,7.42,7.31,123375
+2018,Estonia,Eastern Europe,8.94,8.08,123376
+2018,Eswatini,Sub-Saharan Africa,5.64,6.1,123377
+2018,Ethiopia,Sub-Saharan Africa,5.34,5.64,123378
+2018,Fiji,Oceania,7.32,6.17,123379
+2018,Finland,Western Europe,8.9,7.92,123380
+2018,France,Western Europe,8.27,7.53,123381
+2018,Gabon,Sub-Saharan Africa,6.74,5.77,123382
+2018,"Gambia, The",Sub-Saharan Africa,6.9,7.24,123383
+2018,Georgia,Caucasus & Central Asia,8.08,8.2,123384
+2018,Germany,Western Europe,8.73,7.92,123385
+2018,Ghana,Sub-Saharan Africa,7.48,6.62,123386
+2018,Greece,Eastern Europe,7.78,7.06,123387
+2018,Guatemala,Latin America & the Caribbean,7.39,7.71,123388
+2018,Guinea,Sub-Saharan Africa,5.84,5.87,123389
+2018,Guinea-Bissau,Sub-Saharan Africa,6.53,5.18,123390
+2018,Guyana,Latin America & the Caribbean,7.13,5.87,123391
+2018,Haiti,Latin America & the Caribbean,7.13,6.42,123392
+2018,Honduras,Latin America & the Caribbean,7.02,7.24,123393
+2018,"Hong Kong SAR, China",East Asia,8.63,9.01,123394
+2018,Hungary,Eastern Europe,7.65,7.49,123395
+2018,Iceland,Western Europe,8.84,7.87,123396
+2018,India,South Asia,6.57,6.72,123397
+2018,Indonesia,South Asia,7.12,7.33,123398
+2018,"Iran, Islamic Rep.",Middle East & North Africa,4.4,5.19,123399
+2018,Iraq,Middle East & North Africa,5.12,5.25,123400
+2018,Ireland,Western Europe,8.91,8.16,123401
+2018,Israel,Middle East & North Africa,7.56,7.64,123402
+2018,Italy,Western Europe,8.43,7.61,123403
+2018,Jamaica,Latin America & the Caribbean,7.94,7.67,123404
+2018,Japan,East Asia,8.75,7.98,123405
+2018,Jordan,Middle East & North Africa,6.7,7.52,123406
+2018,Kazakhstan,Caucasus & Central Asia,6.56,7.42,123407
+2018,Kenya,Sub-Saharan Africa,6.62,7.06,123408
+2018,"Korea, Rep.",East Asia,8.36,7.69,123409
+2018,Kuwait,Middle East & North Africa,6.14,6.68,123410
+2018,Kyrgyz Republic,Caucasus & Central Asia,7.14,7.16,123411
+2018,Lao PDR,South Asia,5.61,6.67,123412
+2018,Latvia,Eastern Europe,8.6,7.93,123413
+2018,Lebanon,Middle East & North Africa,6.77,7.03,123414
+2018,Lesotho,Sub-Saharan Africa,6.98,6.52,123415
+2018,Liberia,Sub-Saharan Africa,6.63,6.11,123416
+2018,Libya,Middle East & North Africa,4.82,4.46,123417
+2018,Lithuania,Eastern Europe,8.68,8.13,123418
+2018,Luxembourg,Western Europe,8.86,7.89,123419
+2018,Madagascar,Sub-Saharan Africa,6.87,6.29,123420
+2018,Malawi,Sub-Saharan Africa,7.05,5.94,123421
+2018,Malaysia,South Asia,7.01,7.48,123422
+2018,Mali,Sub-Saharan Africa,6.18,5.85,123423
+2018,Malta,Western Europe,8.43,8.01,123424
+2018,Mauritania,Sub-Saharan Africa,5.3,6.33,123425
+2018,Mauritius,Sub-Saharan Africa,8.05,8.26,123426
+2018,Mexico,Latin America & the Caribbean,6.81,7.17,123427
+2018,Moldova,Eastern Europe,7.47,7.25,123428
+2018,Mongolia,East Asia,8.03,7.56,123429
+2018,Montenegro,Eastern Europe,7.82,7.45,123430
+2018,Morocco,Middle East & North Africa,5.77,6.78,123431
+2018,Mozambique,Sub-Saharan Africa,6.82,6.42,123432
+2018,Myanmar,South Asia,5.43,5.54,123433
+2018,Namibia,Sub-Saharan Africa,7.66,6.83,123434
+2018,Nepal,South Asia,6.98,6.69,123435
+2018,Netherlands,Western Europe,8.79,7.92,123436
+2018,New Zealand,Oceania,9.14,8.55,123437
+2018,Nicaragua,Latin America & the Caribbean,6.21,7.1,123438
+2018,Niger,Sub-Saharan Africa,6.2,5.53,123439
+2018,Nigeria,Sub-Saharan Africa,6.12,6.99,123440
+2018,North Macedonia,Eastern Europe,7.48,7.23,123441
+2018,Norway,Western Europe,8.85,7.79,123442
+2018,Oman,Middle East & North Africa,5.72,6.7,123443
+2018,Pakistan,South Asia,5.47,6.11,123444
+2018,Panama,Latin America & the Caribbean,8.07,7.76,123445
+2018,Papua New Guinea,Oceania,7.12,5.9,123446
+2018,Paraguay,Latin America & the Caribbean,7.46,7.22,123447
+2018,Peru,Latin America & the Caribbean,7.82,7.77,123448
+2018,Philippines,South Asia,6.71,7.29,123449
+2018,Poland,Eastern Europe,7.92,7.11,123450
+2018,Portugal,Western Europe,8.68,7.66,123451
+2018,Qatar,Middle East & North Africa,5.91,7.04,123452
+2018,Romania,Eastern Europe,8.2,7.85,123453
+2018,Russian Federation,Eastern Europe,6.16,6.85,123454
+2018,Rwanda,Sub-Saharan Africa,6.31,7.24,123455
+2018,Saudi Arabia,Middle East & North Africa,4.55,6.34,123456
+2018,Senegal,Sub-Saharan Africa,6.91,6.28,123457
+2018,Serbia,Eastern Europe,7.49,7.13,123458
+2018,Seychelles,Sub-Saharan Africa,7.91,7.63,123459
+2018,Sierra Leone,Sub-Saharan Africa,6.39,5.6,123460
+2018,Singapore,South Asia,7.84,8.82,123461
+2018,Slovak Republic,Eastern Europe,8.16,7.62,123462
+2018,Slovenia,Eastern Europe,8.35,7.4,123463
+2018,South Africa,Sub-Saharan Africa,7.28,6.8,123464
+2018,Spain,Western Europe,8.46,7.85,123465
+2018,Sri Lanka,South Asia,6.86,6.83,123466
+2018,Sudan,Sub-Saharan Africa,3.46,3.72,123467
+2018,Suriname,Latin America & the Caribbean,7.53,6.04,123468
+2018,Sweden,Western Europe,8.86,7.73,123469
+2018,Switzerland,Western Europe,9.19,8.55,123470
+2018,Syrian Arab Republic,Middle East & North Africa,3.45,5.02,123471
+2018,Taiwan,East Asia,8.78,8.05,123472
+2018,Tajikistan,Caucasus & Central Asia,5.38,6.25,123473
+2018,Tanzania,Sub-Saharan Africa,6.39,6.65,123474
+2018,Thailand,South Asia,6.39,6.86,123475
+2018,Timor-Leste,South Asia,7.38,6,123476
+2018,Togo,Sub-Saharan Africa,6.31,6.07,123477
+2018,Trinidad and Tobago,Latin America & the Caribbean,7.82,7.26,123478
+2018,Tunisia,Middle East & North Africa,6.37,6.09,123479
+2018,Turkey,Middle East & North Africa,5.72,6.66,123480
+2018,Uganda,Sub-Saharan Africa,6.26,7.42,123481
+2018,Ukraine,Eastern Europe,6.69,6.16,123482
+2018,United Arab Emirates,Middle East & North Africa,5.85,7.09,123483
+2018,United Kingdom,Western Europe,8.83,8.17,123484
+2018,United States of America,North America,8.8,8.28,123485
+2018,Uruguay,Latin America & the Caribbean,8.38,7.36,123486
+2018,"Venezuela, RB",Latin America & the Caribbean,4.15,3.36,123487
+2018,Vietnam,South Asia,5.73,6.36,123488
+2018,"Yemen, Rep.",Middle East & North Africa,3.94,5.53,123489
+2018,Zambia,Sub-Saharan Africa,6.8,7.02,123490
+2018,Zimbabwe,Sub-Saharan Africa,5.82,5.73,123491
+2017,Albania,Eastern Europe,8.09,7.77,123492
+2017,Algeria,Middle East & North Africa,5.01,4.76,123493
+2017,Angola,Sub-Saharan Africa,5.37,4.86,123494
+2017,Argentina,Latin America & the Caribbean,7.56,5.93,123495
+2017,Armenia,Caucasus & Central Asia,7.77,7.69,123496
+2017,Australia,Oceania,8.96,8.25,123497
+2017,Austria,Western Europe,8.76,7.85,123498
+2017,Azerbaijan,Caucasus & Central Asia,5.99,6.35,123499
+2017,"Bahamas, The",Latin America & the Caribbean,8.09,7.28,123500
+2017,Bahrain,Middle East & North Africa,5.13,7.22,123501
+2017,Bangladesh,South Asia,5.65,6.06,123502
+2017,Barbados,Latin America & the Caribbean,7.73,6.35,123503
+2017,Belarus,Eastern Europe,6.32,6.47,123504
+2017,Belgium,Western Europe,8.55,7.61,123505
+2017,Belize,Latin America & the Caribbean,7.31,6.33,123506
+2017,Benin,Sub-Saharan Africa,7.37,6.33,123507
+2017,Bhutan,South Asia,6.53,6.45,123508
+2017,Bolivia,Latin America & the Caribbean,7.06,6.37,123509
+2017,Bosnia and Herzegovina,Eastern Europe,7.49,6.9,123510
+2017,Botswana,Sub-Saharan Africa,7.51,7.44,123511
+2017,Brazil,Latin America & the Caribbean,7.41,6.65,123512
+2017,Brunei Darussalam,South Asia,5.95,7.28,123513
+2017,Bulgaria,Eastern Europe,8.15,7.9,123514
+2017,Burkina Faso,Sub-Saharan Africa,7.13,6.03,123515
+2017,Burundi,Sub-Saharan Africa,4.82,5.84,123516
+2017,Cabo Verde,Sub-Saharan Africa,8.24,7.3,123517
+2017,Cambodia,South Asia,6.48,7.28,123518
+2017,Cameroon,Sub-Saharan Africa,5.42,5.65,123519
+2017,Canada,North America,8.9,8.22,123520
+2017,Central African Republic,Sub-Saharan Africa,5.77,5.23,123521
+2017,Chad,Sub-Saharan Africa,5.36,5.46,123522
+2017,Chile,Latin America & the Caribbean,8.69,7.95,123523
+2017,China,East Asia,5.38,6.26,123524
+2017,Colombia,Latin America & the Caribbean,7.05,6.74,123525
+2017,"Congo, Dem. Rep.",Sub-Saharan Africa,5.03,4.96,123526
+2017,"Congo, Rep.",Sub-Saharan Africa,5.38,5.1,123527
+2017,Costa Rica,Latin America & the Caribbean,8.33,7.72,123528
+2017,Cote d'Ivoire,Sub-Saharan Africa,6.75,6.06,123529
+2017,Croatia,Eastern Europe,8.21,7.48,123530
+2017,Cyprus,Eastern Europe,8.5,7.85,123531
+2017,Czech Republic,Eastern Europe,8.69,8.02,123532
+2017,Denmark,Western Europe,9,8.14,123533
+2017,Dominican Republic,Latin America & the Caribbean,7.79,7.46,123534
+2017,Ecuador,Latin America & the Caribbean,7.12,6.5,123535
+2017,"Egypt, Arab Rep.",Middle East & North Africa,4.02,5,123536
+2017,El Salvador,Latin America & the Caribbean,7.41,7.29,123537
+2017,Estonia,Eastern Europe,8.92,8.03,123538
+2017,Eswatini,Sub-Saharan Africa,5.58,6.05,123539
+2017,Ethiopia,Sub-Saharan Africa,5.03,5.66,123540
+2017,Fiji,Oceania,7.33,6.41,123541
+2017,Finland,Western Europe,8.87,7.87,123542
+2017,France,Western Europe,8.37,7.6,123543
+2017,Gabon,Sub-Saharan Africa,6.67,5.57,123544
+2017,"Gambia, The",Sub-Saharan Africa,6.63,7.16,123545
+2017,Georgia,Caucasus & Central Asia,8.07,8.19,123546
+2017,Germany,Western Europe,8.76,7.97,123547
+2017,Ghana,Sub-Saharan Africa,7.54,6.67,123548
+2017,Greece,Eastern Europe,7.65,6.7,123549
+2017,Guatemala,Latin America & the Caribbean,7.45,7.69,123550
+2017,Guinea,Sub-Saharan Africa,5.68,5.5,123551
+2017,Guinea-Bissau,Sub-Saharan Africa,6.56,5.37,123552
+2017,Guyana,Latin America & the Caribbean,7.15,5.96,123553
+2017,Haiti,Latin America & the Caribbean,7.09,6.43,123554
+2017,Honduras,Latin America & the Caribbean,6.85,7.19,123555
+2017,"Hong Kong SAR, China",East Asia,8.65,8.96,123556
+2017,Hungary,Eastern Europe,7.74,7.55,123557
+2017,Iceland,Western Europe,8.85,7.9,123558
+2017,India,South Asia,6.63,6.75,123559
+2017,Indonesia,South Asia,7.15,7.28,123560
+2017,"Iran, Islamic Rep.",Middle East & North Africa,4.68,5.74,123561
+2017,Iraq,Middle East & North Africa,4.92,5.39,123562
+2017,Ireland,Western Europe,8.93,8.12,123563
+2017,Israel,Middle East & North Africa,7.63,7.66,123564
+2017,Italy,Western Europe,8.43,7.61,123565
+2017,Jamaica,Latin America & the Caribbean,7.96,7.71,123566
+2017,Japan,East Asia,8.72,7.97,123567
+2017,Jordan,Middle East & North Africa,6.64,7.44,123568
+2017,Kazakhstan,Caucasus & Central Asia,6.47,7.28,123569
+2017,Kenya,Sub-Saharan Africa,6.58,6.92,123570
+2017,"Korea, Rep.",East Asia,8.39,7.76,123571
+2017,Kuwait,Middle East & North Africa,6.08,6.57,123572
+2017,Kyrgyz Republic,Caucasus & Central Asia,6.94,7.16,123573
+2017,Lao PDR,South Asia,5.55,6.59,123574
+2017,Latvia,Eastern Europe,8.6,8,123575
+2017,Lebanon,Middle East & North Africa,6.76,7.05,123576
+2017,Lesotho,Sub-Saharan Africa,7.02,6.69,123577
+2017,Liberia,Sub-Saharan Africa,6.81,6.48,123578
+2017,Libya,Middle East & North Africa,4.75,4.27,123579
+2017,Lithuania,Eastern Europe,8.63,8.04,123580
+2017,Luxembourg,Western Europe,8.85,7.87,123581
+2017,Madagascar,Sub-Saharan Africa,6.67,5.9,123582
+2017,Malawi,Sub-Saharan Africa,7.13,6.11,123583
+2017,Malaysia,South Asia,6.62,7.36,123584
+2017,Mali,Sub-Saharan Africa,6.05,5.71,123585
+2017,Malta,Western Europe,8.4,8.02,123586
+2017,Mauritania,Sub-Saharan Africa,5.24,6.3,123587
+2017,Mauritius,Sub-Saharan Africa,7.95,8.05,123588
+2017,Mexico,Latin America & the Caribbean,6.81,7.12,123589
+2017,Moldova,Eastern Europe,7.36,7.03,123590
+2017,Mongolia,East Asia,7.99,7.49,123591
+2017,Montenegro,Eastern Europe,7.76,7.14,123592
+2017,Morocco,Middle East & North Africa,5.71,6.64,123593
+2017,Mozambique,Sub-Saharan Africa,6.64,5.83,123594
+2017,Myanmar,South Asia,5.37,5.52,123595
+2017,Namibia,Sub-Saharan Africa,7.64,6.75,123596
+2017,Nepal,South Asia,7.05,6.6,123597
+2017,Netherlands,Western Europe,8.78,7.92,123598
+2017,New Zealand,Oceania,9.15,8.61,123599
+2017,Nicaragua,Latin America & the Caribbean,6.89,7.09,123600
+2017,Niger,Sub-Saharan Africa,6.27,5.79,123601
+2017,Nigeria,Sub-Saharan Africa,6.06,6.88,123602
+2017,North Macedonia,Eastern Europe,7.56,7.15,123603
+2017,Norway,Western Europe,8.88,7.87,123604
+2017,Oman,Middle East & North Africa,5.75,6.77,123605
+2017,Pakistan,South Asia,5.45,5.97,123606
+2017,Panama,Latin America & the Caribbean,8.1,7.81,123607
+2017,Papua New Guinea,Oceania,7.18,6.13,123608
+2017,Paraguay,Latin America & the Caribbean,7.4,7.14,123609
+2017,Peru,Latin America & the Caribbean,7.76,7.74,123610
+2017,Philippines,South Asia,6.75,7.31,123611
+2017,Poland,Eastern Europe,7.99,7.24,123612
+2017,Portugal,Western Europe,8.69,7.65,123613
+2017,Qatar,Middle East & North Africa,5.89,7.09,123614
+2017,Romania,Eastern Europe,8.27,7.92,123615
+2017,Russian Federation,Eastern Europe,6.12,6.81,123616
+2017,Rwanda,Sub-Saharan Africa,6.25,7.12,123617
+2017,Saudi Arabia,Middle East & North Africa,4.56,6.32,123618
+2017,Senegal,Sub-Saharan Africa,6.9,6.25,123619
+2017,Serbia,Eastern Europe,7.54,7.03,123620
+2017,Seychelles,Sub-Saharan Africa,7.86,7.48,123621
+2017,Sierra Leone,Sub-Saharan Africa,6.43,5.73,123622
+2017,Singapore,South Asia,7.86,8.82,123623
+2017,Slovak Republic,Eastern Europe,8.25,7.61,123624
+2017,Slovenia,Eastern Europe,8.33,7.4,123625
+2017,South Africa,Sub-Saharan Africa,7.24,6.74,123626
+2017,Spain,Western Europe,8.4,7.77,123627
+2017,Sri Lanka,South Asia,6.73,6.68,123628
+2017,Sudan,Sub-Saharan Africa,3.61,4.09,123629
+2017,Suriname,Latin America & the Caribbean,7.57,6.04,123630
+2017,Sweden,Western Europe,8.89,7.85,123631
+2017,Switzerland,Western Europe,9.2,8.57,123632
+2017,Syrian Arab Republic,Middle East & North Africa,3.15,4.53,123633
+2017,Taiwan,East Asia,8.75,7.98,123634
+2017,Tajikistan,Caucasus & Central Asia,5.34,5.99,123635
+2017,Tanzania,Sub-Saharan Africa,6.45,6.68,123636
+2017,Thailand,South Asia,6.33,6.78,123637
+2017,Timor-Leste,South Asia,7.45,6.27,123638
+2017,Togo,Sub-Saharan Africa,6.36,6.14,123639
+2017,Trinidad and Tobago,Latin America & the Caribbean,7.57,7.18,123640
+2017,Tunisia,Middle East & North Africa,6.43,6.13,123641
+2017,Turkey,Middle East & North Africa,5.65,6.7,123642
+2017,Uganda,Sub-Saharan Africa,6.29,7.43,123643
+2017,Ukraine,Eastern Europe,6.68,5.95,123644
+2017,United Arab Emirates,Middle East & North Africa,5.8,7.02,123645
+2017,United Kingdom,Western Europe,8.87,8.3,123646
+2017,United States of America,North America,8.83,8.38,123647
+2017,Uruguay,Latin America & the Caribbean,8.42,7.38,123648
+2017,"Venezuela, RB",Latin America & the Caribbean,3.97,2.72,123649
+2017,Vietnam,South Asia,5.67,6.22,123650
+2017,"Yemen, Rep.",Middle East & North Africa,4.17,6.05,123651
+2017,Zambia,Sub-Saharan Africa,6.76,7.05,123652
+2017,Zimbabwe,Sub-Saharan Africa,5.72,5.46,123653
+2016,Albania,Eastern Europe,8.04,7.75,123654
+2016,Algeria,Middle East & North Africa,5.09,5.04,123655
+2016,Angola,Sub-Saharan Africa,5.62,5.39,123656
+2016,Argentina,Latin America & the Caribbean,7.35,5.62,123657
+2016,Armenia,Caucasus & Central Asia,7.76,7.67,123658
+2016,Australia,Oceania,8.96,8.25,123659
+2016,Austria,Western Europe,8.8,7.83,123660
+2016,Azerbaijan,Caucasus & Central Asia,5.88,6.46,123661
+2016,"Bahamas, The",Latin America & the Caribbean,7.73,7.51,123662
+2016,Bahrain,Middle East & North Africa,5.12,7.14,123663
+2016,Bangladesh,South Asia,5.72,6.1,123664
+2016,Barbados,Latin America & the Caribbean,7.86,6.74,123665
+2016,Belarus,Eastern Europe,6.15,6.08,123666
+2016,Belgium,Western Europe,8.45,7.59,123667
+2016,Belize,Latin America & the Caribbean,7.36,6.46,123668
+2016,Benin,Sub-Saharan Africa,7.18,6.19,123669
+2016,Bhutan,South Asia,6.61,6.89,123670
+2016,Bolivia,Latin America & the Caribbean,6.96,6.3,123671
+2016,Bosnia and Herzegovina,Eastern Europe,7.42,6.85,123672
+2016,Botswana,Sub-Saharan Africa,7.58,7.41,123673
+2016,Brazil,Latin America & the Caribbean,7.24,6.44,123674
+2016,Brunei Darussalam,South Asia,5.91,7.18,123675
+2016,Bulgaria,Eastern Europe,8.1,7.86,123676
+2016,Burkina Faso,Sub-Saharan Africa,7.1,6.1,123677
+2016,Burundi,Sub-Saharan Africa,4.87,6.26,123678
+2016,Cabo Verde,Sub-Saharan Africa,8.11,7.25,123679
+2016,Cambodia,South Asia,6.7,7.31,123680
+2016,Cameroon,Sub-Saharan Africa,5.44,5.65,123681
+2016,Canada,North America,8.93,8.27,123682
+2016,Central African Republic,Sub-Saharan Africa,5.68,5.24,123683
+2016,Chad,Sub-Saharan Africa,5.44,5.34,123684
+2016,Chile,Latin America & the Caribbean,8.55,7.92,123685
+2016,China,East Asia,5.27,6.25,123686
+2016,Colombia,Latin America & the Caribbean,7.03,6.74,123687
+2016,"Congo, Dem. Rep.",Sub-Saharan Africa,5.18,5.66,123688
+2016,"Congo, Rep.",Sub-Saharan Africa,5.27,5.08,123689
+2016,Costa Rica,Latin America & the Caribbean,8.44,7.76,123690
+2016,Cote d'Ivoire,Sub-Saharan Africa,6.72,6.1,123691
+2016,Croatia,Eastern Europe,8.17,7.38,123692
+2016,Cyprus,Eastern Europe,8.56,7.85,123693
+2016,Czech Republic,Eastern Europe,8.75,8.01,123694
+2016,Denmark,Western Europe,9.03,8.1,123695
+2016,Dominican Republic,Latin America & the Caribbean,7.61,7.5,123696
+2016,Ecuador,Latin America & the Caribbean,6.95,6.42,123697
+2016,"Egypt, Arab Rep.",Middle East & North Africa,4.11,5.19,123698
+2016,El Salvador,Latin America & the Caribbean,7.51,7.32,123699
+2016,Estonia,Eastern Europe,8.93,8.1,123700
+2016,Eswatini,Sub-Saharan Africa,5.62,6.16,123701
+2016,Ethiopia,Sub-Saharan Africa,4.85,5.51,123702
+2016,Fiji,Oceania,7.19,6.48,123703
+2016,Finland,Western Europe,8.85,7.82,123704
+2016,France,Western Europe,8.35,7.6,123705
+2016,Gabon,Sub-Saharan Africa,6.8,5.7,123706
+2016,"Gambia, The",Sub-Saharan Africa,5.62,7.28,123707
+2016,Georgia,Caucasus & Central Asia,8,8.16,123708
+2016,Germany,Western Europe,8.76,8,123709
+2016,Ghana,Sub-Saharan Africa,7.56,6.57,123710
+2016,Greece,Eastern Europe,7.57,6.71,123711
+2016,Guatemala,Latin America & the Caribbean,7.44,7.76,123712
+2016,Guinea,Sub-Saharan Africa,5.91,5.83,123713
+2016,Guinea-Bissau,Sub-Saharan Africa,6.58,5.33,123714
+2016,Guyana,Latin America & the Caribbean,7.24,6.31,123715
+2016,Haiti,Latin America & the Caribbean,7.14,6.53,123716
+2016,Honduras,Latin America & the Caribbean,6.82,7.19,123717
+2016,"Hong Kong SAR, China",East Asia,8.6,8.97,123718
+2016,Hungary,Eastern Europe,7.93,7.61,123719
+2016,Iceland,Western Europe,8.86,7.86,123720
+2016,India,South Asia,6.7,6.58,123721
+2016,Indonesia,South Asia,7.26,7.26,123722
+2016,"Iran, Islamic Rep.",Middle East & North Africa,4.59,5.58,123723
+2016,Iraq,Middle East & North Africa,5.04,5.73,123724
+2016,Ireland,Western Europe,8.95,8.23,123725
+2016,Israel,Middle East & North Africa,7.63,7.64,123726
+2016,Italy,Western Europe,8.43,7.64,123727
+2016,Jamaica,Latin America & the Caribbean,7.97,7.74,123728
+2016,Japan,East Asia,8.69,7.95,123729
+2016,Jordan,Middle East & North Africa,6.57,7.47,123730
+2016,Kazakhstan,Caucasus & Central Asia,6.4,7.09,123731
+2016,Kenya,Sub-Saharan Africa,6.75,7.02,123732
+2016,"Korea, Rep.",East Asia,8.16,7.7,123733
+2016,Kuwait,Middle East & North Africa,6.15,6.78,123734
+2016,Kyrgyz Republic,Caucasus & Central Asia,6.86,7.17,123735
+2016,Lao PDR,South Asia,5.42,6.49,123736
+2016,Latvia,Eastern Europe,8.62,8.02,123737
+2016,Lebanon,Middle East & North Africa,6.73,7.15,123738
+2016,Lesotho,Sub-Saharan Africa,6.99,6.6,123739
+2016,Liberia,Sub-Saharan Africa,6.88,6.65,123740
+2016,Libya,Middle East & North Africa,4.96,5.04,123741
+2016,Lithuania,Eastern Europe,8.65,8.06,123742
+2016,Luxembourg,Western Europe,8.83,7.82,123743
+2016,Madagascar,Sub-Saharan Africa,6.83,6.24,123744
+2016,Malawi,Sub-Saharan Africa,7.05,6,123745
+2016,Malaysia,South Asia,6.46,7.3,123746
+2016,Mali,Sub-Saharan Africa,6.18,5.83,123747
+2016,Malta,Western Europe,8.65,8.01,123748
+2016,Mauritania,Sub-Saharan Africa,5.53,6.33,123749
+2016,Mauritius,Sub-Saharan Africa,7.9,8.05,123750
+2016,Mexico,Latin America & the Caribbean,6.81,7.07,123751
+2016,Moldova,Eastern Europe,7.21,6.99,123752
+2016,Mongolia,East Asia,7.87,7.18,123753
+2016,Montenegro,Eastern Europe,7.97,7.31,123754
+2016,Morocco,Middle East & North Africa,5.79,6.59,123755
+2016,Mozambique,Sub-Saharan Africa,6.72,5.62,123756
+2016,Myanmar,South Asia,5.44,5.75,123757
+2016,Namibia,Sub-Saharan Africa,7.57,6.79,123758
+2016,Nepal,South Asia,7.03,6.65,123759
+2016,Netherlands,Western Europe,8.81,7.95,123760
+2016,New Zealand,Oceania,9.18,8.66,123761
+2016,Nicaragua,Latin America & the Caribbean,6.98,7.21,123762
+2016,Niger,Sub-Saharan Africa,6.41,5.9,123763
+2016,Nigeria,Sub-Saharan Africa,5.97,6.89,123764
+2016,North Macedonia,Eastern Europe,7.33,7.26,123765
+2016,Norway,Western Europe,8.85,7.84,123766
+2016,Oman,Middle East & North Africa,5.8,6.73,123767
+2016,Pakistan,South Asia,5.44,6,123768
+2016,Panama,Latin America & the Caribbean,8.15,7.78,123769
+2016,Papua New Guinea,Oceania,7.06,5.9,123770
+2016,Paraguay,Latin America & the Caribbean,7.42,7.06,123771
+2016,Peru,Latin America & the Caribbean,7.56,7.71,123772
+2016,Philippines,South Asia,6.95,7.37,123773
+2016,Poland,Eastern Europe,8.11,7.23,123774
+2016,Portugal,Western Europe,8.69,7.64,123775
+2016,Qatar,Middle East & North Africa,5.98,7.13,123776
+2016,Romania,Eastern Europe,8.38,7.98,123777
+2016,Russian Federation,Eastern Europe,6.13,6.71,123778
+2016,Rwanda,Sub-Saharan Africa,6.19,7.11,123779
+2016,Saudi Arabia,Middle East & North Africa,4.5,6.37,123780
+2016,Senegal,Sub-Saharan Africa,6.88,6.08,123781
+2016,Serbia,Eastern Europe,7.51,6.99,123782
+2016,Seychelles,Sub-Saharan Africa,7.72,7.57,123783
+2016,Sierra Leone,Sub-Saharan Africa,6.55,5.77,123784
+2016,Singapore,South Asia,7.78,8.8,123785
+2016,Slovak Republic,Eastern Europe,8.37,7.62,123786
+2016,Slovenia,Eastern Europe,8.31,7.33,123787
+2016,South Africa,Sub-Saharan Africa,7.29,6.74,123788
+2016,Spain,Western Europe,8.55,7.83,123789
+2016,Sri Lanka,South Asia,6.83,6.76,123790
+2016,Sudan,Sub-Saharan Africa,3.7,4.56,123791
+2016,Suriname,Latin America & the Caribbean,7.32,5.73,123792
+2016,Sweden,Western Europe,8.92,7.87,123793
+2016,Switzerland,Western Europe,9.14,8.55,123794
+2016,Syrian Arab Republic,Middle East & North Africa,3.15,4.61,123795
+2016,Taiwan,East Asia,8.77,7.94,123796
+2016,Tajikistan,Caucasus & Central Asia,5.36,6.13,123797
+2016,Tanzania,Sub-Saharan Africa,6.69,6.69,123798
+2016,Thailand,South Asia,6.33,6.81,123799
+2016,Timor-Leste,South Asia,7.23,6.48,123800
+2016,Togo,Sub-Saharan Africa,6.48,5.93,123801
+2016,Trinidad and Tobago,Latin America & the Caribbean,7.55,7.19,123802
+2016,Tunisia,Middle East & North Africa,6.41,6.2,123803
+2016,Turkey,Middle East & North Africa,6.03,6.97,123804
+2016,Uganda,Sub-Saharan Africa,6.33,7.33,123805
+2016,Ukraine,Eastern Europe,6.69,5.92,123806
+2016,United Arab Emirates,Middle East & North Africa,5.95,7.17,123807
+2016,United Kingdom,Western Europe,8.93,8.26,123808
+2016,United States of America,North America,8.86,8.34,123809
+2016,Uruguay,Latin America & the Caribbean,8.28,7.3,123810
+2016,"Venezuela, RB",Latin America & the Caribbean,4.14,2.75,123811
+2016,Vietnam,South Asia,5.67,6.15,123812
+2016,"Yemen, Rep.",Middle East & North Africa,4.31,6.18,123813
+2016,Zambia,Sub-Saharan Africa,6.8,6.98,123814
+2016,Zimbabwe,Sub-Saharan Africa,5.86,5.97,123815
+2015,Albania,Eastern Europe,8.03,7.74,123816
+2015,Algeria,Middle East & North Africa,5.03,4.79,123817
+2015,Angola,Sub-Saharan Africa,5.72,5.69,123818
+2015,Argentina,Latin America & the Caribbean,7.17,5.26,123819
+2015,Armenia,Caucasus & Central Asia,7.68,7.73,123820
+2015,Australia,Oceania,8.94,8.2,123821
+2015,Austria,Western Europe,8.75,7.88,123822
+2015,Azerbaijan,Caucasus & Central Asia,5.84,6.29,123823
+2015,"Bahamas, The",Latin America & the Caribbean,7.69,7.55,123824
+2015,Bahrain,Middle East & North Africa,5.11,7.23,123825
+2015,Bangladesh,South Asia,5.76,6.13,123826
+2015,Barbados,Latin America & the Caribbean,7.82,6.73,123827
+2015,Belgium,Western Europe,8.58,7.68,123828
+2015,Belize,Latin America & the Caribbean,7.39,6.46,123829
+2015,Benin,Sub-Saharan Africa,7.01,5.88,123830
+2015,Bhutan,South Asia,6.79,6.97,123831
+2015,Bolivia,Latin America & the Caribbean,7.06,6.16,123832
+2015,Bosnia and Herzegovina,Eastern Europe,7.42,6.89,123833
+2015,Botswana,Sub-Saharan Africa,7.51,7.42,123834
+2015,Brazil,Latin America & the Caribbean,7.26,6.25,123835
+2015,Brunei Darussalam,South Asia,5.42,6.78,123836
+2015,Bulgaria,Eastern Europe,8.03,7.64,123837
+2015,Burkina Faso,Sub-Saharan Africa,7.12,6.01,123838
+2015,Burundi,Sub-Saharan Africa,4.83,6.08,123839
+2015,Cabo Verde,Sub-Saharan Africa,8.13,7.2,123840
+2015,Cambodia,South Asia,6.71,7.12,123841
+2015,Cameroon,Sub-Saharan Africa,5.62,5.69,123842
+2015,Canada,North America,8.93,8.22,123843
+2015,Central African Republic,Sub-Saharan Africa,5,4.81,123844
+2015,Chad,Sub-Saharan Africa,5.39,5.22,123845
+2015,Chile,Latin America & the Caribbean,8.55,7.92,123846
+2015,China,East Asia,5.26,6.23,123847
+2015,Colombia,Latin America & the Caribbean,6.9,6.68,123848
+2015,"Congo, Dem. Rep.",Sub-Saharan Africa,5.35,5.57,123849
+2015,"Congo, Rep.",Sub-Saharan Africa,5.16,4.6,123850
+2015,Costa Rica,Latin America & the Caribbean,8.44,7.73,123851
+2015,Cote d'Ivoire,Sub-Saharan Africa,6.56,5.87,123852
+2015,Croatia,Eastern Europe,8.24,7.42,123853
+2015,Cyprus,Eastern Europe,8.34,7.84,123854
+2015,Czech Republic,Eastern Europe,8.61,7.96,123855
+2015,Denmark,Western Europe,9.02,8.08,123856
+2015,Dominican Republic,Latin America & the Caribbean,7.53,7.53,123857
+2015,Ecuador,Latin America & the Caribbean,6.94,6.45,123858
+2015,"Egypt, Arab Rep.",Middle East & North Africa,4.11,5.29,123859
+2015,El Salvador,Latin America & the Caribbean,7.32,7.31,123860
+2015,Estonia,Eastern Europe,8.92,8.16,123861
+2015,Eswatini,Sub-Saharan Africa,5.6,6.17,123862
+2015,Ethiopia,Sub-Saharan Africa,4.85,5.29,123863
+2015,Fiji,Oceania,7.21,6.6,123864
+2015,Finland,Western Europe,8.86,7.85,123865
+2015,France,Western Europe,8.39,7.69,123866
+2015,Gabon,Sub-Saharan Africa,6.59,5.58,123867
+2015,"Gambia, The",Sub-Saharan Africa,5.58,7.22,123868
+2015,Georgia,Caucasus & Central Asia,7.89,8.16,123869
+2015,Germany,Western Europe,8.78,8.01,123870
+2015,Ghana,Sub-Saharan Africa,7.5,6.44,123871
+2015,Greece,Eastern Europe,7.61,6.7,123872
+2015,Guatemala,Latin America & the Caribbean,7.42,7.79,123873
+2015,Guinea,Sub-Saharan Africa,5.67,5.26,123874
+2015,Guinea-Bissau,Sub-Saharan Africa,6.41,5.07,123875
+2015,Guyana,Latin America & the Caribbean,7.58,6.8,123876
+2015,Haiti,Latin America & the Caribbean,7.15,6.75,123877
+2015,Honduras,Latin America & the Caribbean,6.87,7.29,123878
+2015,"Hong Kong SAR, China",East Asia,8.63,8.97,123879
+2015,Hungary,Eastern Europe,7.89,7.48,123880
+2015,Iceland,Western Europe,8.66,7.38,123881
+2015,India,South Asia,6.58,6.51,123882
+2015,Indonesia,South Asia,7.21,7.12,123883
+2015,"Iran, Islamic Rep.",Middle East & North Africa,4.54,5.48,123884
+2015,Ireland,Western Europe,9.02,8.36,123885
+2015,Israel,Middle East & North Africa,7.63,7.61,123886
+2015,Italy,Western Europe,8.44,7.7,123887
+2015,Jamaica,Latin America & the Caribbean,7.98,7.77,123888
+2015,Japan,East Asia,8.69,7.92,123889
+2015,Jordan,Middle East & North Africa,6.67,7.49,123890
+2015,Kazakhstan,Caucasus & Central Asia,6.5,7.2,123891
+2015,Kenya,Sub-Saharan Africa,6.74,7.15,123892
+2015,"Korea, Rep.",East Asia,8.15,7.66,123893
+2015,Kuwait,Middle East & North Africa,5.96,6.59,123894
+2015,Kyrgyz Republic,Caucasus & Central Asia,6.72,6.98,123895
+2015,Lao PDR,South Asia,5.27,6.45,123896
+2015,Latvia,Eastern Europe,8.64,8.12,123897
+2015,Lebanon,Middle East & North Africa,6.59,7.11,123898
+2015,Lesotho,Sub-Saharan Africa,7.15,6.75,123899
+2015,Liberia,Sub-Saharan Africa,6.9,6.69,123900
+2015,Libya,Middle East & North Africa,4.94,5.14,123901
+2015,Lithuania,Eastern Europe,8.63,8.02,123902
+2015,Luxembourg,Western Europe,8.84,7.84,123903
+2015,Madagascar,Sub-Saharan Africa,6.76,6.37,123904
+2015,Malawi,Sub-Saharan Africa,6.99,5.78,123905
+2015,Malaysia,South Asia,6.57,7.51,123906
+2015,Mali,Sub-Saharan Africa,5.98,5.85,123907
+2015,Malta,Western Europe,8.64,7.98,123908
+2015,Mauritania,Sub-Saharan Africa,5.3,5.9,123909
+2015,Mauritius,Sub-Saharan Africa,7.81,8.06,123910
+2015,Mexico,Latin America & the Caribbean,6.88,7.15,123911
+2015,Moldova,Eastern Europe,7.23,6.94,123912
+2015,Mongolia,East Asia,7.88,7.38,123913
+2015,Montenegro,Eastern Europe,7.85,7.05,123914
+2015,Morocco,Middle East & North Africa,5.96,6.55,123915
+2015,Mozambique,Sub-Saharan Africa,6.8,5.51,123916
+2015,Myanmar,South Asia,5.27,5.53,123917
+2015,Namibia,Sub-Saharan Africa,7.52,6.67,123918
+2015,Nepal,South Asia,7.02,6.59,123919
+2015,Netherlands,Western Europe,8.82,7.98,123920
+2015,New Zealand,Oceania,9.17,8.63,123921
+2015,Nicaragua,Latin America & the Caribbean,7.12,7.22,123922
+2015,Niger,Sub-Saharan Africa,6.26,5.69,123923
+2015,Nigeria,Sub-Saharan Africa,6.09,6.65,123924
+2015,North Macedonia,Eastern Europe,7.39,7.3,123925
+2015,Norway,Western Europe,8.67,7.4,123926
+2015,Oman,Middle East & North Africa,5.74,6.62,123927
+2015,Pakistan,South Asia,5.38,5.87,123928
+2015,Panama,Latin America & the Caribbean,8.08,7.81,123929
+2015,Papua New Guinea,Oceania,7.06,5.89,123930
+2015,Paraguay,Latin America & the Caribbean,7.29,7.01,123931
+2015,Peru,Latin America & the Caribbean,7.57,7.75,123932
+2015,Philippines,South Asia,7.01,7.44,123933
+2015,Poland,Eastern Europe,8.27,7.29,123934
+2015,Portugal,Western Europe,8.71,7.69,123935
+2015,Qatar,Middle East & North Africa,5.97,7.11,123936
+2015,Romania,Eastern Europe,8.34,7.92,123937
+2015,Russian Federation,Eastern Europe,6.06,6.59,123938
+2015,Rwanda,Sub-Saharan Africa,6.37,7.16,123939
+2015,Saudi Arabia,Middle East & North Africa,4.33,6.02,123940
+2015,Senegal,Sub-Saharan Africa,6.84,6,123941
+2015,Serbia,Eastern Europe,7.49,6.94,123942
+2015,Seychelles,Sub-Saharan Africa,7.84,7.55,123943
+2015,Sierra Leone,Sub-Saharan Africa,6.43,5.73,123944
+2015,Singapore,South Asia,7.85,8.79,123945
+2015,Slovak Republic,Eastern Europe,8.36,7.54,123946
+2015,Slovenia,Eastern Europe,8.37,7.32,123947
+2015,South Africa,Sub-Saharan Africa,7.32,6.87,123948
+2015,Spain,Western Europe,8.54,7.8,123949
+2015,Sri Lanka,South Asia,6.74,6.74,123950
+2015,Suriname,Latin America & the Caribbean,7.6,6.37,123951
+2015,Sweden,Western Europe,8.95,7.97,123952
+2015,Switzerland,Western Europe,9.12,8.52,123953
+2015,Syrian Arab Republic,Middle East & North Africa,3.25,4.88,123954
+2015,Taiwan,East Asia,8.76,7.81,123955
+2015,Tajikistan,Caucasus & Central Asia,5.44,6.08,123956
+2015,Tanzania,Sub-Saharan Africa,6.81,6.8,123957
+2015,Thailand,South Asia,6.35,6.8,123958
+2015,Timor-Leste,South Asia,7.2,6.36,123959
+2015,Togo,Sub-Saharan Africa,6.36,5.85,123960
+2015,Trinidad and Tobago,Latin America & the Caribbean,7.43,6.92,123961
+2015,Tunisia,Middle East & North Africa,6.41,6.27,123962
+2015,Turkey,Middle East & North Africa,6.4,6.99,123963
+2015,Uganda,Sub-Saharan Africa,6.3,7.36,123964
+2015,Ukraine,Eastern Europe,6.27,5.39,123965
+2015,United Arab Emirates,Middle East & North Africa,5.89,7.05,123966
+2015,United Kingdom,Western Europe,8.93,8.27,123967
+2015,United States of America,North America,8.9,8.31,123968
+2015,Uruguay,Latin America & the Caribbean,8.27,7.29,123969
+2015,"Venezuela, RB",Latin America & the Caribbean,4.47,2.82,123970
+2015,Vietnam,South Asia,5.59,6.04,123971
+2015,"Yemen, Rep.",Middle East & North Africa,4.24,6.11,123972
+2015,Zambia,Sub-Saharan Africa,6.9,6.97,123973
+2015,Zimbabwe,Sub-Saharan Africa,6.08,6.29,123974
+2014,Albania,Eastern Europe,7.98,7.67,123975
+2014,Algeria,Middle East & North Africa,5.08,5.04,123976
+2014,Angola,Sub-Saharan Africa,5.46,5.07,123977
+2014,Argentina,Latin America & the Caribbean,6.98,4.73,123978
+2014,Armenia,Caucasus & Central Asia,7.7,7.78,123979
+2014,Australia,Oceania,8.96,8.23,123980
+2014,Austria,Western Europe,8.82,7.91,123981
+2014,Azerbaijan,Caucasus & Central Asia,5.77,6.23,123982
+2014,"Bahamas, The",Latin America & the Caribbean,7.97,7.55,123983
+2014,Bahrain,Middle East & North Africa,5.15,7.24,123984
+2014,Bangladesh,South Asia,5.9,6.12,123985
+2014,Barbados,Latin America & the Caribbean,7.86,6.73,123986
+2014,Belgium,Western Europe,8.68,7.85,123987
+2014,Belize,Latin America & the Caribbean,7.39,6.56,123988
+2014,Benin,Sub-Saharan Africa,7.15,6.23,123989
+2014,Bhutan,South Asia,6.7,6.76,123990
+2014,Bolivia,Latin America & the Caribbean,7.12,6.25,123991
+2014,Bosnia and Herzegovina,Eastern Europe,7.5,6.92,123992
+2014,Botswana,Sub-Saharan Africa,7.47,7.34,123993
+2014,Brazil,Latin America & the Caribbean,7.35,6.43,123994
+2014,Brunei Darussalam,South Asia,5.47,6.88,123995
+2014,Bulgaria,Eastern Europe,8.07,7.67,123996
+2014,Burkina Faso,Sub-Saharan Africa,7.07,6.03,123997
+2014,Burundi,Sub-Saharan Africa,5.5,6.04,123998
+2014,Cabo Verde,Sub-Saharan Africa,8.03,7.06,123999
+2014,Cambodia,South Asia,6.79,7.17,124000
+2014,Cameroon,Sub-Saharan Africa,5.91,5.82,124001
+2014,Canada,North America,8.95,8.28,124002
+2014,Central African Republic,Sub-Saharan Africa,4.89,4.92,124003
+2014,Chad,Sub-Saharan Africa,5.52,5.14,124004
+2014,Chile,Latin America & the Caribbean,8.53,7.91,124005
+2014,China,East Asia,5.32,6.21,124006
+2014,Colombia,Latin America & the Caribbean,6.97,6.67,124007
+2014,"Congo, Dem. Rep.",Sub-Saharan Africa,5.35,5.38,124008
+2014,"Congo, Rep.",Sub-Saharan Africa,5.27,4.64,124009
+2014,Costa Rica,Latin America & the Caribbean,8.43,7.64,124010
+2014,Cote d'Ivoire,Sub-Saharan Africa,6.47,5.83,124011
+2014,Croatia,Eastern Europe,8.18,7.32,124012
+2014,Cyprus,Eastern Europe,8.17,7.43,124013
+2014,Czech Republic,Eastern Europe,8.63,7.96,124014
+2014,Denmark,Western Europe,9.04,8.13,124015
+2014,Dominican Republic,Latin America & the Caribbean,7.54,7.52,124016
+2014,Ecuador,Latin America & the Caribbean,6.77,5.99,124017
+2014,"Egypt, Arab Rep.",Middle East & North Africa,4.41,5.56,124018
+2014,El Salvador,Latin America & the Caribbean,7.59,7.43,124019
+2014,Estonia,Eastern Europe,8.86,8.05,124020
+2014,Eswatini,Sub-Saharan Africa,5.63,6.24,124021
+2014,Ethiopia,Sub-Saharan Africa,4.9,5.31,124022
+2014,Fiji,Oceania,7.1,6.79,124023
+2014,Finland,Western Europe,8.93,7.92,124024
+2014,France,Western Europe,8.52,7.72,124025
+2014,Gabon,Sub-Saharan Africa,6.66,5.43,124026
+2014,"Gambia, The",Sub-Saharan Africa,5.57,7.21,124027
+2014,Georgia,Caucasus & Central Asia,7.91,8.29,124028
+2014,Germany,Western Europe,8.76,7.96,124029
+2014,Ghana,Sub-Saharan Africa,7.46,6.34,124030
+2014,Greece,Eastern Europe,7.78,7.17,124031
+2014,Guatemala,Latin America & the Caribbean,7.39,7.76,124032
+2014,Guinea,Sub-Saharan Africa,5.65,5.15,124033
+2014,Guinea-Bissau,Sub-Saharan Africa,6.38,5.1,124034
+2014,Guyana,Latin America & the Caribbean,7.3,6.53,124035
+2014,Haiti,Latin America & the Caribbean,7.12,6.82,124036
+2014,Honduras,Latin America & the Caribbean,7.07,7.24,124037
+2014,"Hong Kong SAR, China",East Asia,8.73,8.97,124038
+2014,Hungary,Eastern Europe,8.05,7.6,124039
+2014,Iceland,Western Europe,8.62,7.31,124040
+2014,India,South Asia,6.59,6.19,124041
+2014,Indonesia,South Asia,7.14,7.06,124042
+2014,"Iran, Islamic Rep.",Middle East & North Africa,4.44,5.26,124043
+2014,Ireland,Western Europe,8.96,8.24,124044
+2014,Israel,Middle East & North Africa,7.51,7.6,124045
+2014,Italy,Western Europe,8.43,7.67,124046
+2014,Jamaica,Latin America & the Caribbean,7.81,7.6,124047
+2014,Japan,East Asia,8.65,7.85,124048
+2014,Jordan,Middle East & North Africa,6.63,7.41,124049
+2014,Kazakhstan,Caucasus & Central Asia,6.47,7.11,124050
+2014,Kenya,Sub-Saharan Africa,6.8,7.2,124051
+2014,"Korea, Rep.",East Asia,8.16,7.65,124052
+2014,Kuwait,Middle East & North Africa,6.15,6.75,124053
+2014,Kyrgyz Republic,Caucasus & Central Asia,6.75,7.1,124054
+2014,Lao PDR,South Asia,5.39,6.51,124055
+2014,Latvia,Eastern Europe,8.73,8.12,124056
+2014,Lebanon,Middle East & North Africa,6.52,7.12,124057
+2014,Lesotho,Sub-Saharan Africa,7.09,6.6,124058
+2014,Liberia,Sub-Saharan Africa,7.01,7.02,124059
+2014,Libya,Middle East & North Africa,4.96,5.11,124060
+2014,Lithuania,Eastern Europe,8.65,8.08,124061
+2014,Luxembourg,Western Europe,8.85,7.87,124062
+2014,Madagascar,Sub-Saharan Africa,6.68,6.4,124063
+2014,Malawi,Sub-Saharan Africa,7.01,5.95,124064
+2014,Malaysia,South Asia,6.55,7.4,124065
+2014,Mali,Sub-Saharan Africa,5.89,5.78,124066
+2014,Malta,Western Europe,8.64,7.97,124067
+2014,Mauritania,Sub-Saharan Africa,5.37,5.95,124068
+2014,Mauritius,Sub-Saharan Africa,7.94,7.91,124069
+2014,Mexico,Latin America & the Caribbean,6.85,7.1,124070
+2014,Moldova,Eastern Europe,7.25,7,124071
+2014,Mongolia,East Asia,7.85,7.23,124072
+2014,Montenegro,Eastern Europe,8.01,7.4,124073
+2014,Morocco,Middle East & North Africa,5.9,6.45,124074
+2014,Mozambique,Sub-Saharan Africa,6.69,5.62,124075
+2014,Myanmar,South Asia,5.32,5.69,124076
+2014,Namibia,Sub-Saharan Africa,7.55,6.66,124077
+2014,Nepal,South Asia,7.1,6.76,124078
+2014,Netherlands,Western Europe,8.78,7.94,124079
+2014,New Zealand,Oceania,9.14,8.56,124080
+2014,Nicaragua,Latin America & the Caribbean,7.08,7.26,124081
+2014,Niger,Sub-Saharan Africa,6.42,5.62,124082
+2014,Nigeria,Sub-Saharan Africa,6.09,6.61,124083
+2014,North Macedonia,Eastern Europe,7.53,7.54,124084
+2014,Norway,Western Europe,8.83,7.79,124085
+2014,Oman,Middle East & North Africa,5.85,6.98,124086
+2014,Pakistan,South Asia,5.38,5.84,124087
+2014,Panama,Latin America & the Caribbean,7.95,7.65,124088
+2014,Papua New Guinea,Oceania,7.12,6.03,124089
+2014,Paraguay,Latin America & the Caribbean,7.37,6.98,124090
+2014,Peru,Latin America & the Caribbean,7.59,7.76,124091
+2014,Philippines,South Asia,7.1,7.42,124092
+2014,Poland,Eastern Europe,8.33,7.29,124093
+2014,Portugal,Western Europe,8.71,7.7,124094
+2014,Qatar,Middle East & North Africa,6.06,7.33,124095
+2014,Romania,Eastern Europe,8.33,7.92,124096
+2014,Russian Federation,Eastern Europe,6.04,6.54,124097
+2014,Rwanda,Sub-Saharan Africa,6.26,7.11,124098
+2014,Saudi Arabia,Middle East & North Africa,4.5,6.27,124099
+2014,Senegal,Sub-Saharan Africa,6.88,6.03,124100
+2014,Serbia,Eastern Europe,7.46,6.84,124101
+2014,Seychelles,Sub-Saharan Africa,7.57,7.61,124102
+2014,Sierra Leone,Sub-Saharan Africa,6.63,5.97,124103
+2014,Singapore,South Asia,7.89,8.8,124104
+2014,Slovak Republic,Eastern Europe,8.44,7.7,124105
+2014,Slovenia,Eastern Europe,8.42,7.31,124106
+2014,South Africa,Sub-Saharan Africa,7.39,6.91,124107
+2014,Spain,Western Europe,8.54,7.75,124108
+2014,Sri Lanka,South Asia,6.13,6.56,124109
+2014,Suriname,Latin America & the Caribbean,7.61,6.4,124110
+2014,Sweden,Western Europe,8.96,7.95,124111
+2014,Switzerland,Western Europe,9.1,8.49,124112
+2014,Syrian Arab Republic,Middle East & North Africa,3.25,4.88,124113
+2014,Taiwan,East Asia,8.71,7.75,124114
+2014,Tajikistan,Caucasus & Central Asia,5.65,6.21,124115
+2014,Tanzania,Sub-Saharan Africa,6.84,6.7,124116
+2014,Thailand,South Asia,6.31,6.54,124117
+2014,Timor-Leste,South Asia,7.3,6.42,124118
+2014,Togo,Sub-Saharan Africa,6.34,5.86,124119
+2014,Trinidad and Tobago,Latin America & the Caribbean,7.53,7.13,124120
+2014,Tunisia,Middle East & North Africa,6.52,6.41,124121
+2014,Turkey,Middle East & North Africa,6.59,6.98,124122
+2014,Uganda,Sub-Saharan Africa,6.27,7.35,124123
+2014,Ukraine,Eastern Europe,6.5,5.96,124124
+2014,United Arab Emirates,Middle East & North Africa,6,7.19,124125
+2014,United Kingdom,Western Europe,8.9,8.17,124126
+2014,United States of America,North America,8.9,8.25,124127
+2014,Uruguay,Latin America & the Caribbean,8.32,7.25,124128
+2014,"Venezuela, RB",Latin America & the Caribbean,4.6,3.08,124129
+2014,Vietnam,South Asia,5.58,6,124130
+2014,"Yemen, Rep.",Middle East & North Africa,4.97,6.33,124131
+2014,Zambia,Sub-Saharan Africa,7.04,7.19,124132
+2014,Zimbabwe,Sub-Saharan Africa,5.88,5.85,124133
+2013,Albania,Eastern Europe,7.85,7.4,124134
+2013,Algeria,Middle East & North Africa,5.09,5.1,124135
+2013,Angola,Sub-Saharan Africa,5.51,5.16,124136
+2013,Argentina,Latin America & the Caribbean,7.19,5.11,124137
+2013,Armenia,Caucasus & Central Asia,7.67,7.61,124138
+2013,Australia,Oceania,8.92,8.11,124139
+2013,Austria,Western Europe,8.79,7.84,124140
+2013,Azerbaijan,Caucasus & Central Asia,5.75,6.09,124141
+2013,"Bahamas, The",Latin America & the Caribbean,8.1,7,124142
+2013,Bahrain,Middle East & North Africa,5.17,7.19,124143
+2013,Bangladesh,South Asia,5.84,6.13,124144
+2013,Barbados,Latin America & the Caribbean,7.99,7,124145
+2013,Belgium,Western Europe,8.53,7.6,124146
+2013,Belize,Latin America & the Caribbean,7.36,6.61,124147
+2013,Benin,Sub-Saharan Africa,6.99,5.95,124148
+2013,Bhutan,South Asia,6.73,6.76,124149
+2013,Bolivia,Latin America & the Caribbean,7.2,6.33,124150
+2013,Bosnia and Herzegovina,Eastern Europe,7.32,6.53,124151
+2013,Botswana,Sub-Saharan Africa,7.6,7.39,124152
+2013,Brazil,Latin America & the Caribbean,7.42,6.52,124153
+2013,Brunei Darussalam,South Asia,5.63,6.57,124154
+2013,Bulgaria,Eastern Europe,7.98,7.61,124155
+2013,Burkina Faso,Sub-Saharan Africa,6.94,5.87,124156
+2013,Burundi,Sub-Saharan Africa,5.54,5.84,124157
+2013,Cabo Verde,Sub-Saharan Africa,7.88,6.65,124158
+2013,Cambodia,South Asia,6.82,7.03,124159
+2013,Cameroon,Sub-Saharan Africa,5.97,5.81,124160
+2013,Canada,North America,8.84,8.08,124161
+2013,Central African Republic,Sub-Saharan Africa,4.8,5.31,124162
+2013,Chad,Sub-Saharan Africa,5.47,5.12,124163
+2013,Chile,Latin America & the Caribbean,8.52,7.88,124164
+2013,China,East Asia,5.32,6.16,124165
+2013,Colombia,Latin America & the Caribbean,6.91,6.8,124166
+2013,"Congo, Dem. Rep.",Sub-Saharan Africa,5.21,5.27,124167
+2013,"Congo, Rep.",Sub-Saharan Africa,5.28,4.41,124168
+2013,Costa Rica,Latin America & the Caribbean,8.4,7.7,124169
+2013,Cote d'Ivoire,Sub-Saharan Africa,6.49,5.82,124170
+2013,Croatia,Eastern Europe,8.17,7.23,124171
+2013,Cyprus,Eastern Europe,7.91,7.13,124172
+2013,Czech Republic,Eastern Europe,8.62,7.81,124173
+2013,Denmark,Western Europe,8.99,8.04,124174
+2013,Dominican Republic,Latin America & the Caribbean,7.53,7.41,124175
+2013,Ecuador,Latin America & the Caribbean,6.7,5.87,124176
+2013,"Egypt, Arab Rep.",Middle East & North Africa,4.77,5.73,124177
+2013,El Salvador,Latin America & the Caribbean,7.5,7.24,124178
+2013,Estonia,Eastern Europe,8.8,7.93,124179
+2013,Eswatini,Sub-Saharan Africa,5.74,6.21,124180
+2013,Ethiopia,Sub-Saharan Africa,4.98,5.38,124181
+2013,Fiji,Oceania,6.74,6.43,124182
+2013,Finland,Western Europe,8.89,7.84,124183
+2013,France,Western Europe,8.5,7.58,124184
+2013,Gabon,Sub-Saharan Africa,6.52,5.23,124185
+2013,"Gambia, The",Sub-Saharan Africa,5.47,7.17,124186
+2013,Georgia,Caucasus & Central Asia,7.8,8.12,124187
+2013,Germany,Western Europe,8.73,7.92,124188
+2013,Ghana,Sub-Saharan Africa,7.68,6.76,124189
+2013,Greece,Eastern Europe,7.73,7.06,124190
+2013,Guatemala,Latin America & the Caribbean,7.41,7.76,124191
+2013,Guinea,Sub-Saharan Africa,5.72,5.09,124192
+2013,Guinea-Bissau,Sub-Saharan Africa,6.1,4.97,124193
+2013,Guyana,Latin America & the Caribbean,7.21,6.33,124194
+2013,Haiti,Latin America & the Caribbean,6.85,6.43,124195
+2013,Honduras,Latin America & the Caribbean,7.03,7.2,124196
+2013,"Hong Kong SAR, China",East Asia,8.79,8.93,124197
+2013,Hungary,Eastern Europe,8.06,7.51,124198
+2013,Iceland,Western Europe,8.57,7.11,124199
+2013,India,South Asia,6.83,6.37,124200
+2013,Indonesia,South Asia,7.11,6.96,124201
+2013,"Iran, Islamic Rep.",Middle East & North Africa,4.49,5.46,124202
+2013,Ireland,Western Europe,8.92,8.17,124203
+2013,Israel,Middle East & North Africa,7.71,7.51,124204
+2013,Italy,Western Europe,8.47,7.58,124205
+2013,Jamaica,Latin America & the Caribbean,7.89,7.66,124206
+2013,Japan,East Asia,8.65,7.86,124207
+2013,Jordan,Middle East & North Africa,6.71,7.54,124208
+2013,Kazakhstan,Caucasus & Central Asia,6.4,7.04,124209
+2013,Kenya,Sub-Saharan Africa,6.81,7.18,124210
+2013,"Korea, Rep.",East Asia,8.16,7.58,124211
+2013,Kuwait,Middle East & North Africa,6.22,6.82,124212
+2013,Kyrgyz Republic,Caucasus & Central Asia,6.68,6.82,124213
+2013,Latvia,Eastern Europe,8.66,7.95,124214
+2013,Lebanon,Middle East & North Africa,6.57,7.18,124215
+2013,Lesotho,Sub-Saharan Africa,7.05,6.49,124216
+2013,Libya,Middle East & North Africa,5.22,5.11,124217
+2013,Lithuania,Eastern Europe,8.55,7.87,124218
+2013,Luxembourg,Western Europe,8.78,7.69,124219
+2013,Madagascar,Sub-Saharan Africa,6.35,6.43,124220
+2013,Malawi,Sub-Saharan Africa,7.1,5.93,124221
+2013,Malaysia,South Asia,6.52,7.29,124222
+2013,Mali,Sub-Saharan Africa,5.88,5.81,124223
+2013,Malta,Western Europe,8.61,7.88,124224
+2013,Mauritania,Sub-Saharan Africa,5.62,5.87,124225
+2013,Mauritius,Sub-Saharan Africa,8.1,7.93,124226
+2013,Mexico,Latin America & the Caribbean,6.82,6.98,124227
+2013,Moldova,Eastern Europe,7.14,6.87,124228
+2013,Mongolia,East Asia,7.83,7.19,124229
+2013,Montenegro,Eastern Europe,8.06,7.47,124230
+2013,Morocco,Middle East & North Africa,5.93,6.49,124231
+2013,Mozambique,Sub-Saharan Africa,6.54,5.7,124232
+2013,Myanmar,South Asia,5.22,5.55,124233
+2013,Namibia,Sub-Saharan Africa,7.55,6.65,124234
+2013,Nepal,South Asia,7.05,6.71,124235
+2013,Netherlands,Western Europe,8.7,7.8,124236
+2013,New Zealand,Oceania,9.11,8.49,124237
+2013,Nicaragua,Latin America & the Caribbean,7.17,7.31,124238
+2013,Niger,Sub-Saharan Africa,6.33,5.29,124239
+2013,Nigeria,Sub-Saharan Africa,6.17,6.59,124240
+2013,North Macedonia,Eastern Europe,7.52,7.49,124241
+2013,Norway,Western Europe,8.83,7.77,124242
+2013,Oman,Middle East & North Africa,5.79,6.9,124243
+2013,Pakistan,South Asia,5.35,6.03,124244
+2013,Panama,Latin America & the Caribbean,7.87,7.47,124245
+2013,Papua New Guinea,Oceania,7.34,6.39,124246
+2013,Paraguay,Latin America & the Caribbean,7.36,7.04,124247
+2013,Peru,Latin America & the Caribbean,7.59,7.76,124248
+2013,Philippines,South Asia,7.1,7.33,124249
+2013,Poland,Eastern Europe,8.27,7.08,124250
+2013,Portugal,Western Europe,8.68,7.67,124251
+2013,Qatar,Middle East & North Africa,6.03,7.19,124252
+2013,Romania,Eastern Europe,8.29,7.79,124253
+2013,Russian Federation,Eastern Europe,6.13,6.58,124254
+2013,Rwanda,Sub-Saharan Africa,6.29,7.12,124255
+2013,Saudi Arabia,Middle East & North Africa,4.61,6.34,124256
+2013,Senegal,Sub-Saharan Africa,6.88,6.02,124257
+2013,Serbia,Eastern Europe,7.45,6.75,124258
+2013,Seychelles,Sub-Saharan Africa,7.51,7.41,124259
+2013,Sierra Leone,Sub-Saharan Africa,6.69,6.05,124260
+2013,Singapore,South Asia,7.82,8.65,124261
+2013,Slovak Republic,Eastern Europe,8.4,7.61,124262
+2013,Slovenia,Eastern Europe,8.32,7.06,124263
+2013,South Africa,Sub-Saharan Africa,7.44,7.03,124264
+2013,Spain,Western Europe,8.5,7.65,124265
+2013,Sri Lanka,South Asia,6.17,6.8,124266
+2013,Suriname,Latin America & the Caribbean,7.7,6.6,124267
+2013,Sweden,Western Europe,8.9,7.82,124268
+2013,Switzerland,Western Europe,9.07,8.42,124269
+2013,Syrian Arab Republic,Middle East & North Africa,3.2,4.29,124270
+2013,Taiwan,East Asia,8.67,7.62,124271
+2013,Tajikistan,Caucasus & Central Asia,5.35,6.13,124272
+2013,Tanzania,Sub-Saharan Africa,6.99,6.68,124273
+2013,Thailand,South Asia,6.75,6.49,124274
+2013,Timor-Leste,South Asia,7.38,6.48,124275
+2013,Togo,Sub-Saharan Africa,6.14,5.51,124276
+2013,Trinidad and Tobago,Latin America & the Caribbean,7.46,7.14,124277
+2013,Tunisia,Middle East & North Africa,6.44,6.3,124278
+2013,Turkey,Middle East & North Africa,6.77,7,124279
+2013,Uganda,Sub-Saharan Africa,6.35,7.24,124280
+2013,Ukraine,Eastern Europe,6.97,6.06,124281
+2013,United Arab Emirates,Middle East & North Africa,6.07,7.25,124282
+2013,United Kingdom,Western Europe,8.87,8.11,124283
+2013,United States of America,North America,8.85,8.23,124284
+2013,Uruguay,Latin America & the Caribbean,8.34,7.37,124285
+2013,"Venezuela, RB",Latin America & the Caribbean,4.7,3.13,124286
+2013,Vietnam,South Asia,5.57,5.94,124287
+2013,"Yemen, Rep.",Middle East & North Africa,5.42,6.4,124288
+2013,Zambia,Sub-Saharan Africa,7.06,7.05,124289
+2013,Zimbabwe,Sub-Saharan Africa,5.7,5.38,124290
+2012,Albania,Eastern Europe,7.88,7.47,124291
+2012,Algeria,Middle East & North Africa,5.12,4.92,124292
+2012,Angola,Sub-Saharan Africa,5.77,5.47,124293
+2012,Argentina,Latin America & the Caribbean,7.19,5.29,124294
+2012,Armenia,Caucasus & Central Asia,7.63,7.74,124295
+2012,Australia,Oceania,8.92,8.14,124296
+2012,Austria,Western Europe,8.76,7.86,124297
+2012,Azerbaijan,Caucasus & Central Asia,5.72,6.11,124298
+2012,"Bahamas, The",Latin America & the Caribbean,8.29,7.44,124299
+2012,Bahrain,Middle East & North Africa,5.15,7.13,124300
+2012,Bangladesh,South Asia,6.05,6.14,124301
+2012,Barbados,Latin America & the Caribbean,7.84,6.62,124302
+2012,Belgium,Western Europe,8.51,7.6,124303
+2012,Belize,Latin America & the Caribbean,7.72,6.61,124304
+2012,Benin,Sub-Saharan Africa,6.93,5.89,124305
+2012,Bolivia,Latin America & the Caribbean,7.14,6.38,124306
+2012,Bosnia and Herzegovina,Eastern Europe,7.49,6.87,124307
+2012,Botswana,Sub-Saharan Africa,7.61,7.37,124308
+2012,Brazil,Latin America & the Caribbean,7.54,6.66,124309
+2012,Brunei Darussalam,South Asia,5.81,6.97,124310
+2012,Bulgaria,Eastern Europe,8.01,7.6,124311
+2012,Burkina Faso,Sub-Saharan Africa,6.86,5.78,124312
+2012,Burundi,Sub-Saharan Africa,5.53,5.41,124313
+2012,Cabo Verde,Sub-Saharan Africa,7.92,6.76,124314
+2012,Cambodia,South Asia,6.91,7.03,124315
+2012,Cameroon,Sub-Saharan Africa,6.07,5.88,124316
+2012,Canada,North America,8.79,8.02,124317
+2012,Central African Republic,Sub-Saharan Africa,5.53,5.3,124318
+2012,Chad,Sub-Saharan Africa,5.46,4.95,124319
+2012,Chile,Latin America & the Caribbean,8.65,7.91,124320
+2012,China,East Asia,5.33,6.11,124321
+2012,Colombia,Latin America & the Caribbean,6.83,6.82,124322
+2012,"Congo, Dem. Rep.",Sub-Saharan Africa,5.27,5.54,124323
+2012,"Congo, Rep.",Sub-Saharan Africa,5.42,4.47,124324
+2012,Costa Rica,Latin America & the Caribbean,8.49,7.71,124325
+2012,Cote d'Ivoire,Sub-Saharan Africa,6.16,5.55,124326
+2012,Croatia,Eastern Europe,7.95,7.26,124327
+2012,Cyprus,Eastern Europe,8.04,7.55,124328
+2012,Czech Republic,Eastern Europe,8.64,7.85,124329
+2012,Denmark,Western Europe,8.96,7.96,124330
+2012,Dominican Republic,Latin America & the Caribbean,7.41,7.22,124331
+2012,Ecuador,Latin America & the Caribbean,6.9,6.26,124332
+2012,"Egypt, Arab Rep.",Middle East & North Africa,5.23,6.01,124333
+2012,El Salvador,Latin America & the Caribbean,7.53,7.31,124334
+2012,Estonia,Eastern Europe,8.77,7.9,124335
+2012,Eswatini,Sub-Saharan Africa,5.71,6.1,124336
+2012,Ethiopia,Sub-Saharan Africa,5.05,5.25,124337
+2012,Fiji,Oceania,6.84,6.85,124338
+2012,Finland,Western Europe,8.95,7.98,124339
+2012,France,Western Europe,8.48,7.6,124340
+2012,Gabon,Sub-Saharan Africa,6.28,5.16,124341
+2012,"Gambia, The",Sub-Saharan Africa,5.54,6.86,124342
+2012,Georgia,Caucasus & Central Asia,7.5,8,124343
+2012,Germany,Western Europe,8.68,7.89,124344
+2012,Ghana,Sub-Saharan Africa,7.63,6.72,124345
+2012,Greece,Eastern Europe,7.89,7.08,124346
+2012,Guatemala,Latin America & the Caribbean,7.4,7.58,124347
+2012,Guinea-Bissau,Sub-Saharan Africa,6.04,5.71,124348
+2012,Guyana,Latin America & the Caribbean,7.35,6.5,124349
+2012,Haiti,Latin America & the Caribbean,6.74,6.16,124350
+2012,Honduras,Latin America & the Caribbean,7.08,7.13,124351
+2012,"Hong Kong SAR, China",East Asia,8.87,9.01,124352
+2012,Hungary,Eastern Europe,8.09,7.58,124353
+2012,Iceland,Western Europe,8.57,7.08,124354
+2012,India,South Asia,6.86,6.47,124355
+2012,Indonesia,South Asia,7.12,6.94,124356
+2012,"Iran, Islamic Rep.",Middle East & North Africa,4.41,5.26,124357
+2012,Ireland,Western Europe,8.91,8.13,124358
+2012,Israel,Middle East & North Africa,7.58,7.49,124359
+2012,Italy,Western Europe,8.49,7.6,124360
+2012,Jamaica,Latin America & the Caribbean,7.71,7.47,124361
+2012,Japan,East Asia,8.63,7.84,124362
+2012,Jordan,Middle East & North Africa,6.72,7.46,124363
+2012,Kazakhstan,Caucasus & Central Asia,6.45,7.03,124364
+2012,Kenya,Sub-Saharan Africa,6.91,7.17,124365
+2012,"Korea, Rep.",East Asia,8.18,7.63,124366
+2012,Kuwait,Middle East & North Africa,6.27,6.8,124367
+2012,Kyrgyz Republic,Caucasus & Central Asia,6.64,6.73,124368
+2012,Latvia,Eastern Europe,8.61,7.88,124369
+2012,Lebanon,Middle East & North Africa,6.85,7.13,124370
+2012,Lesotho,Sub-Saharan Africa,6.79,6.29,124371
+2012,Lithuania,Eastern Europe,8.49,7.64,124372
+2012,Luxembourg,Western Europe,8.73,7.57,124373
+2012,Madagascar,Sub-Saharan Africa,6.11,6.28,124374
+2012,Malawi,Sub-Saharan Africa,7.01,6.07,124375
+2012,Malaysia,South Asia,6.36,6.68,124376
+2012,Mali,Sub-Saharan Africa,6.17,5.95,124377
+2012,Malta,Western Europe,8.6,7.85,124378
+2012,Mauritania,Sub-Saharan Africa,5.86,6.03,124379
+2012,Mauritius,Sub-Saharan Africa,8.29,8.02,124380
+2012,Mexico,Latin America & the Caribbean,6.82,6.95,124381
+2012,Moldova,Eastern Europe,7.23,6.87,124382
+2012,Mongolia,East Asia,7.81,7.06,124383
+2012,Montenegro,Eastern Europe,7.96,7.32,124384
+2012,Morocco,Middle East & North Africa,5.94,6.44,124385
+2012,Mozambique,Sub-Saharan Africa,6.51,5.85,124386
+2012,Myanmar,South Asia,4.99,5.28,124387
+2012,Namibia,Sub-Saharan Africa,7.46,6.61,124388
+2012,Nepal,South Asia,7.03,6.54,124389
+2012,Netherlands,Western Europe,8.69,7.81,124390
+2012,New Zealand,Oceania,9.1,8.48,124391
+2012,Nicaragua,Latin America & the Caribbean,7.27,7.35,124392
+2012,Niger,Sub-Saharan Africa,6.42,5.39,124393
+2012,Nigeria,Sub-Saharan Africa,6.08,6.39,124394
+2012,North Macedonia,Eastern Europe,7.76,7.4,124395
+2012,Norway,Western Europe,8.84,7.79,124396
+2012,Oman,Middle East & North Africa,5.84,6.93,124397
+2012,Pakistan,South Asia,5.46,6.01,124398
+2012,Panama,Latin America & the Caribbean,7.84,7.44,124399
+2012,Papua New Guinea,Oceania,7.61,7,124400
+2012,Paraguay,Latin America & the Caribbean,7.57,7.04,124401
+2012,Peru,Latin America & the Caribbean,7.73,7.8,124402
+2012,Philippines,South Asia,7.21,7.29,124403
+2012,Poland,Eastern Europe,8.3,7.09,124404
+2012,Portugal,Western Europe,8.6,7.56,124405
+2012,Qatar,Middle East & North Africa,6.03,7.18,124406
+2012,Romania,Eastern Europe,8.24,7.68,124407
+2012,Russian Federation,Eastern Europe,6.17,6.56,124408
+2012,Rwanda,Sub-Saharan Africa,6.28,7.2,124409
+2012,Saudi Arabia,Middle East & North Africa,4.52,6.27,124410
+2012,Senegal,Sub-Saharan Africa,6.63,5.68,124411
+2012,Serbia,Eastern Europe,7.44,6.72,124412
+2012,Sierra Leone,Sub-Saharan Africa,6.74,6.29,124413
+2012,Singapore,South Asia,7.79,8.64,124414
+2012,Slovak Republic,Eastern Europe,8.42,7.63,124415
+2012,Slovenia,Eastern Europe,8.36,7.19,124416
+2012,South Africa,Sub-Saharan Africa,7.46,7,124417
+2012,Spain,Western Europe,8.56,7.66,124418
+2012,Sri Lanka,South Asia,5.95,6.49,124419
+2012,Suriname,Latin America & the Caribbean,7.67,6.6,124420
+2012,Sweden,Western Europe,8.91,7.86,124421
+2012,Switzerland,Western Europe,9.11,8.43,124422
+2012,Syrian Arab Republic,Middle East & North Africa,3.54,4.67,124423
+2012,Taiwan,East Asia,8.67,7.54,124424
+2012,Tajikistan,Caucasus & Central Asia,5.56,6.13,124425
+2012,Tanzania,Sub-Saharan Africa,6.96,6.59,124426
+2012,Thailand,South Asia,6.99,6.55,124427
+2012,Timor-Leste,South Asia,7.35,6.44,124428
+2012,Togo,Sub-Saharan Africa,6,5.34,124429
+2012,Trinidad and Tobago,Latin America & the Caribbean,7.57,7.05,124430
+2012,Tunisia,Middle East & North Africa,6.42,6.27,124431
+2012,Turkey,Middle East & North Africa,6.95,7.1,124432
+2012,Uganda,Sub-Saharan Africa,6.34,7.25,124433
+2012,Ukraine,Eastern Europe,7.04,6.16,124434
+2012,United Arab Emirates,Middle East & North Africa,6.14,7.33,124435
+2012,United Kingdom,Western Europe,8.87,8.15,124436
+2012,United States of America,North America,8.83,8.26,124437
+2012,Uruguay,Latin America & the Caribbean,8.47,7.49,124438
+2012,"Venezuela, RB",Latin America & the Caribbean,5.05,3.68,124439
+2012,Vietnam,South Asia,5.56,5.89,124440
+2012,"Yemen, Rep.",Middle East & North Africa,5.52,6.41,124441
+2012,Zambia,Sub-Saharan Africa,7.36,7.37,124442
+2012,Zimbabwe,Sub-Saharan Africa,5.6,5.23,124443
+2011,Albania,Eastern Europe,7.93,7.43,124444
+2011,Algeria,Middle East & North Africa,5.2,5.08,124445
+2011,Angola,Sub-Saharan Africa,5.59,5,124446
+2011,Argentina,Latin America & the Caribbean,7.42,5.79,124447
+2011,Armenia,Caucasus & Central Asia,7.58,7.73,124448
+2011,Australia,Oceania,8.92,8.13,124449
+2011,Austria,Western Europe,8.72,7.88,124450
+2011,Azerbaijan,Caucasus & Central Asia,5.68,5.94,124451
+2011,"Bahamas, The",Latin America & the Caribbean,8.31,7.41,124452
+2011,Bahrain,Middle East & North Africa,5.3,7.28,124453
+2011,Bangladesh,South Asia,6.25,6.14,124454
+2011,Barbados,Latin America & the Caribbean,7.92,6.88,124455
+2011,Belgium,Western Europe,8.6,7.62,124456
+2011,Belize,Latin America & the Caribbean,7.59,6.53,124457
+2011,Benin,Sub-Saharan Africa,7.01,6.07,124458
+2011,Bolivia,Latin America & the Caribbean,7.3,6.31,124459
+2011,Bosnia and Herzegovina,Eastern Europe,7.55,6.95,124460
+2011,Botswana,Sub-Saharan Africa,7.6,7.26,124461
+2011,Brazil,Latin America & the Caribbean,7.62,6.66,124462
+2011,Brunei Darussalam,South Asia,5.74,6.8,124463
+2011,Bulgaria,Eastern Europe,8.06,7.58,124464
+2011,Burkina Faso,Sub-Saharan Africa,6.95,5.87,124465
+2011,Burundi,Sub-Saharan Africa,5.52,5.42,124466
+2011,Cabo Verde,Sub-Saharan Africa,7.88,6.67,124467
+2011,Cambodia,South Asia,6.88,6.82,124468
+2011,Cameroon,Sub-Saharan Africa,6.07,5.88,124469
+2011,Canada,North America,8.77,7.94,124470
+2011,Central African Republic,Sub-Saharan Africa,5.61,5.39,124471
+2011,Chad,Sub-Saharan Africa,5.58,5.13,124472
+2011,Chile,Latin America & the Caribbean,8.7,8.02,124473
+2011,China,East Asia,5.3,6.04,124474
+2011,Colombia,Latin America & the Caribbean,6.89,6.74,124475
+2011,"Congo, Dem. Rep.",Sub-Saharan Africa,5.41,5.45,124476
+2011,"Congo, Rep.",Sub-Saharan Africa,5.39,4.5,124477
+2011,Costa Rica,Latin America & the Caribbean,8.47,7.73,124478
+2011,Cote d'Ivoire,Sub-Saharan Africa,6.02,5.55,124479
+2011,Croatia,Eastern Europe,7.97,7.28,124480
+2011,Cyprus,Eastern Europe,8.15,7.76,124481
+2011,Czech Republic,Eastern Europe,8.59,7.73,124482
+2011,Denmark,Western Europe,8.97,8,124483
+2011,Dominican Republic,Latin America & the Caribbean,7.51,7.43,124484
+2011,Ecuador,Latin America & the Caribbean,6.89,6.16,124485
+2011,"Egypt, Arab Rep.",Middle East & North Africa,5.17,6.07,124486
+2011,El Salvador,Latin America & the Caribbean,7.5,7.41,124487
+2011,Estonia,Eastern Europe,8.79,7.97,124488
+2011,Eswatini,Sub-Saharan Africa,5.66,6.14,124489
+2011,Ethiopia,Sub-Saharan Africa,5.16,5.21,124490
+2011,Fiji,Oceania,6.85,6.96,124491
+2011,Finland,Western Europe,8.98,8.05,124492
+2011,France,Western Europe,8.5,7.64,124493
+2011,Gabon,Sub-Saharan Africa,6.39,5.19,124494
+2011,"Gambia, The",Sub-Saharan Africa,5.67,7,124495
+2011,Georgia,Caucasus & Central Asia,7.47,7.83,124496
+2011,Germany,Western Europe,8.7,7.92,124497
+2011,Ghana,Sub-Saharan Africa,7.7,6.86,124498
+2011,Greece,Eastern Europe,7.97,7.12,124499
+2011,Guatemala,Latin America & the Caribbean,7.4,7.47,124500
+2011,Guinea-Bissau,Sub-Saharan Africa,6.15,5.25,124501
+2011,Guyana,Latin America & the Caribbean,7.4,6.5,124502
+2011,Haiti,Latin America & the Caribbean,6.81,6.44,124503
+2011,Honduras,Latin America & the Caribbean,7.03,7.25,124504
+2011,"Hong Kong SAR, China",East Asia,8.95,9.06,124505
+2011,Hungary,Eastern Europe,8.25,7.61,124506
+2011,Iceland,Western Europe,8.52,6.97,124507
+2011,India,South Asia,6.92,6.47,124508
+2011,Indonesia,South Asia,7.16,6.94,124509
+2011,"Iran, Islamic Rep.",Middle East & North Africa,4.54,5.48,124510
+2011,Ireland,Western Europe,8.88,8.07,124511
+2011,Israel,Middle East & North Africa,7.58,7.49,124512
+2011,Italy,Western Europe,8.48,7.6,124513
+2011,Jamaica,Latin America & the Caribbean,7.63,7.3,124514
+2011,Japan,East Asia,8.62,7.77,124515
+2011,Jordan,Middle East & North Africa,6.73,7.5,124516
+2011,Kazakhstan,Caucasus & Central Asia,6.3,6.8,124517
+2011,Kenya,Sub-Saharan Africa,7.01,7.06,124518
+2011,"Korea, Rep.",East Asia,8.24,7.64,124519
+2011,Kuwait,Middle East & North Africa,6.22,6.68,124520
+2011,Kyrgyz Republic,Caucasus & Central Asia,6.61,6.76,124521
+2011,Latvia,Eastern Europe,8.55,7.75,124522
+2011,Lebanon,Middle East & North Africa,7,7.28,124523
+2011,Lesotho,Sub-Saharan Africa,6.68,6.33,124524
+2011,Lithuania,Eastern Europe,8.47,7.61,124525
+2011,Luxembourg,Western Europe,8.73,7.57,124526
+2011,Madagascar,Sub-Saharan Africa,6.26,6.12,124527
+2011,Malawi,Sub-Saharan Africa,7.07,6.39,124528
+2011,Malaysia,South Asia,6.41,6.65,124529
+2011,Mali,Sub-Saharan Africa,6.51,5.81,124530
+2011,Malta,Western Europe,8.64,7.88,124531
+2011,Mauritania,Sub-Saharan Africa,5.86,6.13,124532
+2011,Mauritius,Sub-Saharan Africa,8.27,7.98,124533
+2011,Mexico,Latin America & the Caribbean,6.83,6.89,124534
+2011,Moldova,Eastern Europe,7.21,6.84,124535
+2011,Mongolia,East Asia,7.87,7.25,124536
+2011,Montenegro,Eastern Europe,8,7.26,124537
+2011,Morocco,Middle East & North Africa,5.96,6.53,124538
+2011,Mozambique,Sub-Saharan Africa,6.41,5.6,124539
+2011,Myanmar,South Asia,4.4,4.15,124540
+2011,Namibia,Sub-Saharan Africa,7.54,6.57,124541
+2011,Nepal,South Asia,7.03,6.47,124542
+2011,Netherlands,Western Europe,8.72,7.84,124543
+2011,New Zealand,Oceania,9.07,8.33,124544
+2011,Nicaragua,Latin America & the Caribbean,7.3,7.31,124545
+2011,Niger,Sub-Saharan Africa,6.28,5.6,124546
+2011,Nigeria,Sub-Saharan Africa,6.18,6.5,124547
+2011,North Macedonia,Eastern Europe,7.9,7.41,124548
+2011,Norway,Western Europe,8.69,7.74,124549
+2011,Oman,Middle East & North Africa,5.77,6.77,124550
+2011,Pakistan,South Asia,5.53,6.09,124551
+2011,Panama,Latin America & the Caribbean,7.89,7.4,124552
+2011,Papua New Guinea,Oceania,7.63,6.99,124553
+2011,Paraguay,Latin America & the Caribbean,7.58,7.09,124554
+2011,Peru,Latin America & the Caribbean,7.8,7.82,124555
+2011,Philippines,South Asia,7.23,7.21,124556
+2011,Poland,Eastern Europe,8.33,6.98,124557
+2011,Portugal,Western Europe,8.58,7.5,124558
+2011,Qatar,Middle East & North Africa,5.87,6.96,124559
+2011,Romania,Eastern Europe,8.19,7.52,124560
+2011,Russian Federation,Eastern Europe,6.13,6.44,124561
+2011,Rwanda,Sub-Saharan Africa,6.2,7.01,124562
+2011,Saudi Arabia,Middle East & North Africa,4.57,6.39,124563
+2011,Senegal,Sub-Saharan Africa,6.65,5.67,124564
+2011,Serbia,Eastern Europe,7.5,6.73,124565
+2011,Sierra Leone,Sub-Saharan Africa,6.72,6.12,124566
+2011,Singapore,South Asia,7.85,8.76,124567
+2011,Slovak Republic,Eastern Europe,8.48,7.7,124568
+2011,Slovenia,Eastern Europe,8.36,7.18,124569
+2011,South Africa,Sub-Saharan Africa,7.65,7.02,124570
+2011,Spain,Western Europe,8.67,7.79,124571
+2011,Sri Lanka,South Asia,6.05,6.48,124572
+2011,Suriname,Latin America & the Caribbean,7.62,6.45,124573
+2011,Sweden,Western Europe,8.92,7.87,124574
+2011,Switzerland,Western Europe,9.13,8.46,124575
+2011,Syrian Arab Republic,Middle East & North Africa,4.06,5.58,124576
+2011,Taiwan,East Asia,8.63,7.5,124577
+2011,Tajikistan,Caucasus & Central Asia,5.59,6.18,124578
+2011,Tanzania,Sub-Saharan Africa,7.02,6.66,124579
+2011,Thailand,South Asia,7.04,6.55,124580
+2011,Timor-Leste,South Asia,7.46,6.38,124581
+2011,Togo,Sub-Saharan Africa,6.05,5.46,124582
+2011,Trinidad and Tobago,Latin America & the Caribbean,7.47,7.05,124583
+2011,Tunisia,Middle East & North Africa,6.41,6.16,124584
+2011,Turkey,Middle East & North Africa,7.07,7.1,124585
+2011,Uganda,Sub-Saharan Africa,6.33,7.16,124586
+2011,Ukraine,Eastern Europe,7.04,6.02,124587
+2011,United Arab Emirates,Middle East & North Africa,6.13,7.31,124588
+2011,United Kingdom,Western Europe,8.88,8.12,124589
+2011,United States of America,North America,8.82,8.16,124590
+2011,Uruguay,Latin America & the Caribbean,8.5,7.49,124591
+2011,"Venezuela, RB",Latin America & the Caribbean,5.14,3.78,124592
+2011,Vietnam,South Asia,5.63,5.83,124593
+2011,"Yemen, Rep.",Middle East & North Africa,5.19,6.28,124594
+2011,Zambia,Sub-Saharan Africa,7.39,7.43,124595
+2011,Zimbabwe,Sub-Saharan Africa,5.49,4.93,124596
+2010,Albania,Eastern Europe,7.96,7.33,124597
+2010,Algeria,Middle East & North Africa,5.19,5.12,124598
+2010,Angola,Sub-Saharan Africa,5.79,5.42,124599
+2010,Argentina,Latin America & the Caribbean,7.42,5.8,124600
+2010,Armenia,Caucasus & Central Asia,7.55,7.67,124601
+2010,Australia,Oceania,8.92,8.11,124602
+2010,Austria,Western Europe,8.64,7.85,124603
+2010,Azerbaijan,Caucasus & Central Asia,5.76,5.82,124604
+2010,"Bahamas, The",Latin America & the Caribbean,8.14,7.47,124605
+2010,Bahrain,Middle East & North Africa,6.31,7.1,124606
+2010,Bangladesh,South Asia,6.06,6.22,124607
+2010,Barbados,Latin America & the Caribbean,7.75,6.51,124608
+2010,Belgium,Western Europe,8.53,7.62,124609
+2010,Belize,Latin America & the Caribbean,7.55,6.45,124610
+2010,Benin,Sub-Saharan Africa,7.03,6.12,124611
+2010,Bolivia,Latin America & the Caribbean,7.35,6.4,124612
+2010,Bosnia and Herzegovina,Eastern Europe,7.53,6.65,124613
+2010,Botswana,Sub-Saharan Africa,7.52,7.05,124614
+2010,Brazil,Latin America & the Caribbean,7.74,6.68,124615
+2010,Brunei Darussalam,South Asia,5.83,7,124616
+2010,Bulgaria,Eastern Europe,8.08,7.6,124617
+2010,Burkina Faso,Sub-Saharan Africa,7.1,5.96,124618
+2010,Burundi,Sub-Saharan Africa,5.49,5.33,124619
+2010,Cabo Verde,Sub-Saharan Africa,7.83,6.46,124620
+2010,Cambodia,South Asia,6.94,6.94,124621
+2010,Cameroon,Sub-Saharan Africa,6.05,5.94,124622
+2010,Canada,North America,8.84,8.08,124623
+2010,Central African Republic,Sub-Saharan Africa,5.52,5.33,124624
+2010,Chad,Sub-Saharan Africa,5.68,5.48,124625
+2010,Chile,Latin America & the Caribbean,8.72,8.01,124626
+2010,China,East Asia,5.39,6.02,124627
+2010,Colombia,Latin America & the Caribbean,6.76,6.7,124628
+2010,"Congo, Dem. Rep.",Sub-Saharan Africa,5.41,5.41,124629
+2010,"Congo, Rep.",Sub-Saharan Africa,5.21,4.58,124630
+2010,Costa Rica,Latin America & the Caribbean,8.24,7.4,124631
+2010,Cote d'Ivoire,Sub-Saharan Africa,6.07,5.57,124632
+2010,Croatia,Eastern Europe,7.77,7,124633
+2010,Cyprus,Eastern Europe,8.25,7.83,124634
+2010,Czech Republic,Eastern Europe,8.56,7.67,124635
+2010,Denmark,Western Europe,8.97,7.99,124636
+2010,Dominican Republic,Latin America & the Caribbean,7.54,7.41,124637
+2010,Ecuador,Latin America & the Caribbean,6.93,6.27,124638
+2010,"Egypt, Arab Rep.",Middle East & North Africa,5.27,6.11,124639
+2010,El Salvador,Latin America & the Caribbean,7.54,7.49,124640
+2010,Estonia,Eastern Europe,8.82,8.05,124641
+2010,Eswatini,Sub-Saharan Africa,5.61,6.04,124642
+2010,Ethiopia,Sub-Saharan Africa,5.24,5.38,124643
+2010,Fiji,Oceania,6.67,6.86,124644
+2010,Finland,Western Europe,8.96,7.99,124645
+2010,France,Western Europe,8.55,7.74,124646
+2010,Gabon,Sub-Saharan Africa,6.5,5.44,124647
+2010,"Gambia, The",Sub-Saharan Africa,5.75,7.06,124648
+2010,Georgia,Caucasus & Central Asia,7.41,7.6,124649
+2010,Germany,Western Europe,8.66,7.84,124650
+2010,Ghana,Sub-Saharan Africa,7.68,6.93,124651
+2010,Greece,Eastern Europe,7.97,7.12,124652
+2010,Guatemala,Latin America & the Caribbean,7.41,7.44,124653
+2010,Guinea-Bissau,Sub-Saharan Africa,6.15,5.05,124654
+2010,Guyana,Latin America & the Caribbean,7.2,6.52,124655
+2010,Haiti,Latin America & the Caribbean,6.98,6.41,124656
+2010,Honduras,Latin America & the Caribbean,7.12,7.26,124657
+2010,"Hong Kong SAR, China",East Asia,8.97,9.1,124658
+2010,Hungary,Eastern Europe,8.42,7.58,124659
+2010,Iceland,Western Europe,8.42,6.73,124660
+2010,India,South Asia,6.86,6.32,124661
+2010,Indonesia,South Asia,7.25,6.97,124662
+2010,"Iran, Islamic Rep.",Middle East & North Africa,4.65,5.75,124663
+2010,Ireland,Western Europe,8.8,7.93,124664
+2010,Israel,Middle East & North Africa,7.66,7.51,124665
+2010,Italy,Western Europe,8.4,7.56,124666
+2010,Jamaica,Latin America & the Caribbean,7.61,7.25,124667
+2010,Japan,East Asia,8.65,7.85,124668
+2010,Jordan,Middle East & North Africa,6.82,7.45,124669
+2010,Kazakhstan,Caucasus & Central Asia,6.5,6.79,124670
+2010,Kenya,Sub-Saharan Africa,6.97,7.14,124671
+2010,"Korea, Rep.",East Asia,8.24,7.6,124672
+2010,Kuwait,Middle East & North Africa,6.31,6.73,124673
+2010,Kyrgyz Republic,Caucasus & Central Asia,6.36,6.78,124674
+2010,Latvia,Eastern Europe,8.49,7.73,124675
+2010,Lebanon,Middle East & North Africa,6.88,7.18,124676
+2010,Lesotho,Sub-Saharan Africa,6.61,6.15,124677
+2010,Lithuania,Eastern Europe,8.37,7.54,124678
+2010,Luxembourg,Western Europe,8.7,7.54,124679
+2010,Madagascar,Sub-Saharan Africa,6.55,6.19,124680
+2010,Malawi,Sub-Saharan Africa,7.01,6.14,124681
+2010,Malaysia,South Asia,6.4,6.63,124682
+2010,Mali,Sub-Saharan Africa,6.55,5.95,124683
+2010,Malta,Western Europe,8.6,7.77,124684
+2010,Mauritania,Sub-Saharan Africa,5.87,5.9,124685
+2010,Mauritius,Sub-Saharan Africa,8.23,7.98,124686
+2010,Mexico,Latin America & the Caribbean,6.92,6.93,124687
+2010,Moldova,Eastern Europe,7.19,6.72,124688
+2010,Mongolia,East Asia,7.85,7.21,124689
+2010,Montenegro,Eastern Europe,8.11,7.26,124690
+2010,Morocco,Middle East & North Africa,6.07,6.43,124691
+2010,Mozambique,Sub-Saharan Africa,6.33,5.53,124692
+2010,Myanmar,South Asia,4.07,3.92,124693
+2010,Namibia,Sub-Saharan Africa,7.44,6.65,124694
+2010,Nepal,South Asia,6.95,6.56,124695
+2010,Netherlands,Western Europe,8.69,7.79,124696
+2010,New Zealand,Oceania,9.05,8.28,124697
+2010,Nicaragua,Latin America & the Caribbean,7.38,7.28,124698
+2010,Niger,Sub-Saharan Africa,6.19,5.65,124699
+2010,Nigeria,Sub-Saharan Africa,6.15,6.16,124700
+2010,North Macedonia,Eastern Europe,7.83,7.34,124701
+2010,Norway,Western Europe,8.79,7.66,124702
+2010,Oman,Middle East & North Africa,5.93,6.87,124703
+2010,Pakistan,South Asia,5.52,6.02,124704
+2010,Panama,Latin America & the Caribbean,8.02,7.52,124705
+2010,Papua New Guinea,Oceania,7.71,6.93,124706
+2010,Paraguay,Latin America & the Caribbean,7.58,7.03,124707
+2010,Peru,Latin America & the Caribbean,7.7,7.81,124708
+2010,Philippines,South Asia,7.15,7.12,124709
+2010,Poland,Eastern Europe,8.3,6.91,124710
+2010,Portugal,Western Europe,8.49,7.28,124711
+2010,Qatar,Middle East & North Africa,6.03,7.18,124712
+2010,Romania,Eastern Europe,8.17,7.49,124713
+2010,Russian Federation,Eastern Europe,6.06,6.4,124714
+2010,Rwanda,Sub-Saharan Africa,6.21,7.04,124715
+2010,Saudi Arabia,Middle East & North Africa,4.84,6.56,124716
+2010,Senegal,Sub-Saharan Africa,6.65,5.69,124717
+2010,Serbia,Eastern Europe,7.44,6.6,124718
+2010,Sierra Leone,Sub-Saharan Africa,6.8,6.43,124719
+2010,Singapore,South Asia,7.96,8.78,124720
+2010,Slovak Republic,Eastern Europe,8.46,7.65,124721
+2010,Slovenia,Eastern Europe,8.34,7.12,124722
+2010,South Africa,Sub-Saharan Africa,7.41,6.95,124723
+2010,Spain,Western Europe,8.55,7.69,124724
+2010,Sri Lanka,South Asia,5.99,6.43,124725
+2010,Suriname,Latin America & the Caribbean,7.7,6.65,124726
+2010,Sweden,Western Europe,8.92,7.89,124727
+2010,Switzerland,Western Europe,9.15,8.52,124728
+2010,Syrian Arab Republic,Middle East & North Africa,4.6,5.65,124729
+2010,Taiwan,East Asia,8.49,7.55,124730
+2010,Tajikistan,Caucasus & Central Asia,5.63,6.01,124731
+2010,Tanzania,Sub-Saharan Africa,6.82,6.66,124732
+2010,Thailand,South Asia,6.95,6.58,124733
+2010,Timor-Leste,South Asia,7.22,5.56,124734
+2010,Togo,Sub-Saharan Africa,5.93,5.49,124735
+2010,Trinidad and Tobago,Latin America & the Caribbean,7.47,7.06,124736
+2010,Tunisia,Middle East & North Africa,5.06,6.25,124737
+2010,Turkey,Middle East & North Africa,7.06,6.97,124738
+2010,Uganda,Sub-Saharan Africa,6.38,7.34,124739
+2010,Ukraine,Eastern Europe,7.02,5.81,124740
+2010,United Arab Emirates,Middle East & North Africa,6.24,7.23,124741
+2010,United Kingdom,Western Europe,8.87,8.1,124742
+2010,United States of America,North America,8.81,8.14,124743
+2010,Uruguay,Latin America & the Caribbean,8.5,7.5,124744
+2010,"Venezuela, RB",Latin America & the Caribbean,5.12,3.78,124745
+2010,Vietnam,South Asia,5.78,5.9,124746
+2010,"Yemen, Rep.",Middle East & North Africa,5.44,6.33,124747
+2010,Zambia,Sub-Saharan Africa,7.24,7.38,124748
+2010,Zimbabwe,Sub-Saharan Africa,5.4,4.82,124749
+2009,Albania,Eastern Europe,7.93,7.28,124750
+2009,Algeria,Middle East & North Africa,5.15,5.17,124751
+2009,Angola,Sub-Saharan Africa,5.63,5.25,124752
+2009,Argentina,Latin America & the Caribbean,7.53,6.01,124753
+2009,Armenia,Caucasus & Central Asia,7.31,7.59,124754
+2009,Australia,Oceania,8.93,8.16,124755
+2009,Austria,Western Europe,8.7,7.84,124756
+2009,Azerbaijan,Caucasus & Central Asia,5.76,5.8,124757
+2009,"Bahamas, The",Latin America & the Caribbean,8.19,7.54,124758
+2009,Bahrain,Middle East & North Africa,6.43,7.08,124759
+2009,Bangladesh,South Asia,6.18,6.22,124760
+2009,Barbados,Latin America & the Caribbean,7.81,6.54,124761
+2009,Belgium,Western Europe,8.55,7.51,124762
+2009,Belize,Latin America & the Caribbean,7.86,7.03,124763
+2009,Benin,Sub-Saharan Africa,6.94,5.97,124764
+2009,Bolivia,Latin America & the Caribbean,7.41,6.37,124765
+2009,Bosnia and Herzegovina,Eastern Europe,7.53,6.64,124766
+2009,Botswana,Sub-Saharan Africa,7.42,6.8,124767
+2009,Brazil,Latin America & the Caribbean,7.66,6.51,124768
+2009,Bulgaria,Eastern Europe,8.09,7.54,124769
+2009,Burkina Faso,Sub-Saharan Africa,7.07,5.94,124770
+2009,Burundi,Sub-Saharan Africa,5.75,5.56,124771
+2009,Cameroon,Sub-Saharan Africa,6.12,5.76,124772
+2009,Canada,North America,8.88,8.19,124773
+2009,Central African Republic,Sub-Saharan Africa,5.63,5.43,124774
+2009,Chad,Sub-Saharan Africa,5.46,5.23,124775
+2009,Chile,Latin America & the Caribbean,8.61,7.94,124776
+2009,China,East Asia,5.4,6.04,124777
+2009,Colombia,Latin America & the Caribbean,6.72,6.64,124778
+2009,"Congo, Dem. Rep.",Sub-Saharan Africa,5.31,5.25,124779
+2009,"Congo, Rep.",Sub-Saharan Africa,5.21,4.6,124780
+2009,Costa Rica,Latin America & the Caribbean,8.24,7.4,124781
+2009,Cote d'Ivoire,Sub-Saharan Africa,6.2,5.66,124782
+2009,Croatia,Eastern Europe,7.73,6.77,124783
+2009,Cyprus,Eastern Europe,8.19,7.78,124784
+2009,Czech Republic,Eastern Europe,8.54,7.59,124785
+2009,Denmark,Western Europe,8.95,7.93,124786
+2009,Dominican Republic,Latin America & the Caribbean,7.45,7.22,124787
+2009,Ecuador,Latin America & the Caribbean,6.98,6.23,124788
+2009,"Egypt, Arab Rep.",Middle East & North Africa,5.29,6.03,124789
+2009,El Salvador,Latin America & the Caribbean,7.5,7.54,124790
+2009,Estonia,Eastern Europe,8.74,7.89,124791
+2009,Ethiopia,Sub-Saharan Africa,5.29,5.51,124792
+2009,Fiji,Oceania,6.67,6.95,124793
+2009,Finland,Western Europe,8.91,7.88,124794
+2009,France,Western Europe,8.54,7.69,124795
+2009,Gabon,Sub-Saharan Africa,6.39,5.81,124796
+2009,Georgia,Caucasus & Central Asia,7.27,7.35,124797
+2009,Germany,Western Europe,8.64,7.78,124798
+2009,Ghana,Sub-Saharan Africa,7.73,7.05,124799
+2009,Greece,Eastern Europe,7.97,7.05,124800
+2009,Guatemala,Latin America & the Caribbean,7.37,7.38,124801
+2009,Guinea-Bissau,Sub-Saharan Africa,6.14,5.08,124802
+2009,Guyana,Latin America & the Caribbean,7.23,6.53,124803
+2009,Haiti,Latin America & the Caribbean,7.2,7,124804
+2009,Honduras,Latin America & the Caribbean,6.93,7.18,124805
+2009,"Hong Kong SAR, China",East Asia,8.98,9.1,124806
+2009,Hungary,Eastern Europe,8.47,7.51,124807
+2009,Iceland,Western Europe,8.47,6.8,124808
+2009,India,South Asia,6.86,6.3,124809
+2009,Indonesia,South Asia,7.13,6.68,124810
+2009,"Iran, Islamic Rep.",Middle East & North Africa,4.72,5.84,124811
+2009,Ireland,Western Europe,8.78,7.84,124812
+2009,Israel,Middle East & North Africa,7.5,7.3,124813
+2009,Italy,Western Europe,8.33,7.4,124814
+2009,Jamaica,Latin America & the Caribbean,7.62,7.24,124815
+2009,Japan,East Asia,8.63,7.8,124816
+2009,Jordan,Middle East & North Africa,6.72,7.22,124817
+2009,Kazakhstan,Caucasus & Central Asia,6.52,6.76,124818
+2009,Kenya,Sub-Saharan Africa,6.87,7.1,124819
+2009,"Korea, Rep.",East Asia,8.2,7.47,124820
+2009,Kuwait,Middle East & North Africa,6.44,6.84,124821
+2009,Kyrgyz Republic,Caucasus & Central Asia,6.28,6.83,124822
+2009,Latvia,Eastern Europe,8.46,7.77,124823
+2009,Lesotho,Sub-Saharan Africa,6.58,6.2,124824
+2009,Lithuania,Eastern Europe,8.32,7.44,124825
+2009,Luxembourg,Western Europe,8.74,7.61,124826
+2009,Madagascar,Sub-Saharan Africa,6.39,6.1,124827
+2009,Malawi,Sub-Saharan Africa,7.03,6.18,124828
+2009,Malaysia,South Asia,6.31,6.43,124829
+2009,Mali,Sub-Saharan Africa,6.47,5.89,124830
+2009,Malta,Western Europe,8.6,7.78,124831
+2009,Mauritania,Sub-Saharan Africa,5.92,6.05,124832
+2009,Mauritius,Sub-Saharan Africa,8.16,7.95,124833
+2009,Mexico,Latin America & the Caribbean,6.95,6.81,124834
+2009,Moldova,Eastern Europe,6.77,6.53,124835
+2009,Mongolia,East Asia,7.82,7.15,124836
+2009,Montenegro,Eastern Europe,7.95,6.96,124837
+2009,Morocco,Middle East & North Africa,6.03,6.35,124838
+2009,Mozambique,Sub-Saharan Africa,6.36,5.57,124839
+2009,Myanmar,South Asia,3.88,3.95,124840
+2009,Namibia,Sub-Saharan Africa,7.34,6.68,124841
+2009,Nepal,South Asia,6.85,6.33,124842
+2009,Netherlands,Western Europe,8.69,7.75,124843
+2009,New Zealand,Oceania,9.04,8.27,124844
+2009,Nicaragua,Latin America & the Caribbean,7.34,7.17,124845
+2009,Niger,Sub-Saharan Africa,5.98,5.52,124846
+2009,Nigeria,Sub-Saharan Africa,6.07,5.93,124847
+2009,North Macedonia,Eastern Europe,7.84,7.34,124848
+2009,Norway,Western Europe,8.79,7.65,124849
+2009,Oman,Middle East & North Africa,5.96,6.89,124850
+2009,Pakistan,South Asia,5.49,5.94,124851
+2009,Panama,Latin America & the Caribbean,8.01,7.5,124852
+2009,Papua New Guinea,Oceania,7.68,6.81,124853
+2009,Paraguay,Latin America & the Caribbean,7.41,6.98,124854
+2009,Peru,Latin America & the Caribbean,7.61,7.7,124855
+2009,Philippines,South Asia,6.91,6.83,124856
+2009,Poland,Eastern Europe,8.3,6.89,124857
+2009,Portugal,Western Europe,8.47,7.25,124858
+2009,Romania,Eastern Europe,8.18,7.52,124859
+2009,Russian Federation,Eastern Europe,6,6.19,124860
+2009,Rwanda,Sub-Saharan Africa,6.18,6.73,124861
+2009,Senegal,Sub-Saharan Africa,6.71,5.83,124862
+2009,Serbia,Eastern Europe,7.41,6.6,124863
+2009,Sierra Leone,Sub-Saharan Africa,6.76,6.51,124864
+2009,Singapore,South Asia,7.96,8.8,124865
+2009,Slovak Republic,Eastern Europe,8.43,7.62,124866
+2009,Slovenia,Eastern Europe,8.38,7.25,124867
+2009,South Africa,Sub-Saharan Africa,7.29,6.78,124868
+2009,Spain,Western Europe,8.47,7.56,124869
+2009,Sri Lanka,South Asia,5.53,6.15,124870
+2009,Sweden,Western Europe,8.85,7.72,124871
+2009,Switzerland,Western Europe,9.15,8.51,124872
+2009,Syrian Arab Republic,Middle East & North Africa,4.7,5.61,124873
+2009,Taiwan,East Asia,8.4,7.39,124874
+2009,Tanzania,Sub-Saharan Africa,6.67,6.49,124875
+2009,Thailand,South Asia,6.99,6.64,124876
+2009,Togo,Sub-Saharan Africa,5.89,5.51,124877
+2009,Trinidad and Tobago,Latin America & the Caribbean,7.46,7.02,124878
+2009,Tunisia,Middle East & North Africa,5.16,6.4,124879
+2009,Turkey,Middle East & North Africa,7.1,6.9,124880
+2009,Uganda,Sub-Saharan Africa,6.39,7.34,124881
+2009,Ukraine,Eastern Europe,7.11,5.74,124882
+2009,United Arab Emirates,Middle East & North Africa,6.13,7.05,124883
+2009,United Kingdom,Western Europe,8.87,8.08,124884
+2009,United States of America,North America,8.76,8.05,124885
+2009,Uruguay,Latin America & the Caribbean,8.42,7.31,124886
+2009,"Venezuela, RB",Latin America & the Caribbean,5.15,4.1,124887
+2009,Vietnam,South Asia,5.79,5.92,124888
+2009,Zambia,Sub-Saharan Africa,7.12,7.21,124889
+2009,Zimbabwe,Sub-Saharan Africa,5.17,4.68,124890
+2008,Albania,Eastern Europe,7.94,7.28,124891
+2008,Algeria,Middle East & North Africa,5.26,5.19,124892
+2008,Angola,Sub-Saharan Africa,5.31,4.5,124893
+2008,Argentina,Latin America & the Caribbean,7.61,6.22,124894
+2008,Armenia,Caucasus & Central Asia,7.41,7.67,124895
+2008,Australia,Oceania,8.87,8.18,124896
+2008,Austria,Western Europe,8.7,7.83,124897
+2008,Azerbaijan,Caucasus & Central Asia,5.79,5.84,124898
+2008,"Bahamas, The",Latin America & the Caribbean,8.27,7.61,124899
+2008,Bahrain,Middle East & North Africa,6.53,7.27,124900
+2008,Bangladesh,South Asia,6.05,6.11,124901
+2008,Barbados,Latin America & the Caribbean,7.59,6.2,124902
+2008,Belgium,Western Europe,8.55,7.53,124903
+2008,Belize,Latin America & the Caribbean,7.95,7.29,124904
+2008,Benin,Sub-Saharan Africa,6.96,5.87,124905
+2008,Bolivia,Latin America & the Caribbean,7.31,6.27,124906
+2008,Bosnia and Herzegovina,Eastern Europe,7.57,6.68,124907
+2008,Botswana,Sub-Saharan Africa,7.48,6.9,124908
+2008,Brazil,Latin America & the Caribbean,7.65,6.5,124909
+2008,Bulgaria,Eastern Europe,8.05,7.41,124910
+2008,Burkina Faso,Sub-Saharan Africa,7,5.84,124911
+2008,Burundi,Sub-Saharan Africa,5.49,5.2,124912
+2008,Cameroon,Sub-Saharan Africa,6.07,5.58,124913
+2008,Canada,North America,8.88,8.2,124914
+2008,Central African Republic,Sub-Saharan Africa,5.75,5.37,124915
+2008,Chad,Sub-Saharan Africa,5.44,5.27,124916
+2008,Chile,Latin America & the Caribbean,8.64,7.98,124917
+2008,China,East Asia,5.43,5.98,124918
+2008,Colombia,Latin America & the Caribbean,6.66,6.63,124919
+2008,"Congo, Dem. Rep.",Sub-Saharan Africa,5.35,5.15,124920
+2008,"Congo, Rep.",Sub-Saharan Africa,5.36,4.61,124921
+2008,Costa Rica,Latin America & the Caribbean,8.16,7.36,124922
+2008,Cote d'Ivoire,Sub-Saharan Africa,6.22,5.46,124923
+2008,Croatia,Eastern Europe,7.74,6.76,124924
+2008,Cyprus,Eastern Europe,8.22,7.85,124925
+2008,Czech Republic,Eastern Europe,8.55,7.63,124926
+2008,Denmark,Western Europe,8.99,8.04,124927
+2008,Dominican Republic,Latin America & the Caribbean,7.24,6.73,124928
+2008,Ecuador,Latin America & the Caribbean,7.18,6.36,124929
+2008,"Egypt, Arab Rep.",Middle East & North Africa,5.44,6.27,124930
+2008,El Salvador,Latin America & the Caribbean,7.65,7.76,124931
+2008,Estonia,Eastern Europe,8.71,7.84,124932
+2008,Ethiopia,Sub-Saharan Africa,5.09,5.1,124933
+2008,Fiji,Oceania,6.81,6.96,124934
+2008,Finland,Western Europe,8.91,7.9,124935
+2008,France,Western Europe,8.62,7.74,124936
+2008,Gabon,Sub-Saharan Africa,6.33,5.82,124937
+2008,Georgia,Caucasus & Central Asia,7.44,7.56,124938
+2008,Germany,Western Europe,8.61,7.7,124939
+2008,Ghana,Sub-Saharan Africa,7.71,6.98,124940
+2008,Greece,Eastern Europe,8.03,7.19,124941
+2008,Guatemala,Latin America & the Caribbean,7.37,7.45,124942
+2008,Guinea-Bissau,Sub-Saharan Africa,6.08,4.72,124943
+2008,Guyana,Latin America & the Caribbean,7.13,6.54,124944
+2008,Haiti,Latin America & the Caribbean,7.35,6.94,124945
+2008,Honduras,Latin America & the Caribbean,7.34,7.31,124946
+2008,"Hong Kong SAR, China",East Asia,8.93,9.07,124947
+2008,Hungary,Eastern Europe,8.44,7.43,124948
+2008,Iceland,Western Europe,8.62,7.17,124949
+2008,India,South Asia,6.85,6.33,124950
+2008,Indonesia,South Asia,7.11,6.63,124951
+2008,"Iran, Islamic Rep.",Middle East & North Africa,4.91,5.95,124952
+2008,Ireland,Western Europe,8.85,8.03,124953
+2008,Israel,Middle East & North Africa,7.31,7.33,124954
+2008,Italy,Western Europe,8.36,7.46,124955
+2008,Jamaica,Latin America & the Caribbean,7.57,7.16,124956
+2008,Japan,East Asia,8.6,7.9,124957
+2008,Jordan,Middle East & North Africa,6.69,7.16,124958
+2008,Kazakhstan,Caucasus & Central Asia,6.5,6.68,124959
+2008,Kenya,Sub-Saharan Africa,6.86,6.98,124960
+2008,"Korea, Rep.",East Asia,8.22,7.49,124961
+2008,Kuwait,Middle East & North Africa,6.47,6.92,124962
+2008,Kyrgyz Republic,Caucasus & Central Asia,6.59,6.76,124963
+2008,Latvia,Eastern Europe,8.52,7.88,124964
+2008,Lesotho,Sub-Saharan Africa,6.59,6.22,124965
+2008,Lithuania,Eastern Europe,8.35,7.5,124966
+2008,Luxembourg,Western Europe,8.76,7.7,124967
+2008,Madagascar,Sub-Saharan Africa,7.06,6.15,124968
+2008,Malawi,Sub-Saharan Africa,6.95,6.09,124969
+2008,Malaysia,South Asia,6.34,6.45,124970
+2008,Mali,Sub-Saharan Africa,6.42,5.8,124971
+2008,Malta,Western Europe,8.55,7.71,124972
+2008,Mauritania,Sub-Saharan Africa,5.85,5.7,124973
+2008,Mauritius,Sub-Saharan Africa,8.24,7.93,124974
+2008,Mexico,Latin America & the Caribbean,7.18,6.88,124975
+2008,Moldova,Eastern Europe,6.91,6.6,124976
+2008,Mongolia,East Asia,7.66,6.85,124977
+2008,Montenegro,Eastern Europe,7.65,6.8,124978
+2008,Morocco,Middle East & North Africa,6,6.24,124979
+2008,Mozambique,Sub-Saharan Africa,6.37,5.76,124980
+2008,Myanmar,South Asia,3.75,3.63,124981
+2008,Namibia,Sub-Saharan Africa,7.48,6.75,124982
+2008,Nepal,South Asia,6.82,6.47,124983
+2008,Netherlands,Western Europe,8.75,7.88,124984
+2008,New Zealand,Oceania,9.09,8.37,124985
+2008,Nicaragua,Latin America & the Caribbean,7.4,7.23,124986
+2008,Niger,Sub-Saharan Africa,6.19,5.31,124987
+2008,Nigeria,Sub-Saharan Africa,6.34,6.07,124988
+2008,North Macedonia,Eastern Europe,7.81,7.3,124989
+2008,Norway,Western Europe,8.82,7.72,124990
+2008,Oman,Middle East & North Africa,5.98,6.95,124991
+2008,Pakistan,South Asia,5.49,5.74,124992
+2008,Panama,Latin America & the Caribbean,8.01,7.44,124993
+2008,Papua New Guinea,Oceania,7.66,6.72,124994
+2008,Paraguay,Latin America & the Caribbean,7.39,6.95,124995
+2008,Peru,Latin America & the Caribbean,7.6,7.69,124996
+2008,Philippines,South Asia,7.16,6.83,124997
+2008,Poland,Eastern Europe,8.25,6.83,124998
+2008,Portugal,Western Europe,8.57,7.47,124999
+2008,Romania,Eastern Europe,8.19,7.55,125000
+2008,Russian Federation,Eastern Europe,6.14,6.28,125001
+2008,Rwanda,Sub-Saharan Africa,6.24,6.67,125002
+2008,Senegal,Sub-Saharan Africa,6.64,5.65,125003
+2008,Serbia,Eastern Europe,7.41,6.59,125004
+2008,Sierra Leone,Sub-Saharan Africa,6.6,6.23,125005
+2008,Singapore,South Asia,7.96,8.79,125006
+2008,Slovak Republic,Eastern Europe,8.5,7.73,125007
+2008,Slovenia,Eastern Europe,8.36,7.3,125008
+2008,South Africa,Sub-Saharan Africa,7.33,6.79,125009
+2008,Spain,Western Europe,8.61,7.74,125010
+2008,Sri Lanka,South Asia,5.5,6.03,125011
+2008,Sweden,Western Europe,8.84,7.68,125012
+2008,Switzerland,Western Europe,9.15,8.47,125013
+2008,Syrian Arab Republic,Middle East & North Africa,4.63,5.41,125014
+2008,Taiwan,East Asia,8.41,7.41,125015
+2008,Tanzania,Sub-Saharan Africa,6.59,6.24,125016
+2008,Thailand,South Asia,7.05,6.75,125017
+2008,Togo,Sub-Saharan Africa,5.93,5.69,125018
+2008,Trinidad and Tobago,Latin America & the Caribbean,7.48,7.24,125019
+2008,Tunisia,Middle East & North Africa,5.19,6.44,125020
+2008,Turkey,Middle East & North Africa,7.01,6.97,125021
+2008,Uganda,Sub-Saharan Africa,6.49,7.33,125022
+2008,Ukraine,Eastern Europe,7.08,5.7,125023
+2008,United Arab Emirates,Middle East & North Africa,6.19,7.24,125024
+2008,United Kingdom,Western Europe,8.91,8.17,125025
+2008,United States of America,North America,8.87,8.33,125026
+2008,Uruguay,Latin America & the Caribbean,8.42,7.31,125027
+2008,"Venezuela, RB",Latin America & the Caribbean,5.27,4.19,125028
+2008,Vietnam,South Asia,5.71,5.75,125029
+2008,Zambia,Sub-Saharan Africa,7.17,7.15,125030
+2008,Zimbabwe,Sub-Saharan Africa,5.2,4.91,125031
+2007,Albania,Eastern Europe,7.95,7.31,125032
+2007,Algeria,Middle East & North Africa,5.33,5.36,125033
+2007,Angola,Sub-Saharan Africa,5.33,4.59,125034
+2007,Argentina,Latin America & the Caribbean,7.66,6.31,125035
+2007,Armenia,Caucasus & Central Asia,7.51,7.68,125036
+2007,Australia,Oceania,8.96,8.25,125037
+2007,Austria,Western Europe,8.74,7.91,125038
+2007,Azerbaijan,Caucasus & Central Asia,5.73,5.68,125039
+2007,"Bahamas, The",Latin America & the Caribbean,8.15,7.61,125040
+2007,Bahrain,Middle East & North Africa,6.51,7.33,125041
+2007,Bangladesh,South Asia,5.99,6.08,125042
+2007,Barbados,Latin America & the Caribbean,7.71,6.35,125043
+2007,Belgium,Western Europe,8.57,7.58,125044
+2007,Belize,Latin America & the Caribbean,7.92,7.22,125045
+2007,Benin,Sub-Saharan Africa,6.98,5.96,125046
+2007,Bolivia,Latin America & the Caribbean,7.5,6.38,125047
+2007,Bosnia and Herzegovina,Eastern Europe,7.6,6.69,125048
+2007,Botswana,Sub-Saharan Africa,7.62,7.22,125049
+2007,Brazil,Latin America & the Caribbean,7.61,6.42,125050
+2007,Bulgaria,Eastern Europe,8.08,7.4,125051
+2007,Burkina Faso,Sub-Saharan Africa,7.03,5.87,125052
+2007,Burundi,Sub-Saharan Africa,5.87,5.68,125053
+2007,Cameroon,Sub-Saharan Africa,6.11,5.65,125054
+2007,Canada,North America,8.89,8.21,125055
+2007,Central African Republic,Sub-Saharan Africa,5.77,5.41,125056
+2007,Chad,Sub-Saharan Africa,5.42,5.35,125057
+2007,Chile,Latin America & the Caribbean,8.59,8.04,125058
+2007,China,East Asia,5.43,6,125059
+2007,Colombia,Latin America & the Caribbean,6.6,6.55,125060
+2007,"Congo, Dem. Rep.",Sub-Saharan Africa,5.33,5.14,125061
+2007,"Congo, Rep.",Sub-Saharan Africa,5.51,4.6,125062
+2007,Costa Rica,Latin America & the Caribbean,8.26,7.51,125063
+2007,Cote d'Ivoire,Sub-Saharan Africa,6.31,5.59,125064
+2007,Croatia,Eastern Europe,7.8,6.67,125065
+2007,Cyprus,Eastern Europe,8.12,7.87,125066
+2007,Czech Republic,Eastern Europe,8.57,7.63,125067
+2007,Denmark,Western Europe,9.04,8.14,125068
+2007,Dominican Republic,Latin America & the Caribbean,7.46,6.82,125069
+2007,Ecuador,Latin America & the Caribbean,7.22,6.19,125070
+2007,"Egypt, Arab Rep.",Middle East & North Africa,5.5,6.34,125071
+2007,El Salvador,Latin America & the Caribbean,7.74,7.77,125072
+2007,Estonia,Eastern Europe,8.75,7.97,125073
+2007,Ethiopia,Sub-Saharan Africa,5.2,5.46,125074
+2007,Fiji,Oceania,6.88,6.85,125075
+2007,Finland,Western Europe,8.93,7.96,125076
+2007,France,Western Europe,8.65,7.79,125077
+2007,Gabon,Sub-Saharan Africa,6.29,5.77,125078
+2007,Georgia,Caucasus & Central Asia,7.73,7.64,125079
+2007,Germany,Western Europe,8.62,7.74,125080
+2007,Ghana,Sub-Saharan Africa,7.61,7.03,125081
+2007,Greece,Eastern Europe,8.15,7.44,125082
+2007,Guatemala,Latin America & the Caribbean,7.42,7.52,125083
+2007,Guinea-Bissau,Sub-Saharan Africa,5.91,4.68,125084
+2007,Guyana,Latin America & the Caribbean,7.33,6.42,125085
+2007,Haiti,Latin America & the Caribbean,7.25,6.85,125086
+2007,Honduras,Latin America & the Caribbean,7.28,7.32,125087
+2007,"Hong Kong SAR, China",East Asia,8.97,9.03,125088
+2007,Hungary,Eastern Europe,8.45,7.41,125089
+2007,Iceland,Western Europe,8.95,7.97,125090
+2007,India,South Asia,6.91,6.39,125091
+2007,Indonesia,South Asia,7.16,6.67,125092
+2007,"Iran, Islamic Rep.",Middle East & North Africa,4.95,5.97,125093
+2007,Ireland,Western Europe,8.94,8.22,125094
+2007,Israel,Middle East & North Africa,7.49,7.4,125095
+2007,Italy,Western Europe,8.4,7.53,125096
+2007,Jamaica,Latin America & the Caribbean,7.69,7.4,125097
+2007,Japan,East Asia,8.64,8,125098
+2007,Jordan,Middle East & North Africa,6.73,7.29,125099
+2007,Kazakhstan,Caucasus & Central Asia,6.45,6.73,125100
+2007,Kenya,Sub-Saharan Africa,7.05,7.26,125101
+2007,"Korea, Rep.",East Asia,8.38,7.65,125102
+2007,Kuwait,Middle East & North Africa,6.5,7.23,125103
+2007,Kyrgyz Republic,Caucasus & Central Asia,6.65,6.84,125104
+2007,Latvia,Eastern Europe,8.56,7.95,125105
+2007,Lesotho,Sub-Saharan Africa,6.5,6.33,125106
+2007,Lithuania,Eastern Europe,8.48,7.69,125107
+2007,Luxembourg,Western Europe,8.79,7.69,125108
+2007,Madagascar,Sub-Saharan Africa,7.01,5.97,125109
+2007,Malawi,Sub-Saharan Africa,6.84,5.82,125110
+2007,Malaysia,South Asia,6.41,6.61,125111
+2007,Mali,Sub-Saharan Africa,6.53,5.98,125112
+2007,Malta,Western Europe,8.58,7.76,125113
+2007,Mauritania,Sub-Saharan Africa,5.91,5.6,125114
+2007,Mauritius,Sub-Saharan Africa,8.21,7.84,125115
+2007,Mexico,Latin America & the Caribbean,7.27,6.88,125116
+2007,Moldova,Eastern Europe,6.95,6.54,125117
+2007,Mongolia,East Asia,7.76,7,125118
+2007,Montenegro,Eastern Europe,7.75,6.78,125119
+2007,Morocco,Middle East & North Africa,5.94,6.22,125120
+2007,Mozambique,Sub-Saharan Africa,6.38,5.71,125121
+2007,Myanmar,South Asia,3.6,3.34,125122
+2007,Namibia,Sub-Saharan Africa,7.43,6.78,125123
+2007,Nepal,South Asia,6.94,6.69,125124
+2007,Netherlands,Western Europe,8.79,7.94,125125
+2007,New Zealand,Oceania,9.09,8.4,125126
+2007,Nicaragua,Latin America & the Caribbean,7.41,7.46,125127
+2007,Niger,Sub-Saharan Africa,6.15,5.31,125128
+2007,Nigeria,Sub-Saharan Africa,6.32,6.28,125129
+2007,North Macedonia,Eastern Europe,7.82,7.24,125130
+2007,Norway,Western Europe,8.87,7.84,125131
+2007,Oman,Middle East & North Africa,6.05,7.12,125132
+2007,Pakistan,South Asia,5.4,5.92,125133
+2007,Panama,Latin America & the Caribbean,7.87,7.62,125134
+2007,Papua New Guinea,Oceania,7.64,6.64,125135
+2007,Paraguay,Latin America & the Caribbean,7.35,6.93,125136
+2007,Peru,Latin America & the Caribbean,7.61,7.64,125137
+2007,Philippines,South Asia,7.23,6.93,125138
+2007,Poland,Eastern Europe,8.21,6.8,125139
+2007,Portugal,Western Europe,8.59,7.54,125140
+2007,Romania,Eastern Europe,8.14,7.46,125141
+2007,Russian Federation,Eastern Europe,6.09,6.26,125142
+2007,Rwanda,Sub-Saharan Africa,6.28,6.41,125143
+2007,Senegal,Sub-Saharan Africa,6.68,5.65,125144
+2007,Serbia,Eastern Europe,7.56,6.73,125145
+2007,Sierra Leone,Sub-Saharan Africa,6.58,6.21,125146
+2007,Singapore,South Asia,8,8.82,125147
+2007,Slovak Republic,Eastern Europe,8.5,7.72,125148
+2007,Slovenia,Eastern Europe,8.36,7.26,125149
+2007,South Africa,Sub-Saharan Africa,7.45,6.96,125150
+2007,Spain,Western Europe,8.58,7.79,125151
+2007,Sri Lanka,South Asia,5.63,6.23,125152
+2007,Sweden,Western Europe,8.85,7.71,125153
+2007,Switzerland,Western Europe,9.19,8.58,125154
+2007,Syrian Arab Republic,Middle East & North Africa,4.78,5.69,125155
+2007,Taiwan,East Asia,8.45,7.45,125156
+2007,Tanzania,Sub-Saharan Africa,6.61,6.3,125157
+2007,Thailand,South Asia,6.94,6.72,125158
+2007,Togo,Sub-Saharan Africa,5.97,5.86,125159
+2007,Trinidad and Tobago,Latin America & the Caribbean,7.66,7.35,125160
+2007,Tunisia,Middle East & North Africa,5.26,6.47,125161
+2007,Turkey,Middle East & North Africa,6.86,6.52,125162
+2007,Uganda,Sub-Saharan Africa,6.49,7.29,125163
+2007,Ukraine,Eastern Europe,7.07,5.73,125164
+2007,United Arab Emirates,Middle East & North Africa,6.19,7.31,125165
+2007,United Kingdom,Western Europe,8.94,8.29,125166
+2007,United States of America,North America,8.92,8.53,125167
+2007,Uruguay,Latin America & the Caribbean,8.42,7.34,125168
+2007,"Venezuela, RB",Latin America & the Caribbean,5.28,4.29,125169
+2007,Vietnam,South Asia,5.7,5.9,125170
+2007,Zambia,Sub-Saharan Africa,7.14,7.1,125171
+2007,Zimbabwe,Sub-Saharan Africa,4.77,3.7,125172
+2006,Albania,Eastern Europe,7.86,7.27,125173
+2006,Algeria,Middle East & North Africa,5.37,5.44,125174
+2006,Angola,Sub-Saharan Africa,5.38,4.57,125175
+2006,Argentina,Latin America & the Caribbean,7.58,6.15,125176
+2006,Armenia,Caucasus & Central Asia,7.55,7.66,125177
+2006,Australia,Oceania,8.94,8.21,125178
+2006,Austria,Western Europe,8.74,7.91,125179
+2006,Azerbaijan,Caucasus & Central Asia,5.82,5.86,125180
+2006,"Bahamas, The",Latin America & the Caribbean,8.21,7.59,125181
+2006,Bahrain,Middle East & North Africa,6.48,7.19,125182
+2006,Bangladesh,South Asia,6.15,6.07,125183
+2006,Barbados,Latin America & the Caribbean,7.68,6.39,125184
+2006,Belgium,Western Europe,8.56,7.55,125185
+2006,Belize,Latin America & the Caribbean,7.95,7.25,125186
+2006,Benin,Sub-Saharan Africa,7.02,5.98,125187
+2006,Bolivia,Latin America & the Caribbean,7.61,6.54,125188
+2006,Bosnia and Herzegovina,Eastern Europe,7.53,6.51,125189
+2006,Botswana,Sub-Saharan Africa,7.59,7.1,125190
+2006,Brazil,Latin America & the Caribbean,7.56,6.4,125191
+2006,Bulgaria,Eastern Europe,8.06,7.35,125192
+2006,Burkina Faso,Sub-Saharan Africa,6.92,5.79,125193
+2006,Burundi,Sub-Saharan Africa,5.72,5.72,125194
+2006,Cameroon,Sub-Saharan Africa,6.13,5.7,125195
+2006,Canada,North America,8.89,8.27,125196
+2006,Central African Republic,Sub-Saharan Africa,5.57,5.14,125197
+2006,Chad,Sub-Saharan Africa,5.54,5.42,125198
+2006,Chile,Latin America & the Caribbean,8.57,7.99,125199
+2006,China,East Asia,5.38,5.88,125200
+2006,Colombia,Latin America & the Caribbean,6.53,6.51,125201
+2006,"Congo, Dem. Rep.",Sub-Saharan Africa,5.45,5.11,125202
+2006,"Congo, Rep.",Sub-Saharan Africa,5.64,4.81,125203
+2006,Costa Rica,Latin America & the Caribbean,8.46,7.65,125204
+2006,Cote d'Ivoire,Sub-Saharan Africa,6.37,5.78,125205
+2006,Croatia,Eastern Europe,7.81,6.65,125206
+2006,Cyprus,Eastern Europe,7.89,7.49,125207
+2006,Czech Republic,Eastern Europe,8.52,7.48,125208
+2006,Denmark,Western Europe,9.05,8.17,125209
+2006,Dominican Republic,Latin America & the Caribbean,7.42,6.64,125210
+2006,Ecuador,Latin America & the Caribbean,7.06,6.24,125211
+2006,"Egypt, Arab Rep.",Middle East & North Africa,5.38,6.18,125212
+2006,El Salvador,Latin America & the Caribbean,7.63,7.68,125213
+2006,Estonia,Eastern Europe,8.76,8,125214
+2006,Ethiopia,Sub-Saharan Africa,5.22,5.4,125215
+2006,Fiji,Oceania,7.19,6.9,125216
+2006,Finland,Western Europe,8.93,7.93,125217
+2006,France,Western Europe,8.5,7.58,125218
+2006,Gabon,Sub-Saharan Africa,6.28,5.74,125219
+2006,Georgia,Caucasus & Central Asia,7.8,7.77,125220
+2006,Germany,Western Europe,8.64,7.78,125221
+2006,Ghana,Sub-Saharan Africa,7.52,7.02,125222
+2006,Greece,Eastern Europe,8.15,7.4,125223
+2006,Guatemala,Latin America & the Caribbean,7.44,7.48,125224
+2006,Guinea-Bissau,Sub-Saharan Africa,5.99,5.06,125225
+2006,Guyana,Latin America & the Caribbean,7.18,6.37,125226
+2006,Haiti,Latin America & the Caribbean,7.15,6.77,125227
+2006,Honduras,Latin America & the Caribbean,7.31,7.33,125228
+2006,"Hong Kong SAR, China",East Asia,8.97,9.04,125229
+2006,Hungary,Eastern Europe,8.35,7.35,125230
+2006,Iceland,Western Europe,8.95,7.96,125231
+2006,India,South Asia,6.9,6.37,125232
+2006,Indonesia,South Asia,7.15,6.59,125233
+2006,"Iran, Islamic Rep.",Middle East & North Africa,5.06,6.13,125234
+2006,Ireland,Western Europe,8.93,8.21,125235
+2006,Israel,Middle East & North Africa,7.56,7.36,125236
+2006,Italy,Western Europe,8.42,7.56,125237
+2006,Jamaica,Latin America & the Caribbean,7.76,7.57,125238
+2006,Japan,East Asia,8.71,7.99,125239
+2006,Jordan,Middle East & North Africa,6.68,7.19,125240
+2006,Kazakhstan,Caucasus & Central Asia,6.34,6.49,125241
+2006,Kenya,Sub-Saharan Africa,6.98,7.15,125242
+2006,"Korea, Rep.",East Asia,8.38,7.65,125243
+2006,Kuwait,Middle East & North Africa,6.42,7.12,125244
+2006,Kyrgyz Republic,Caucasus & Central Asia,6.66,6.76,125245
+2006,Latvia,Eastern Europe,8.52,7.91,125246
+2006,Lesotho,Sub-Saharan Africa,6.64,6.24,125247
+2006,Lithuania,Eastern Europe,8.46,7.69,125248
+2006,Luxembourg,Western Europe,8.75,7.6,125249
+2006,Madagascar,Sub-Saharan Africa,6.87,5.9,125250
+2006,Malawi,Sub-Saharan Africa,6.69,5.5,125251
+2006,Malaysia,South Asia,6.35,6.51,125252
+2006,Mali,Sub-Saharan Africa,6.57,5.85,125253
+2006,Malta,Western Europe,8.49,7.48,125254
+2006,Mauritania,Sub-Saharan Africa,5.85,5.62,125255
+2006,Mauritius,Sub-Saharan Africa,7.97,7.47,125256
+2006,Mexico,Latin America & the Caribbean,7.33,6.95,125257
+2006,Moldova,Eastern Europe,6.88,6.53,125258
+2006,Mongolia,East Asia,7.75,7.07,125259
+2006,Montenegro,Eastern Europe,7.77,6.76,125260
+2006,Morocco,Middle East & North Africa,5.94,6.17,125261
+2006,Mozambique,Sub-Saharan Africa,6.34,5.58,125262
+2006,Myanmar,South Asia,3.76,3.69,125263
+2006,Namibia,Sub-Saharan Africa,7.43,6.57,125264
+2006,Nepal,South Asia,6.13,6.78,125265
+2006,Netherlands,Western Europe,8.76,7.88,125266
+2006,New Zealand,Oceania,9.06,8.32,125267
+2006,Nicaragua,Latin America & the Caribbean,7.43,7.44,125268
+2006,Niger,Sub-Saharan Africa,6.29,5.37,125269
+2006,Nigeria,Sub-Saharan Africa,6.49,6.41,125270
+2006,North Macedonia,Eastern Europe,7.66,7.1,125271
+2006,Norway,Western Europe,8.82,7.75,125272
+2006,Oman,Middle East & North Africa,5.94,6.97,125273
+2006,Pakistan,South Asia,5.7,5.93,125274
+2006,Panama,Latin America & the Caribbean,7.89,7.66,125275
+2006,Papua New Guinea,Oceania,7.56,6.5,125276
+2006,Paraguay,Latin America & the Caribbean,7.36,6.95,125277
+2006,Peru,Latin America & the Caribbean,7.67,7.66,125278
+2006,Philippines,South Asia,7.29,6.96,125279
+2006,Poland,Eastern Europe,8.24,6.81,125280
+2006,Portugal,Western Europe,8.6,7.54,125281
+2006,Romania,Eastern Europe,7.97,7.1,125282
+2006,Russian Federation,Eastern Europe,6.02,6.03,125283
+2006,Rwanda,Sub-Saharan Africa,6.08,6.2,125284
+2006,Senegal,Sub-Saharan Africa,6.79,5.78,125285
+2006,Serbia,Eastern Europe,7.43,6.41,125286
+2006,Sierra Leone,Sub-Saharan Africa,6.45,5.94,125287
+2006,Singapore,South Asia,8.02,8.8,125288
+2006,Slovak Republic,Eastern Europe,8.47,7.64,125289
+2006,Slovenia,Eastern Europe,8.35,7.15,125290
+2006,South Africa,Sub-Saharan Africa,7.45,6.96,125291
+2006,Spain,Western Europe,8.59,7.81,125292
+2006,Sri Lanka,South Asia,5.96,6.4,125293
+2006,Sweden,Western Europe,8.86,7.72,125294
+2006,Switzerland,Western Europe,9.19,8.57,125295
+2006,Syrian Arab Republic,Middle East & North Africa,4.76,5.34,125296
+2006,Taiwan,East Asia,8.46,7.48,125297
+2006,Tanzania,Sub-Saharan Africa,6.61,6.34,125298
+2006,Thailand,South Asia,6.96,6.74,125299
+2006,Togo,Sub-Saharan Africa,5.94,6,125300
+2006,Trinidad and Tobago,Latin America & the Caribbean,7.62,7.3,125301
+2006,Tunisia,Middle East & North Africa,5.27,6.48,125302
+2006,Turkey,Middle East & North Africa,6.83,6.39,125303
+2006,Uganda,Sub-Saharan Africa,6.35,7.2,125304
+2006,Ukraine,Eastern Europe,7.05,5.75,125305
+2006,United Arab Emirates,Middle East & North Africa,6.1,7.23,125306
+2006,United Kingdom,Western Europe,8.99,8.39,125307
+2006,United States of America,North America,8.9,8.51,125308
+2006,Uruguay,Latin America & the Caribbean,8.4,7.29,125309
+2006,"Venezuela, RB",Latin America & the Caribbean,5.46,4.68,125310
+2006,Vietnam,South Asia,5.75,5.9,125311
+2006,Zambia,Sub-Saharan Africa,7.17,7.12,125312
+2006,Zimbabwe,Sub-Saharan Africa,4.76,3.47,125313
+2005,Albania,Eastern Europe,7.74,7.12,125314
+2005,Algeria,Middle East & North Africa,5.34,5.3,125315
+2005,Angola,Sub-Saharan Africa,5.14,4.25,125316
+2005,Argentina,Latin America & the Caribbean,7.66,6.22,125317
+2005,Armenia,Caucasus & Central Asia,7.59,7.58,125318
+2005,Australia,Oceania,8.93,8.17,125319
+2005,Austria,Western Europe,8.7,7.91,125320
+2005,Azerbaijan,Caucasus & Central Asia,6.07,6.03,125321
+2005,"Bahamas, The",Latin America & the Caribbean,8.33,7.1,125322
+2005,Bahrain,Middle East & North Africa,6.4,6.81,125323
+2005,Bangladesh,South Asia,6.07,5.97,125324
+2005,Barbados,Latin America & the Caribbean,7.7,6.37,125325
+2005,Belgium,Western Europe,8.65,7.59,125326
+2005,Belize,Latin America & the Caribbean,8.01,7.29,125327
+2005,Benin,Sub-Saharan Africa,7.04,5.94,125328
+2005,Bolivia,Latin America & the Caribbean,7.62,6.56,125329
+2005,Bosnia and Herzegovina,Eastern Europe,7.55,6.42,125330
+2005,Botswana,Sub-Saharan Africa,7.44,7.18,125331
+2005,Brazil,Latin America & the Caribbean,7.63,6.44,125332
+2005,Bulgaria,Eastern Europe,7.97,7.13,125333
+2005,Burkina Faso,Sub-Saharan Africa,6.94,5.81,125334
+2005,Burundi,Sub-Saharan Africa,5.85,5.63,125335
+2005,Cameroon,Sub-Saharan Africa,6.11,5.64,125336
+2005,Canada,North America,8.89,8.27,125337
+2005,Central African Republic,Sub-Saharan Africa,5.57,5.05,125338
+2005,Chad,Sub-Saharan Africa,5.6,5.39,125339
+2005,Chile,Latin America & the Caribbean,8.57,7.98,125340
+2005,China,East Asia,5.33,5.81,125341
+2005,Colombia,Latin America & the Caribbean,6.47,6.5,125342
+2005,"Congo, Dem. Rep.",Sub-Saharan Africa,5.31,4.68,125343
+2005,"Congo, Rep.",Sub-Saharan Africa,5.66,4.87,125344
+2005,Costa Rica,Latin America & the Caribbean,8.33,7.47,125345
+2005,Cote d'Ivoire,Sub-Saharan Africa,6.37,6.02,125346
+2005,Croatia,Eastern Europe,7.77,6.57,125347
+2005,Cyprus,Eastern Europe,7.93,7.52,125348
+2005,Czech Republic,Eastern Europe,8.51,7.52,125349
+2005,Denmark,Western Europe,9.02,8.1,125350
+2005,Dominican Republic,Latin America & the Caribbean,7.37,6.61,125351
+2005,Ecuador,Latin America & the Caribbean,6.97,6.11,125352
+2005,"Egypt, Arab Rep.",Middle East & North Africa,5.33,6.08,125353
+2005,El Salvador,Latin America & the Caribbean,7.61,7.64,125354
+2005,Estonia,Eastern Europe,8.74,8,125355
+2005,Ethiopia,Sub-Saharan Africa,5.29,5.3,125356
+2005,Fiji,Oceania,7.51,7.03,125357
+2005,Finland,Western Europe,8.96,8,125358
+2005,France,Western Europe,8.56,7.57,125359
+2005,Gabon,Sub-Saharan Africa,6.25,5.75,125360
+2005,Georgia,Caucasus & Central Asia,7.63,7.73,125361
+2005,Germany,Western Europe,8.65,7.81,125362
+2005,Ghana,Sub-Saharan Africa,7.34,6.45,125363
+2005,Greece,Eastern Europe,8.12,7.37,125364
+2005,Guatemala,Latin America & the Caribbean,7.39,7.37,125365
+2005,Guinea-Bissau,Sub-Saharan Africa,6.07,5.03,125366
+2005,Guyana,Latin America & the Caribbean,7.27,6.53,125367
+2005,Haiti,Latin America & the Caribbean,6.85,6.79,125368
+2005,Honduras,Latin America & the Caribbean,7.26,7.16,125369
+2005,"Hong Kong SAR, China",East Asia,8.96,9.01,125370
+2005,Hungary,Eastern Europe,8.45,7.42,125371
+2005,Iceland,Western Europe,8.99,8.07,125372
+2005,India,South Asia,6.94,6.46,125373
+2005,Indonesia,South Asia,7.07,6.55,125374
+2005,"Iran, Islamic Rep.",Middle East & North Africa,5.12,6.07,125375
+2005,Ireland,Western Europe,8.99,8.32,125376
+2005,Israel,Middle East & North Africa,7.58,7.38,125377
+2005,Italy,Western Europe,8.52,7.68,125378
+2005,Jamaica,Latin America & the Caribbean,7.75,7.55,125379
+2005,Japan,East Asia,8.74,8.05,125380
+2005,Jordan,Middle East & North Africa,6.56,7.26,125381
+2005,Kazakhstan,Caucasus & Central Asia,6.39,6.6,125382
+2005,Kenya,Sub-Saharan Africa,6.99,7.19,125383
+2005,"Korea, Rep.",East Asia,8.31,7.52,125384
+2005,Kuwait,Middle East & North Africa,6.44,7.02,125385
+2005,Kyrgyz Republic,Caucasus & Central Asia,6.67,6.76,125386
+2005,Latvia,Eastern Europe,8.38,7.79,125387
+2005,Lesotho,Sub-Saharan Africa,6.64,6.06,125388
+2005,Lithuania,Eastern Europe,8.37,7.71,125389
+2005,Luxembourg,Western Europe,8.76,7.61,125390
+2005,Madagascar,Sub-Saharan Africa,6.77,5.65,125391
+2005,Malawi,Sub-Saharan Africa,6.69,5.38,125392
+2005,Malaysia,South Asia,6.34,6.51,125393
+2005,Mali,Sub-Saharan Africa,6.54,5.73,125394
+2005,Malta,Western Europe,8.51,7.57,125395
+2005,Mauritania,Sub-Saharan Africa,5.69,5.72,125396
+2005,Mauritius,Sub-Saharan Africa,8,7.5,125397
+2005,Mexico,Latin America & the Caribbean,7.36,6.96,125398
+2005,Moldova,Eastern Europe,6.92,6.59,125399
+2005,Mongolia,East Asia,7.55,7,125400
+2005,Montenegro,Eastern Europe,7.35,6.06,125401
+2005,Morocco,Middle East & North Africa,5.94,6.15,125402
+2005,Mozambique,Sub-Saharan Africa,6.25,5.42,125403
+2005,Myanmar,South Asia,3.75,3.7,125404
+2005,Namibia,Sub-Saharan Africa,7.45,6.61,125405
+2005,Nepal,South Asia,5.81,6.62,125406
+2005,Netherlands,Western Europe,8.79,7.95,125407
+2005,New Zealand,Oceania,9.1,8.43,125408
+2005,Nicaragua,Latin America & the Caribbean,7.48,7.37,125409
+2005,Niger,Sub-Saharan Africa,6.22,5.23,125410
+2005,Nigeria,Sub-Saharan Africa,6.38,6.18,125411
+2005,North Macedonia,Eastern Europe,7.67,7.18,125412
+2005,Norway,Western Europe,8.86,7.83,125413
+2005,Oman,Middle East & North Africa,6.01,7.03,125414
+2005,Pakistan,South Asia,5.78,5.92,125415
+2005,Panama,Latin America & the Caribbean,7.83,7.71,125416
+2005,Papua New Guinea,Oceania,7.56,6.5,125417
+2005,Paraguay,Latin America & the Caribbean,7.32,6.99,125418
+2005,Peru,Latin America & the Caribbean,7.7,7.68,125419
+2005,Philippines,South Asia,7.2,6.96,125420
+2005,Poland,Eastern Europe,8.22,6.81,125421
+2005,Portugal,Western Europe,8.56,7.44,125422
+2005,Romania,Eastern Europe,7.89,7.26,125423
+2005,Russian Federation,Eastern Europe,5.89,6.02,125424
+2005,Rwanda,Sub-Saharan Africa,5.98,6.06,125425
+2005,Senegal,Sub-Saharan Africa,6.83,5.85,125426
+2005,Serbia,Eastern Europe,7.2,5.91,125427
+2005,Sierra Leone,Sub-Saharan Africa,6.26,5.52,125428
+2005,Singapore,South Asia,8.04,8.78,125429
+2005,Slovak Republic,Eastern Europe,8.5,7.66,125430
+2005,Slovenia,Eastern Europe,8.32,7.09,125431
+2005,South Africa,Sub-Saharan Africa,7.47,7.01,125432
+2005,Spain,Western Europe,8.59,7.85,125433
+2005,Sri Lanka,South Asia,6.17,6.33,125434
+2005,Sweden,Western Europe,8.88,7.77,125435
+2005,Switzerland,Western Europe,9.17,8.51,125436
+2005,Syrian Arab Republic,Middle East & North Africa,4.86,5.47,125437
+2005,Taiwan,East Asia,8.43,7.43,125438
+2005,Tanzania,Sub-Saharan Africa,6.56,6.23,125439
+2005,Thailand,South Asia,7.2,6.63,125440
+2005,Togo,Sub-Saharan Africa,5.62,5.76,125441
+2005,Trinidad and Tobago,Latin America & the Caribbean,7.54,7.24,125442
+2005,Tunisia,Middle East & North Africa,5.27,6.48,125443
+2005,Turkey,Middle East & North Africa,6.89,6.35,125444
+2005,Uganda,Sub-Saharan Africa,6.18,6.96,125445
+2005,Ukraine,Eastern Europe,6.91,5.62,125446
+2005,United Arab Emirates,Middle East & North Africa,6.02,7.06,125447
+2005,United Kingdom,Western Europe,8.93,8.45,125448
+2005,United States of America,North America,8.91,8.51,125449
+2005,Uruguay,Latin America & the Caribbean,8.42,7.32,125450
+2005,"Venezuela, RB",Latin America & the Caribbean,5.54,4.83,125451
+2005,Vietnam,South Asia,5.68,5.82,125452
+2005,Zambia,Sub-Saharan Africa,7.01,6.91,125453
+2005,Zimbabwe,Sub-Saharan Africa,4.62,3.36,125454
+2004,Albania,Eastern Europe,7.77,7.21,125455
+2004,Algeria,Middle East & North Africa,5.14,4.95,125456
+2004,Argentina,Latin America & the Caribbean,7.74,6.39,125457
+2004,Armenia,Caucasus & Central Asia,7.57,7.65,125458
+2004,Australia,Oceania,8.92,8.16,125459
+2004,Austria,Western Europe,8.74,8.01,125460
+2004,Azerbaijan,Caucasus & Central Asia,6.21,6.14,125461
+2004,"Bahamas, The",Latin America & the Caribbean,8.29,6.94,125462
+2004,Bahrain,Middle East & North Africa,6.45,6.93,125463
+2004,Bangladesh,South Asia,5.96,5.64,125464
+2004,Barbados,Latin America & the Caribbean,7.59,6.19,125465
+2004,Belgium,Western Europe,8.67,7.7,125466
+2004,Belize,Latin America & the Caribbean,7.84,6.9,125467
+2004,Benin,Sub-Saharan Africa,7,5.85,125468
+2004,Bolivia,Latin America & the Caribbean,7.68,6.63,125469
+2004,Botswana,Sub-Saharan Africa,7.37,6.89,125470
+2004,Brazil,Latin America & the Caribbean,7.52,6.24,125471
+2004,Bulgaria,Eastern Europe,7.91,6.96,125472
+2004,Burundi,Sub-Saharan Africa,5.58,5.12,125473
+2004,Cameroon,Sub-Saharan Africa,6.09,5.64,125474
+2004,Canada,North America,8.9,8.27,125475
+2004,Central African Republic,Sub-Saharan Africa,5.6,5.12,125476
+2004,Chad,Sub-Saharan Africa,5.71,5.49,125477
+2004,Chile,Latin America & the Caribbean,8.58,7.83,125478
+2004,China,East Asia,5.31,5.63,125479
+2004,Colombia,Latin America & the Caribbean,6.41,6.36,125480
+2004,"Congo, Dem. Rep.",Sub-Saharan Africa,5.3,4.83,125481
+2004,"Congo, Rep.",Sub-Saharan Africa,5.63,4.82,125482
+2004,Costa Rica,Latin America & the Caribbean,8.21,7.1,125483
+2004,Cote d'Ivoire,Sub-Saharan Africa,6.34,5.9,125484
+2004,Croatia,Eastern Europe,7.66,6.29,125485
+2004,Cyprus,Eastern Europe,8.13,7.68,125486
+2004,Czech Republic,Eastern Europe,8.51,7.51,125487
+2004,Denmark,Western Europe,9.08,8.23,125488
+2004,Dominican Republic,Latin America & the Caribbean,7.04,5.77,125489
+2004,Ecuador,Latin America & the Caribbean,6.88,5.87,125490
+2004,"Egypt, Arab Rep.",Middle East & North Africa,5.19,5.88,125491
+2004,El Salvador,Latin America & the Caribbean,7.62,7.67,125492
+2004,Estonia,Eastern Europe,8.8,8.11,125493
+2004,Fiji,Oceania,7.51,6.86,125494
+2004,Finland,Western Europe,8.98,8.06,125495
+2004,France,Western Europe,8.58,7.61,125496
+2004,Gabon,Sub-Saharan Africa,6.23,5.67,125497
+2004,Georgia,Caucasus & Central Asia,7.57,7.48,125498
+2004,Germany,Western Europe,8.68,7.9,125499
+2004,Ghana,Sub-Saharan Africa,7.29,6.31,125500
+2004,Greece,Eastern Europe,8.13,7.38,125501
+2004,Guatemala,Latin America & the Caribbean,7.34,7.27,125502
+2004,Guinea-Bissau,Sub-Saharan Africa,6.21,5.05,125503
+2004,Guyana,Latin America & the Caribbean,7.21,6.14,125504
+2004,Haiti,Latin America & the Caribbean,6.9,6.78,125505
+2004,Honduras,Latin America & the Caribbean,7.15,7.02,125506
+2004,"Hong Kong SAR, China",East Asia,8.91,8.88,125507
+2004,Hungary,Eastern Europe,8.46,7.44,125508
+2004,Iceland,Western Europe,9.01,8.13,125509
+2004,India,South Asia,6.87,6.27,125510
+2004,Indonesia,South Asia,6.93,6.32,125511
+2004,"Iran, Islamic Rep.",Middle East & North Africa,5.25,6.03,125512
+2004,Ireland,Western Europe,8.96,8.24,125513
+2004,Israel,Middle East & North Africa,7.41,7.32,125514
+2004,Italy,Western Europe,8.51,7.7,125515
+2004,Jamaica,Latin America & the Caribbean,7.67,7.42,125516
+2004,Japan,East Asia,8.73,8.04,125517
+2004,Jordan,Middle East & North Africa,6.63,7.07,125518
+2004,Kenya,Sub-Saharan Africa,6.83,6.81,125519
+2004,"Korea, Rep.",East Asia,8.21,7.26,125520
+2004,Kuwait,Middle East & North Africa,6.41,6.94,125521
+2004,Latvia,Eastern Europe,8.35,7.82,125522
+2004,Lithuania,Eastern Europe,8.37,7.69,125523
+2004,Luxembourg,Western Europe,8.88,7.9,125524
+2004,Madagascar,Sub-Saharan Africa,6.84,5.85,125525
+2004,Malawi,Sub-Saharan Africa,6.53,5.06,125526
+2004,Malaysia,South Asia,6.18,6.19,125527
+2004,Mali,Sub-Saharan Africa,6.45,5.52,125528
+2004,Malta,Western Europe,8.38,7.29,125529
+2004,Mauritius,Sub-Saharan Africa,7.96,7.22,125530
+2004,Mexico,Latin America & the Caribbean,7.35,6.89,125531
+2004,Mongolia,East Asia,7.57,6.91,125532
+2004,Morocco,Middle East & North Africa,5.82,5.95,125533
+2004,Mozambique,Sub-Saharan Africa,6.32,5.63,125534
+2004,Myanmar,South Asia,3.7,3.49,125535
+2004,Namibia,Sub-Saharan Africa,7.35,6.36,125536
+2004,Nepal,South Asia,5.87,6.46,125537
+2004,Netherlands,Western Europe,8.8,7.97,125538
+2004,New Zealand,Oceania,9.13,8.49,125539
+2004,Nicaragua,Latin America & the Caribbean,7.47,7.31,125540
+2004,Niger,Sub-Saharan Africa,6.1,5.11,125541
+2004,Nigeria,Sub-Saharan Africa,6.12,5.61,125542
+2004,North Macedonia,Eastern Europe,7.5,6.72,125543
+2004,Norway,Western Europe,8.83,7.75,125544
+2004,Oman,Middle East & North Africa,6.01,7.04,125545
+2004,Pakistan,South Asia,5.62,5.62,125546
+2004,Panama,Latin America & the Caribbean,7.9,7.79,125547
+2004,Papua New Guinea,Oceania,7.35,5.95,125548
+2004,Paraguay,Latin America & the Caribbean,7.21,6.9,125549
+2004,Peru,Latin America & the Caribbean,7.71,7.69,125550
+2004,Philippines,South Asia,7.19,6.91,125551
+2004,Poland,Eastern Europe,8.18,6.72,125552
+2004,Portugal,Western Europe,8.67,7.7,125553
+2004,Romania,Eastern Europe,7.74,6.67,125554
+2004,Russian Federation,Eastern Europe,5.7,5.78,125555
+2004,Rwanda,Sub-Saharan Africa,5.86,6.05,125556
+2004,Senegal,Sub-Saharan Africa,6.78,5.7,125557
+2004,Sierra Leone,Sub-Saharan Africa,6.08,5.17,125558
+2004,Singapore,South Asia,8.01,8.71,125559
+2004,Slovak Republic,Eastern Europe,8.48,7.61,125560
+2004,Slovenia,Eastern Europe,8.34,7.13,125561
+2004,South Africa,Sub-Saharan Africa,7.43,6.86,125562
+2004,Spain,Western Europe,8.54,8.04,125563
+2004,Sri Lanka,South Asia,6.43,6.31,125564
+2004,Sweden,Western Europe,8.89,7.8,125565
+2004,Switzerland,Western Europe,9.26,8.73,125566
+2004,Syrian Arab Republic,Middle East & North Africa,4.65,5.12,125567
+2004,Taiwan,East Asia,8.37,7.58,125568
+2004,Tanzania,Sub-Saharan Africa,6.61,6.18,125569
+2004,Thailand,South Asia,7.3,6.71,125570
+2004,Togo,Sub-Saharan Africa,5.72,5.85,125571
+2004,Trinidad and Tobago,Latin America & the Caribbean,7.74,7.28,125572
+2004,Tunisia,Middle East & North Africa,5.22,6.33,125573
+2004,Turkey,Middle East & North Africa,6.83,6.13,125574
+2004,Uganda,Sub-Saharan Africa,6.07,6.86,125575
+2004,Ukraine,Eastern Europe,6.67,5.56,125576
+2004,United Arab Emirates,Middle East & North Africa,6.01,7.19,125577
+2004,United Kingdom,Western Europe,9.03,8.49,125578
+2004,United States of America,North America,8.93,8.7,125579
+2004,Uruguay,Latin America & the Caribbean,8.29,7.2,125580
+2004,"Venezuela, RB",Latin America & the Caribbean,5.58,4.89,125581
+2004,Vietnam,South Asia,5.55,5.74,125582
+2004,Zambia,Sub-Saharan Africa,7.08,6.97,125583
+2004,Zimbabwe,Sub-Saharan Africa,4.64,3.26,125584
+2003,Albania,Eastern Europe,7.84,7.44,125585
+2003,Algeria,Middle East & North Africa,5,4.88,125586
+2003,Argentina,Latin America & the Caribbean,7.68,6.25,125587
+2003,Australia,Oceania,8.94,8.2,125588
+2003,Austria,Western Europe,8.77,8.06,125589
+2003,"Bahamas, The",Latin America & the Caribbean,8.22,6.87,125590
+2003,Bahrain,Middle East & North Africa,6.53,7.03,125591
+2003,Bangladesh,South Asia,5.98,5.79,125592
+2003,Barbados,Latin America & the Caribbean,7.58,6.12,125593
+2003,Belgium,Western Europe,8.7,7.74,125594
+2003,Belize,Latin America & the Caribbean,7.51,6.09,125595
+2003,Benin,Sub-Saharan Africa,7.02,5.96,125596
+2003,Bolivia,Latin America & the Caribbean,7.56,6.63,125597
+2003,Botswana,Sub-Saharan Africa,7.31,6.86,125598
+2003,Brazil,Latin America & the Caribbean,7.42,6.09,125599
+2003,Bulgaria,Eastern Europe,7.87,6.93,125600
+2003,Burundi,Sub-Saharan Africa,5.26,5.23,125601
+2003,Cameroon,Sub-Saharan Africa,6.07,5.6,125602
+2003,Canada,North America,8.88,8.22,125603
+2003,Central African Republic,Sub-Saharan Africa,5.91,5.38,125604
+2003,Chad,Sub-Saharan Africa,5.75,5.61,125605
+2003,Chile,Latin America & the Caribbean,8.57,7.81,125606
+2003,China,East Asia,5.39,5.79,125607
+2003,Colombia,Latin America & the Caribbean,6.16,6.27,125608
+2003,"Congo, Dem. Rep.",Sub-Saharan Africa,5.3,5.04,125609
+2003,"Congo, Rep.",Sub-Saharan Africa,5.61,4.96,125610
+2003,Costa Rica,Latin America & the Caribbean,8.22,7.28,125611
+2003,Cote d'Ivoire,Sub-Saharan Africa,6.3,5.78,125612
+2003,Croatia,Eastern Europe,7.68,6.3,125613
+2003,Cyprus,Eastern Europe,7.67,6.97,125614
+2003,Czech Republic,Eastern Europe,8.49,7.34,125615
+2003,Denmark,Western Europe,9.04,8.17,125616
+2003,Dominican Republic,Latin America & the Caribbean,7.3,6.24,125617
+2003,Ecuador,Latin America & the Caribbean,7.02,6.11,125618
+2003,"Egypt, Arab Rep.",Middle East & North Africa,5.1,5.74,125619
+2003,El Salvador,Latin America & the Caribbean,7.58,7.6,125620
+2003,Estonia,Eastern Europe,8.7,7.99,125621
+2003,Fiji,Oceania,7.29,6.69,125622
+2003,Finland,Western Europe,8.98,8.04,125623
+2003,France,Western Europe,8.57,7.61,125624
+2003,Gabon,Sub-Saharan Africa,6.19,5.49,125625
+2003,Georgia,Caucasus & Central Asia,7.39,7.44,125626
+2003,Germany,Western Europe,8.69,7.91,125627
+2003,Ghana,Sub-Saharan Africa,7.23,6.17,125628
+2003,Greece,Eastern Europe,8.12,7.37,125629
+2003,Guatemala,Latin America & the Caribbean,7.18,7.14,125630
+2003,Guinea-Bissau,Sub-Saharan Africa,5.88,5.13,125631
+2003,Guyana,Latin America & the Caribbean,7.15,6.29,125632
+2003,Haiti,Latin America & the Caribbean,6.67,6.69,125633
+2003,Honduras,Latin America & the Caribbean,7.19,6.97,125634
+2003,"Hong Kong SAR, China",East Asia,8.89,8.83,125635
+2003,Hungary,Eastern Europe,8.35,7.32,125636
+2003,Iceland,Western Europe,8.96,8.05,125637
+2003,India,South Asia,6.82,6.32,125638
+2003,Indonesia,South Asia,7,6.41,125639
+2003,"Iran, Islamic Rep.",Middle East & North Africa,5.3,6.1,125640
+2003,Ireland,Western Europe,8.93,8.17,125641
+2003,Israel,Middle East & North Africa,7.4,7.31,125642
+2003,Italy,Western Europe,8.46,7.59,125643
+2003,Jamaica,Latin America & the Caribbean,7.76,7.45,125644
+2003,Japan,East Asia,8.75,8.05,125645
+2003,Jordan,Middle East & North Africa,6.67,7.18,125646
+2003,Kenya,Sub-Saharan Africa,6.79,6.7,125647
+2003,"Korea, Rep.",East Asia,8.16,7.16,125648
+2003,Kuwait,Middle East & North Africa,6.5,7.25,125649
+2003,Latvia,Eastern Europe,8.31,7.76,125650
+2003,Lithuania,Eastern Europe,8.27,7.65,125651
+2003,Luxembourg,Western Europe,8.89,7.91,125652
+2003,Madagascar,Sub-Saharan Africa,7,6.04,125653
+2003,Malawi,Sub-Saharan Africa,6.56,5.2,125654
+2003,Malaysia,South Asia,6.14,6.18,125655
+2003,Mali,Sub-Saharan Africa,6.52,5.71,125656
+2003,Malta,Western Europe,8.08,6.49,125657
+2003,Mauritius,Sub-Saharan Africa,7.92,7.13,125658
+2003,Mexico,Latin America & the Caribbean,7.31,6.81,125659
+2003,Morocco,Middle East & North Africa,5.77,5.91,125660
+2003,Mozambique,Sub-Saharan Africa,6.26,5.47,125661
+2003,Myanmar,South Asia,3.62,3.35,125662
+2003,Namibia,Sub-Saharan Africa,7.36,6.5,125663
+2003,Nepal,South Asia,6.07,6.6,125664
+2003,Netherlands,Western Europe,8.8,7.97,125665
+2003,New Zealand,Oceania,9.14,8.5,125666
+2003,Nicaragua,Latin America & the Caribbean,7.58,7.33,125667
+2003,Niger,Sub-Saharan Africa,6.29,5.5,125668
+2003,Nigeria,Sub-Saharan Africa,5.97,5.58,125669
+2003,North Macedonia,Eastern Europe,7.46,6.74,125670
+2003,Norway,Western Europe,8.86,7.84,125671
+2003,Oman,Middle East & North Africa,6.13,7.34,125672
+2003,Pakistan,South Asia,5.65,5.63,125673
+2003,Panama,Latin America & the Caribbean,7.85,7.74,125674
+2003,Papua New Guinea,Oceania,7.29,5.8,125675
+2003,Paraguay,Latin America & the Caribbean,7.15,6.88,125676
+2003,Peru,Latin America & the Caribbean,7.83,7.68,125677
+2003,Philippines,South Asia,7.35,7.07,125678
+2003,Poland,Eastern Europe,8.18,6.65,125679
+2003,Portugal,Western Europe,8.64,7.62,125680
+2003,Romania,Eastern Europe,7.65,6.48,125681
+2003,Russian Federation,Eastern Europe,5.64,5.55,125682
+2003,Rwanda,Sub-Saharan Africa,6.05,6.45,125683
+2003,Senegal,Sub-Saharan Africa,6.77,5.72,125684
+2003,Sierra Leone,Sub-Saharan Africa,6.11,5.13,125685
+2003,Singapore,South Asia,7.99,8.66,125686
+2003,Slovak Republic,Eastern Europe,8.19,6.94,125687
+2003,Slovenia,Eastern Europe,8.34,7.1,125688
+2003,South Africa,Sub-Saharan Africa,7.43,6.85,125689
+2003,Spain,Western Europe,8.66,8,125690
+2003,Sri Lanka,South Asia,6.54,6.47,125691
+2003,Sweden,Western Europe,8.9,7.8,125692
+2003,Switzerland,Western Europe,9.28,8.78,125693
+2003,Syrian Arab Republic,Middle East & North Africa,4.48,4.95,125694
+2003,Taiwan,East Asia,8.33,7.51,125695
+2003,Tanzania,Sub-Saharan Africa,6.66,6.27,125696
+2003,Thailand,South Asia,7.34,6.64,125697
+2003,Togo,Sub-Saharan Africa,5.73,5.92,125698
+2003,Trinidad and Tobago,Latin America & the Caribbean,7.75,7.22,125699
+2003,Tunisia,Middle East & North Africa,5.18,6.23,125700
+2003,Turkey,Middle East & North Africa,6.69,6.04,125701
+2003,Uganda,Sub-Saharan Africa,6.07,6.9,125702
+2003,Ukraine,Eastern Europe,6.61,5.44,125703
+2003,United Arab Emirates,Middle East & North Africa,6.1,7.22,125704
+2003,United Kingdom,Western Europe,9.05,8.56,125705
+2003,United States of America,North America,8.93,8.61,125706
+2003,Uruguay,Latin America & the Caribbean,8.22,7.02,125707
+2003,"Venezuela, RB",Latin America & the Caribbean,5.55,4.37,125708
+2003,Vietnam,South Asia,5.43,5.46,125709
+2003,Zambia,Sub-Saharan Africa,7.11,7.05,125710
+2003,Zimbabwe,Sub-Saharan Africa,4.92,3.91,125711
+2002,Albania,Eastern Europe,7.6,6.94,125712
+2002,Algeria,Middle East & North Africa,4.91,4.74,125713
+2002,Argentina,Latin America & the Caribbean,7.68,6.32,125714
+2002,Australia,Oceania,8.92,8.18,125715
+2002,Austria,Western Europe,8.7,7.91,125716
+2002,"Bahamas, The",Latin America & the Caribbean,8.09,6.81,125717
+2002,Bahrain,Middle East & North Africa,6.48,6.93,125718
+2002,Bangladesh,South Asia,5.99,5.81,125719
+2002,Barbados,Latin America & the Caribbean,7.58,6.2,125720
+2002,Belgium,Western Europe,8.7,7.73,125721
+2002,Belize,Latin America & the Caribbean,7.36,6.02,125722
+2002,Benin,Sub-Saharan Africa,7.08,5.96,125723
+2002,Bolivia,Latin America & the Caribbean,7.61,6.69,125724
+2002,Botswana,Sub-Saharan Africa,7.35,6.86,125725
+2002,Brazil,Latin America & the Caribbean,7.51,6.31,125726
+2002,Bulgaria,Eastern Europe,7.64,6.67,125727
+2002,Burundi,Sub-Saharan Africa,5.2,5.57,125728
+2002,Cameroon,Sub-Saharan Africa,6,5.55,125729
+2002,Canada,North America,8.86,8.21,125730
+2002,Central African Republic,Sub-Saharan Africa,5.69,5.16,125731
+2002,Chad,Sub-Saharan Africa,5.77,5.74,125732
+2002,Chile,Latin America & the Caribbean,8.49,7.68,125733
+2002,China,East Asia,5.35,5.75,125734
+2002,Colombia,Latin America & the Caribbean,6.04,6.21,125735
+2002,"Congo, Dem. Rep.",Sub-Saharan Africa,5.12,4.57,125736
+2002,"Congo, Rep.",Sub-Saharan Africa,5.34,4.79,125737
+2002,Costa Rica,Latin America & the Caribbean,8.2,7.17,125738
+2002,Cote d'Ivoire,Sub-Saharan Africa,6.25,5.69,125739
+2002,Croatia,Eastern Europe,7.65,6.22,125740
+2002,Cyprus,Eastern Europe,7.76,6.98,125741
+2002,Czech Republic,Eastern Europe,8.52,7.4,125742
+2002,Denmark,Western Europe,9,8.08,125743
+2002,Dominican Republic,Latin America & the Caribbean,7.61,6.71,125744
+2002,Ecuador,Latin America & the Caribbean,7.09,6.19,125745
+2002,"Egypt, Arab Rep.",Middle East & North Africa,5.29,5.88,125746
+2002,El Salvador,Latin America & the Caribbean,7.61,7.52,125747
+2002,Estonia,Eastern Europe,8.65,7.85,125748
+2002,Fiji,Oceania,7.32,6.74,125749
+2002,Finland,Western Europe,8.98,8.05,125750
+2002,France,Western Europe,8.58,7.62,125751
+2002,Gabon,Sub-Saharan Africa,6.11,5.52,125752
+2002,Germany,Western Europe,8.67,7.86,125753
+2002,Ghana,Sub-Saharan Africa,7.1,6.06,125754
+2002,Greece,Eastern Europe,8.13,7.36,125755
+2002,Guatemala,Latin America & the Caribbean,7.23,7.15,125756
+2002,Guinea-Bissau,Sub-Saharan Africa,5.82,5.14,125757
+2002,Guyana,Latin America & the Caribbean,7.12,6.4,125758
+2002,Haiti,Latin America & the Caribbean,6.69,6.69,125759
+2002,Honduras,Latin America & the Caribbean,7.16,6.95,125760
+2002,"Hong Kong SAR, China",East Asia,8.87,8.79,125761
+2002,Hungary,Eastern Europe,8.21,7.25,125762
+2002,Iceland,Western Europe,8.87,7.87,125763
+2002,India,South Asia,6.76,6.22,125764
+2002,Indonesia,South Asia,6.86,6.13,125765
+2002,"Iran, Islamic Rep.",Middle East & North Africa,5.26,6.03,125766
+2002,Ireland,Western Europe,8.88,8.08,125767
+2002,Israel,Middle East & North Africa,7.5,7.23,125768
+2002,Italy,Western Europe,8.55,7.7,125769
+2002,Jamaica,Latin America & the Caribbean,7.73,7.4,125770
+2002,Japan,East Asia,8.69,7.88,125771
+2002,Jordan,Middle East & North Africa,6.62,7.18,125772
+2002,Kenya,Sub-Saharan Africa,6.72,6.7,125773
+2002,"Korea, Rep.",East Asia,8.15,7.15,125774
+2002,Kuwait,Middle East & North Africa,6.51,7.18,125775
+2002,Latvia,Eastern Europe,8.33,7.83,125776
+2002,Lithuania,Eastern Europe,8.32,7.55,125777
+2002,Luxembourg,Western Europe,8.88,7.92,125778
+2002,Madagascar,Sub-Saharan Africa,6.71,5.95,125779
+2002,Malawi,Sub-Saharan Africa,6.57,5.34,125780
+2002,Malaysia,South Asia,6.12,6.15,125781
+2002,Mali,Sub-Saharan Africa,6.41,5.44,125782
+2002,Malta,Western Europe,8.13,6.82,125783
+2002,Mauritius,Sub-Saharan Africa,7.96,7.19,125784
+2002,Mexico,Latin America & the Caribbean,7.3,6.82,125785
+2002,Morocco,Middle East & North Africa,5.84,5.81,125786
+2002,Myanmar,South Asia,3.61,3.35,125787
+2002,Namibia,Sub-Saharan Africa,7.17,6.43,125788
+2002,Nepal,South Asia,5.99,6.57,125789
+2002,Netherlands,Western Europe,8.78,7.94,125790
+2002,New Zealand,Oceania,9.11,8.44,125791
+2002,Nicaragua,Latin America & the Caribbean,7.59,7.29,125792
+2002,Niger,Sub-Saharan Africa,6.2,5.23,125793
+2002,Nigeria,Sub-Saharan Africa,5.94,5.44,125794
+2002,Norway,Western Europe,8.82,7.73,125795
+2002,Oman,Middle East & North Africa,6.08,7.2,125796
+2002,Pakistan,South Asia,5.66,5.68,125797
+2002,Panama,Latin America & the Caribbean,7.85,7.69,125798
+2002,Papua New Guinea,Oceania,7.32,5.86,125799
+2002,Paraguay,Latin America & the Caribbean,7.12,6.86,125800
+2002,Peru,Latin America & the Caribbean,7.78,7.71,125801
+2002,Philippines,South Asia,7.37,7.04,125802
+2002,Poland,Eastern Europe,8.18,6.65,125803
+2002,Portugal,Western Europe,8.65,7.64,125804
+2002,Romania,Eastern Europe,7.47,6.35,125805
+2002,Russian Federation,Eastern Europe,5.65,5.52,125806
+2002,Rwanda,Sub-Saharan Africa,5.97,6.42,125807
+2002,Senegal,Sub-Saharan Africa,6.78,5.78,125808
+2002,Sierra Leone,Sub-Saharan Africa,5.98,5.1,125809
+2002,Singapore,South Asia,8,8.68,125810
+2002,Slovak Republic,Eastern Europe,8.13,6.84,125811
+2002,Slovenia,Eastern Europe,8.29,6.98,125812
+2002,South Africa,Sub-Saharan Africa,7.42,6.86,125813
+2002,Spain,Western Europe,8.69,7.88,125814
+2002,Sri Lanka,South Asia,6.57,6.38,125815
+2002,Sweden,Western Europe,8.89,7.8,125816
+2002,Switzerland,Western Europe,9.3,8.85,125817
+2002,Syrian Arab Republic,Middle East & North Africa,4.53,5,125818
+2002,Taiwan,East Asia,8.3,7.42,125819
+2002,Tanzania,Sub-Saharan Africa,6.62,6.19,125820
+2002,Thailand,South Asia,7.34,6.6,125821
+2002,Togo,Sub-Saharan Africa,5.69,5.89,125822
+2002,Trinidad and Tobago,Latin America & the Caribbean,7.84,7.31,125823
+2002,Tunisia,Middle East & North Africa,5.18,6.22,125824
+2002,Turkey,Middle East & North Africa,6.52,5.75,125825
+2002,Uganda,Sub-Saharan Africa,6.25,6.97,125826
+2002,Ukraine,Eastern Europe,6.64,5.53,125827
+2002,United Arab Emirates,Middle East & North Africa,6.13,7.26,125828
+2002,United Kingdom,Western Europe,9.06,8.58,125829
+2002,United States of America,North America,8.88,8.61,125830
+2002,Uruguay,Latin America & the Caribbean,8.27,7.18,125831
+2002,"Venezuela, RB",Latin America & the Caribbean,5.75,4.78,125832
+2002,Zambia,Sub-Saharan Africa,7,6.8,125833
+2002,Zimbabwe,Sub-Saharan Africa,4.89,3.74,125834
+2001,Albania,Eastern Europe,7.47,6.67,125835
+2001,Algeria,Middle East & North Africa,4.97,4.87,125836
+2001,Argentina,Latin America & the Caribbean,7.89,6.8,125837
+2001,Australia,Oceania,8.9,8.11,125838
+2001,Austria,Western Europe,8.69,7.89,125839
+2001,"Bahamas, The",Latin America & the Caribbean,8.21,6.75,125840
+2001,Bahrain,Middle East & North Africa,6.33,6.98,125841
+2001,Bangladesh,South Asia,6.21,5.77,125842
+2001,Barbados,Latin America & the Caribbean,7.61,6.2,125843
+2001,Belgium,Western Europe,8.62,7.54,125844
+2001,Belize,Latin America & the Caribbean,7.35,5.75,125845
+2001,Benin,Sub-Saharan Africa,7.09,6.02,125846
+2001,Bolivia,Latin America & the Caribbean,7.57,6.75,125847
+2001,Botswana,Sub-Saharan Africa,7.3,6.85,125848
+2001,Brazil,Latin America & the Caribbean,7.29,5.74,125849
+2001,Bulgaria,Eastern Europe,7.44,6.25,125850
+2001,Burundi,Sub-Saharan Africa,5.47,5.64,125851
+2001,Cameroon,Sub-Saharan Africa,6,5.53,125852
+2001,Canada,North America,8.85,8.13,125853
+2001,Central African Republic,Sub-Saharan Africa,5.73,5.29,125854
+2001,Chad,Sub-Saharan Africa,5.71,5.62,125855
+2001,Chile,Latin America & the Caribbean,8.44,7.56,125856
+2001,China,East Asia,5.34,5.58,125857
+2001,Colombia,Latin America & the Caribbean,5.99,6.02,125858
+2001,"Congo, Dem. Rep.",Sub-Saharan Africa,4.68,3.79,125859
+2001,"Congo, Rep.",Sub-Saharan Africa,5.56,4.92,125860
+2001,Costa Rica,Latin America & the Caribbean,8.18,7.22,125861
+2001,Cote d'Ivoire,Sub-Saharan Africa,6.43,5.91,125862
+2001,Croatia,Eastern Europe,7.62,6.15,125863
+2001,Cyprus,Eastern Europe,7.58,6.56,125864
+2001,Czech Republic,Eastern Europe,8.36,7.22,125865
+2001,Denmark,Western Europe,8.98,8.02,125866
+2001,Dominican Republic,Latin America & the Caribbean,7.62,6.68,125867
+2001,Ecuador,Latin America & the Caribbean,6.91,5.75,125868
+2001,"Egypt, Arab Rep.",Middle East & North Africa,5.45,6.15,125869
+2001,El Salvador,Latin America & the Caribbean,7.64,7.6,125870
+2001,Estonia,Eastern Europe,8.57,7.81,125871
+2001,Fiji,Oceania,7.2,6.7,125872
+2001,Finland,Western Europe,8.97,8.04,125873
+2001,France,Western Europe,8.55,7.54,125874
+2001,Gabon,Sub-Saharan Africa,6.24,5.48,125875
+2001,Germany,Western Europe,8.63,7.8,125876
+2001,Ghana,Sub-Saharan Africa,6.99,5.79,125877
+2001,Greece,Eastern Europe,8.05,7.19,125878
+2001,Guatemala,Latin America & the Caribbean,7.06,7.04,125879
+2001,Guinea-Bissau,Sub-Saharan Africa,5.76,5.05,125880
+2001,Guyana,Latin America & the Caribbean,7.29,6.34,125881
+2001,Haiti,Latin America & the Caribbean,6.92,6.77,125882
+2001,Honduras,Latin America & the Caribbean,7.09,6.75,125883
+2001,"Hong Kong SAR, China",East Asia,8.89,8.83,125884
+2001,Hungary,Eastern Europe,8.3,7.48,125885
+2001,Iceland,Western Europe,8.91,7.87,125886
+2001,India,South Asia,6.73,6.14,125887
+2001,Indonesia,South Asia,6.61,5.82,125888
+2001,"Iran, Islamic Rep.",Middle East & North Africa,5.31,6.15,125889
+2001,Ireland,Western Europe,8.86,8.03,125890
+2001,Israel,Middle East & North Africa,7.41,6.92,125891
+2001,Italy,Western Europe,8.48,7.65,125892
+2001,Jamaica,Latin America & the Caribbean,7.7,7.3,125893
+2001,Japan,East Asia,8.68,7.86,125894
+2001,Jordan,Middle East & North Africa,6.62,7.07,125895
+2001,Kenya,Sub-Saharan Africa,6.59,6.68,125896
+2001,"Korea, Rep.",East Asia,8.11,7.03,125897
+2001,Kuwait,Middle East & North Africa,6.48,7.12,125898
+2001,Latvia,Eastern Europe,8.24,7.59,125899
+2001,Lithuania,Eastern Europe,8.21,7.16,125900
+2001,Luxembourg,Western Europe,8.96,8.16,125901
+2001,Madagascar,Sub-Saharan Africa,7.18,6.2,125902
+2001,Malawi,Sub-Saharan Africa,6.49,5.3,125903
+2001,Malaysia,South Asia,5.94,6.07,125904
+2001,Mali,Sub-Saharan Africa,6.48,5.65,125905
+2001,Malta,Western Europe,8.23,6.91,125906
+2001,Mauritius,Sub-Saharan Africa,7.92,7.16,125907
+2001,Mexico,Latin America & the Caribbean,7.21,6.69,125908
+2001,Morocco,Middle East & North Africa,5.86,5.87,125909
+2001,Myanmar,South Asia,3.66,3.81,125910
+2001,Namibia,Sub-Saharan Africa,7.05,6.36,125911
+2001,Nepal,South Asia,6.07,6.5,125912
+2001,Netherlands,Western Europe,8.78,7.94,125913
+2001,New Zealand,Oceania,9.09,8.39,125914
+2001,Nicaragua,Latin America & the Caribbean,7.31,6.93,125915
+2001,Niger,Sub-Saharan Africa,6.19,5.13,125916
+2001,Nigeria,Sub-Saharan Africa,5.73,5,125917
+2001,Norway,Western Europe,8.83,7.79,125918
+2001,Oman,Middle East & North Africa,6.06,7.13,125919
+2001,Pakistan,South Asia,5.54,5.44,125920
+2001,Panama,Latin America & the Caribbean,7.88,7.68,125921
+2001,Papua New Guinea,Oceania,7.32,5.84,125922
+2001,Paraguay,Latin America & the Caribbean,7.19,6.98,125923
+2001,Peru,Latin America & the Caribbean,7.73,7.63,125924
+2001,Philippines,South Asia,7.23,6.91,125925
+2001,Poland,Eastern Europe,8.04,6.33,125926
+2001,Portugal,Western Europe,8.62,7.55,125927
+2001,Romania,Eastern Europe,7.21,5.73,125928
+2001,Russian Federation,Eastern Europe,5.51,5.08,125929
+2001,Rwanda,Sub-Saharan Africa,5.67,6.19,125930
+2001,Senegal,Sub-Saharan Africa,6.7,5.71,125931
+2001,Sierra Leone,Sub-Saharan Africa,5.42,4.76,125932
+2001,Singapore,South Asia,7.93,8.52,125933
+2001,Slovak Republic,Eastern Europe,8.11,6.78,125934
+2001,Slovenia,Eastern Europe,8.29,6.96,125935
+2001,South Africa,Sub-Saharan Africa,7.71,7.51,125936
+2001,Spain,Western Europe,8.6,7.87,125937
+2001,Sri Lanka,South Asia,6.1,6.29,125938
+2001,Sweden,Western Europe,8.86,7.72,125939
+2001,Switzerland,Western Europe,9.2,8.72,125940
+2001,Syrian Arab Republic,Middle East & North Africa,4.62,5.16,125941
+2001,Taiwan,East Asia,8.24,7.27,125942
+2001,Tanzania,Sub-Saharan Africa,6.67,6.33,125943
+2001,Thailand,South Asia,7.32,6.49,125944
+2001,Togo,Sub-Saharan Africa,5.64,5.74,125945
+2001,Trinidad and Tobago,Latin America & the Caribbean,7.82,7.28,125946
+2001,Tunisia,Middle East & North Africa,5.28,6.44,125947
+2001,Turkey,Middle East & North Africa,6.16,5.44,125948
+2001,Uganda,Sub-Saharan Africa,6.32,7.05,125949
+2001,Ukraine,Eastern Europe,6.38,5.02,125950
+2001,United Arab Emirates,Middle East & North Africa,6.03,7.07,125951
+2001,United Kingdom,Western Europe,9.05,8.5,125952
+2001,United States of America,North America,8.72,8.56,125953
+2001,Uruguay,Latin America & the Caribbean,8.22,7.08,125954
+2001,"Venezuela, RB",Latin America & the Caribbean,6.67,6.17,125955
+2001,Zambia,Sub-Saharan Africa,7.11,7.1,125956
+2001,Zimbabwe,Sub-Saharan Africa,5.1,4.13,125957
+2000,Albania,Eastern Europe,7.46,6.52,125958
+2000,Algeria,Middle East & North Africa,4.87,4.88,125959
+2000,Argentina,Latin America & the Caribbean,8.06,7.21,125960
+2000,Australia,Oceania,8.93,8.18,125961
+2000,Austria,Western Europe,8.73,7.97,125962
+2000,"Bahamas, The",Latin America & the Caribbean,7.91,6.65,125963
+2000,Bahrain,Middle East & North Africa,6.2,7.11,125964
+2000,Bangladesh,South Asia,6.3,5.92,125965
+2000,Barbados,Latin America & the Caribbean,7.66,6.41,125966
+2000,Belgium,Western Europe,8.74,7.81,125967
+2000,Belize,Latin America & the Caribbean,7.52,5.89,125968
+2000,Benin,Sub-Saharan Africa,7.06,5.95,125969
+2000,Bolivia,Latin America & the Caribbean,7.73,6.92,125970
+2000,Botswana,Sub-Saharan Africa,7.37,7.03,125971
+2000,Brazil,Latin America & the Caribbean,7.31,5.77,125972
+2000,Bulgaria,Eastern Europe,7.18,5.64,125973
+2000,Burundi,Sub-Saharan Africa,5.19,5.37,125974
+2000,Cameroon,Sub-Saharan Africa,5.97,5.41,125975
+2000,Canada,North America,8.93,8.29,125976
+2000,Central African Republic,Sub-Saharan Africa,5.87,5.06,125977
+2000,Chad,Sub-Saharan Africa,5.77,5.77,125978
+2000,Chile,Latin America & the Caribbean,8.39,7.45,125979
+2000,China,East Asia,5.3,5.51,125980
+2000,Colombia,Latin America & the Caribbean,5.97,5.87,125981
+2000,"Congo, Dem. Rep.",Sub-Saharan Africa,4.64,3.85,125982
+2000,"Congo, Rep.",Sub-Saharan Africa,5.42,4.66,125983
+2000,Costa Rica,Latin America & the Caribbean,8.49,7.74,125984
+2000,Cote d'Ivoire,Sub-Saharan Africa,6.37,5.86,125985
+2000,Croatia,Eastern Europe,7.55,6.13,125986
+2000,Cyprus,Eastern Europe,7.32,6.52,125987
+2000,Czech Republic,Eastern Europe,8.33,6.96,125988
+2000,Denmark,Western Europe,9.05,8.18,125989
+2000,Dominican Republic,Latin America & the Caribbean,7.55,6.57,125990
+2000,Ecuador,Latin America & the Caribbean,6.96,5.82,125991
+2000,"Egypt, Arab Rep.",Middle East & North Africa,5.49,6.2,125992
+2000,El Salvador,Latin America & the Caribbean,7.74,7.8,125993
+2000,Estonia,Eastern Europe,8.53,7.7,125994
+2000,Fiji,Oceania,7.11,6.81,125995
+2000,Finland,Western Europe,8.99,8.1,125996
+2000,France,Western Europe,8.6,7.67,125997
+2000,Gabon,Sub-Saharan Africa,6.26,5.53,125998
+2000,Georgia,Caucasus & Central Asia,7.15,6.86,125999
+2000,Germany,Western Europe,8.69,7.94,126000
+2000,Ghana,Sub-Saharan Africa,6.96,5.7,126001
+2000,Greece,Eastern Europe,8.09,7.3,126002
+2000,Guatemala,Latin America & the Caribbean,7.24,6.88,126003
+2000,Guinea-Bissau,Sub-Saharan Africa,5.56,4.59,126004
+2000,Guyana,Latin America & the Caribbean,7.44,6.57,126005
+2000,Haiti,Latin America & the Caribbean,7.02,6.85,126006
+2000,Honduras,Latin America & the Caribbean,7.14,6.73,126007
+2000,"Hong Kong SAR, China",East Asia,8.87,8.81,126008
+2000,Hungary,Eastern Europe,8.04,6.99,126009
+2000,Iceland,Western Europe,8.95,7.99,126010
+2000,India,South Asia,6.85,6.2,126011
+2000,Indonesia,South Asia,6.71,6.09,126012
+2000,"Iran, Islamic Rep.",Middle East & North Africa,5.14,5.73,126013
+2000,Ireland,Western Europe,8.83,8.14,126014
+2000,Israel,Middle East & North Africa,7.45,6.76,126015
+2000,Italy,Western Europe,8.51,7.72,126016
+2000,Jamaica,Latin America & the Caribbean,7.72,7.44,126017
+2000,Japan,East Asia,8.77,8.06,126018
+2000,Jordan,Middle East & North Africa,6.63,7.17,126019
+2000,Kenya,Sub-Saharan Africa,6.57,6.63,126020
+2000,"Korea, Rep.",East Asia,8.04,6.9,126021
+2000,Kuwait,Middle East & North Africa,6.34,6.75,126022
+2000,Latvia,Eastern Europe,8.18,7.45,126023
+2000,Lithuania,Eastern Europe,8.12,7.02,126024
+2000,Luxembourg,Western Europe,8.96,8.13,126025
+2000,Madagascar,Sub-Saharan Africa,6.96,5.83,126026
+2000,Malawi,Sub-Saharan Africa,6.35,5.07,126027
+2000,Malaysia,South Asia,6.19,6.47,126028
+2000,Mali,Sub-Saharan Africa,6.57,5.92,126029
+2000,Malta,Western Europe,8.16,6.88,126030
+2000,Mauritius,Sub-Saharan Africa,8,7.26,126031
+2000,Mexico,Latin America & the Caribbean,7.03,6.66,126032
+2000,Morocco,Middle East & North Africa,5.87,5.89,126033
+2000,Myanmar,South Asia,3.64,3.75,126034
+2000,Namibia,Sub-Saharan Africa,7,6.49,126035
+2000,Nepal,South Asia,6.12,6.25,126036
+2000,Netherlands,Western Europe,8.86,8.12,126037
+2000,New Zealand,Oceania,9.14,8.51,126038
+2000,Nicaragua,Latin America & the Caribbean,7.34,7,126039
+2000,Niger,Sub-Saharan Africa,6.32,5.44,126040
+2000,Nigeria,Sub-Saharan Africa,5.66,4.94,126041
+2000,Norway,Western Europe,8.86,7.85,126042
+2000,Oman,Middle East & North Africa,6.04,7.07,126043
+2000,Pakistan,South Asia,5.52,5.26,126044
+2000,Panama,Latin America & the Caribbean,7.83,7.61,126045
+2000,Papua New Guinea,Oceania,7.31,5.79,126046
+2000,Paraguay,Latin America & the Caribbean,7.29,6.96,126047
+2000,Peru,Latin America & the Caribbean,7.1,7.47,126048
+2000,Philippines,South Asia,7.15,6.96,126049
+2000,Poland,Eastern Europe,8.03,6.3,126050
+2000,Portugal,Western Europe,8.67,7.7,126051
+2000,Romania,Eastern Europe,7.2,5.3,126052
+2000,Russian Federation,Eastern Europe,5.57,5.08,126053
+2000,Rwanda,Sub-Saharan Africa,5.9,6.04,126054
+2000,Senegal,Sub-Saharan Africa,6.67,5.73,126055
+2000,Sierra Leone,Sub-Saharan Africa,5.26,4.84,126056
+2000,Singapore,South Asia,7.95,8.58,126057
+2000,Slovak Republic,Eastern Europe,8.1,6.78,126058
+2000,Slovenia,Eastern Europe,8.18,6.71,126059
+2000,South Africa,Sub-Saharan Africa,7.33,6.93,126060
+2000,Spain,Western Europe,8.63,7.93,126061
+2000,Sri Lanka,South Asia,6.17,6.45,126062
+2000,Sweden,Western Europe,8.94,7.93,126063
+2000,Switzerland,Western Europe,9.29,8.85,126064
+2000,Syrian Arab Republic,Middle East & North Africa,4.47,4.88,126065
+2000,Taiwan,East Asia,8.28,7.37,126066
+2000,Tanzania,Sub-Saharan Africa,6.67,6.33,126067
+2000,Thailand,South Asia,7.35,6.48,126068
+2000,Togo,Sub-Saharan Africa,5.61,5.67,126069
+2000,Trinidad and Tobago,Latin America & the Caribbean,7.87,7.34,126070
+2000,Tunisia,Middle East & North Africa,5.27,6.42,126071
+2000,Turkey,Middle East & North Africa,6.19,5.61,126072
+2000,Uganda,Sub-Saharan Africa,6.24,7.04,126073
+2000,Ukraine,Eastern Europe,6.25,4.75,126074
+2000,United Arab Emirates,Middle East & North Africa,6.08,7.11,126075
+2000,United Kingdom,Western Europe,9.12,8.58,126076
+2000,United States of America,North America,8.97,8.7,126077
+2000,Uruguay,Latin America & the Caribbean,8.25,7.14,126078
+2000,"Venezuela, RB",Latin America & the Caribbean,6.43,5.92,126079
+2000,Vietnam,South Asia,5.51,5.58,126080
+2000,Zambia,Sub-Saharan Africa,7.03,7.04,126081
+2000,Zimbabwe,Sub-Saharan Africa,5.35,4.53,126082
