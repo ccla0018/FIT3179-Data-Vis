@@ -15,7 +15,7 @@
         "value": 2020,
         "bind": {
           "input": "range",
-          "min": 2000,
+          "min": 2010,
           "max": 2020,
           "step": 1,
           "name": "Year Selection: "
