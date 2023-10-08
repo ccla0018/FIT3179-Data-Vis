@@ -34,9 +34,9 @@
   ],
   "transform": [
     {"filter": "datum.year == year_selection"},
-    {"filter": "datum.population != 0"},
-    {"filter": "datum.hf_score != 0"},
-    {"filter": "datum.ef_score != 0"}
+    {"filter": "datum.population > 0"},
+    {"filter": "datum.hf_score > 0"},
+    {"filter": "datum.ef_score > 0"}
   ],
   "encoding": {
     "x": {
@@ -95,8 +95,8 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [0, 100000, 1000000, 50000000, 100000000, 500000000, 1000000000],
-            "range": [0, 10, 20, 40, 80, 160, 320, 640]
+            "domain": [1, 100000, 1000000, 50000000, 100000000, 500000000, 1000000000],
+            "range": [5, 10, 20, 40, 80, 160, 320, 640]
           },
           "legend": {"format": ".1s"}
         },
