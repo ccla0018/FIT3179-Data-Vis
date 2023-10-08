@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/hfi_cc_2022.csv"
+    },
+    "width": 800,
+    "height": 400,
+    "mark": {
+      "type": "circle",
+      "opacity": 0.7
+    },
+    "encoding": {
+      "x": {
+        "field": "year",
+        "type": "ordinal",
+        "title": "Year"
+      },
+      "y": {
+        "field": "hf_score",
+        "type": "quantitative",
+        "title": "Human Freedom Score",
+        "scale": {"domain": [0, 10]}
+      },
+      "y2": {
+        "field": "ef_score",
+        "type": "quantitative",
+        "title": "Economic Freedom Score",
+        "scale": {"domain": [0, 10]}
+      },
+      "color": {
+        "field": "region",
+        "type": "nominal",
+        "title": "Region"
+      }
+    }
+  }
+  
