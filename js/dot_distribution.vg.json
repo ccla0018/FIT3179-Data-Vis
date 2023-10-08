@@ -36,9 +36,23 @@
             "Regulatory Efficiency",
             "Open Markets / Trade"
           ],
-          "name": "Economy Measure: "
+          "name": "Selected Economic Measure: "
         }
       }
+    ],
+    "layer": [
+        {
+          "data": {
+            "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/hfi_cc_2022.csv"
+          },
+          "transform": [
+            {"filter": "datum.year == year_selection"},
+            {
+              "calculate": "datum[ef_money]",
+              "as": "Selected Economic Measure"
+            }
+          ]
+        }
     ],
     "mark": {
       "type": "circle",
@@ -53,13 +67,13 @@
       "y": {
         "field": "economy_measures",
         "type": "quantitative",
-        "title": "economy_measures",
+        "title": "Economy Measure",
         "scale": {"domain": [0, 10]}
       },
       "color": {
-        "field": "region",
+        "field": "countries",
         "type": "nominal",
-        "title": "Region"
+        "title": "Country"
       }
     }
   }
