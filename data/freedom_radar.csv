@@ -1,109 +1,17 @@
-﻿countries,region,category,score
-Albania,Eastern Europe,hf_score,7.67
-Algeria,Middle East & North Africa,hf_score,5.13
-Angola,Sub-Saharan Africa,hf_score,5.97
-Argentina,Latin America & the Caribbean,hf_score,6.99
-Armenia,Caucasus & Central Asia,hf_score,8.14
-Australia,Oceania,hf_score,8.51
-Austria,Western Europe,hf_score,8.26
-Azerbaijan,Caucasus & Central Asia,hf_score,5.7
-Bahamas,Latin America & the Caribbean,hf_score,8.14
-Bahrain,Middle East & North Africa,hf_score,5.49
-Bangladesh,South Asia,hf_score,5.51
-Barbados,Latin America & the Caribbean,hf_score,7.69
-Belarus,Eastern Europe,hf_score,5.78
-Belgium,Western Europe,hf_score,8.27
-Belize,Latin America & the Caribbean,hf_score,7.02
-Benin,Sub-Saharan Africa,hf_score,6.95
-Bhutan,South Asia,hf_score,6.71
-Bolivia,Latin America & the Caribbean,hf_score,6.6
-Bosnia and Herz.,Eastern Europe,hf_score,7.35
-Botswana,Sub-Saharan Africa,hf_score,7.44
-Brazil,Latin America & the Caribbean,hf_score,6.86
-Brunei Darussalam,South Asia,hf_score,5.62
-Bulgaria,Eastern Europe,hf_score,7.81
-Burkina Faso,Sub-Saharan Africa,hf_score,6.63
-Burundi,Sub-Saharan Africa,hf_score,4.82
-Cabo Verde,Sub-Saharan Africa,hf_score,8.12
-Cambodia,South Asia,hf_score,6.24
-Cameroon,Sub-Saharan Africa,hf_score,5.34
-Canada,North America,hf_score,8.47
-Central African Rep.,Sub-Saharan Africa,hf_score,5.47
-Chad,Sub-Saharan Africa,hf_score,5.2
-Chile,Latin America & the Caribbean,hf_score,8.06
-China,East Asia,hf_score,5.22
-Colombia,Latin America & the Caribbean,hf_score,6.65
-Comoros,Sub-Saharan Africa,hf_score,5.75
-Dem. Rep. Congo,Sub-Saharan Africa,hf_score,5.39
-Congo,Sub-Saharan Africa,hf_score,5.55
-Costa Rica,Latin America & the Caribbean,hf_score,7.98
-Côte d'Ivoire,Sub-Saharan Africa,hf_score,6.47
-Croatia,Eastern Europe,hf_score,7.86
-Cyprus,Eastern Europe,hf_score,8.13
-Czechia,Eastern Europe,hf_score,8.33
-Denmark,Western Europe,hf_score,8.72
-Djibouti,Sub-Saharan Africa,hf_score,5.51
-Dominican Republic,Latin America & the Caribbean,hf_score,7.61
-Ecuador,Latin America & the Caribbean,hf_score,7.12
-Egypt,Middle East & North Africa,hf_score,4.28
-El Salvador,Latin America & the Caribbean,hf_score,6.65
-Estonia,Eastern Europe,hf_score,8.73
-Eswatini,Sub-Saharan Africa,hf_score,5.45
-Ethiopia,Sub-Saharan Africa,hf_score,5.42
-Fiji,Oceania,hf_score,7.28
-Finland,Western Europe,hf_score,8.62
-France,Western Europe,hf_score,7.8
-Albania,Eastern Europe,ef_score,7.64
-Algeria,Middle East & North Africa,ef_score,5.12
-Angola,Sub-Saharan Africa,ef_score,5.91
-Argentina,Latin America & the Caribbean,ef_score,4.87
-Armenia,Caucasus & Central Asia,ef_score,7.84
-Australia,Oceania,ef_score,8.04
-Austria,Western Europe,ef_score,7.56
-Azerbaijan,Caucasus & Central Asia,ef_score,6.21
-Bahamas,Latin America & the Caribbean,ef_score,7.02
-Bahrain,Middle East & North Africa,ef_score,7.47
-Bangladesh,South Asia,ef_score,5.89
-Barbados,Latin America & the Caribbean,ef_score,7.01
-Belarus,Eastern Europe,ef_score,6.83
-Belgium,Western Europe,ef_score,7.37
-Belize,Latin America & the Caribbean,ef_score,6.23
-Benin,Sub-Saharan Africa,ef_score,6.51
-Bhutan,South Asia,ef_score,6.49
-Bolivia,Latin America & the Caribbean,ef_score,6.15
-Bosnia and Herz.,Eastern Europe,ef_score,6.72
-Botswana,Sub-Saharan Africa,ef_score,7.35
-Brazil,Latin America & the Caribbean,ef_score,6.33
-Brunei Darussalam,South Asia,ef_score,7.21
-Bulgaria,Eastern Europe,ef_score,7.69
-Burkina Faso,Sub-Saharan Africa,ef_score,6.15
-Burundi,Sub-Saharan Africa,ef_score,5.67
-Cabo Verde,Sub-Saharan Africa,ef_score,7.6
-Cambodia,South Asia,ef_score,7.13
-Cameroon,Sub-Saharan Africa,ef_score,5.76
-Canada,North America,ef_score,7.81
-Central African Rep.,Sub-Saharan Africa,ef_score,5.4
-Chad,Sub-Saharan Africa,ef_score,5.55
-Chile,Latin America & the Caribbean,ef_score,7.56
-China,East Asia,ef_score,6.27
-Colombia,Latin America & the Caribbean,ef_score,6.55
-Comoros,Sub-Saharan Africa,ef_score,6.31
-Dem. Rep. Congo,Sub-Saharan Africa,ef_score,5.36
-Congo,Sub-Saharan Africa,ef_score,5.08
-Costa Rica,Latin America & the Caribbean,ef_score,7.62
-Côte d'Ivoire,Sub-Saharan Africa,ef_score,6.01
-Croatia,Eastern Europe,ef_score,7.16
-Cyprus,Eastern Europe,ef_score,7.49
-Czechia,Eastern Europe,ef_score,7.75
-Denmark,Western Europe,ef_score,8.09
-Djibouti,Sub-Saharan Africa,ef_score,6.21
-Dominican Republic,Latin America & the Caribbean,ef_score,7.36
-Ecuador,Latin America & the Caribbean,ef_score,6.51
-Egypt,Middle East & North Africa,ef_score,5.61
-El Salvador,Latin America & the Caribbean,ef_score,7.12
-Estonia,Eastern Europe,ef_score,7.95
-Eswatini,Sub-Saharan Africa,ef_score,5.76
-Ethiopia,Sub-Saharan Africa,ef_score,5.58
-Fiji,Oceania,ef_score,6.53
-Finland,Western Europe,ef_score,7.64
-France,Western Europe,ef_score,7.33
+﻿countries,category,score
+Albania,hf_score,7.67
+Algeria,hf_score,5.13
+Angola,hf_score,5.97
+Argentina,hf_score,6.99
+Armenia,hf_score,8.14
+Australia,hf_score,8.51
+Austria,hf_score,8.26
+Azerbaijan,hf_score,5.7
+Albania,ef_score,7.64
+Algeria,ef_score,5.12
+Angola,ef_score,5.91
+Argentina,ef_score,4.87
+Armenia,ef_score,7.84
+Australia,ef_score,8.04
+Austria,ef_score,7.56
+Azerbaijan,ef_score,6.21
