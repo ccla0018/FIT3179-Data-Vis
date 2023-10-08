@@ -12,8 +12,8 @@
       }
     }
   },
-  "width": "600",
-  "height": "600",
+  "width": "400",
+  "height": "400",
   "title": {
     "text": "Economic and Human Freedom",
     "fontSize": 16,
@@ -142,15 +142,13 @@
         "align": "right",
         "baseline": "middle",
         "dx": -12,
-        "fontSize": 10,
-        "font": "Arial",
-        "color": "black"
+        "fontSize": 11
       },
       "encoding": {
-        "x": {"value": 550},
-        "y": {"value": 515},
+        "x": {"value": 390},
+        "y": {"value": 375},
         "text": {
-          "value": "These countries that fall below the diagonal line have more"
+          "value": "These countries that fall below the diagonal line have"
         },
         "opacity": {"value": 1}
       }
@@ -161,15 +159,13 @@
         "align": "right",
         "baseline": "middle",
         "dx": -12,
-        "fontSize": 10,
-        "font": "Arial",
-        "color": "black"
+        "fontSize": 11
       },
       "encoding": {
-        "x": {"value": 550},
-        "y": {"value": 525},
+        "x": {"value": 390},
+        "y": {"value": 385},
         "text": {
-          "value": "human freedom compared to the economic freedom"
+          "value": "more human freedom compared to the economic freedom"
         },
         "opacity": {"value": 1}
       }
