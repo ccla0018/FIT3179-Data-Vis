@@ -56,18 +56,12 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+            "domain": [100000, 120000, 140000, 160000, 180000],
             "range": [0, 2, 4, 6, 8, 10]
           },
           "legend": {"format": ".1s"}
         },
-        "opacity":{
-          "condition":{
-            "test": "datum['countries']=='China' || datum['countries']=='United States of America'|| datum['countries']=='Australia'",
-            "value": 1
-        },
-        "value": 0
-        },
+        "opacity": {"value": 0.9},
         "tooltip": [
           {"field": "countries", "type": "nominal", "title": "Country"},
           {
