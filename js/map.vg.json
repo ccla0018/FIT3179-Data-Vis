@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
-    "text": "Human Freedom Score 2000 - 2019",
+    "text": "World Freedom Score 2000 - 2020",
     "fontSize": 16
   },
   "width": 600,
@@ -125,9 +125,9 @@
             "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
           },
           "legend": {
-            "title": "Selected Freedom Score Type",
+            "title": "Selected Freedom Type",
             "titleLimit": 320,
-            "titleFontSize": 13,
+            "titleFontSize": 12,
             "direction": "horizontal",
             "orient": "bottom"
           }
