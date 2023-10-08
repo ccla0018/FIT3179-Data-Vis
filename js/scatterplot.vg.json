@@ -150,7 +150,7 @@
         "x": {"value": 575},
         "y": {"value": 560},
         "text": {
-          "value": "These countries that fall below the diagonal line have more"
+          "value": "These countries that fall below the diagonal line have"
         },
         "opacity": {"value": 1}
       }
@@ -169,7 +169,7 @@
         "x": {"value": 575},
         "y": {"value": 575},
         "text": {
-          "value": "human freedom compared to the economic freedom"
+          "value": "more human freedom compared to the economic freedom"
         },
         "opacity": {"value": 1}
       }

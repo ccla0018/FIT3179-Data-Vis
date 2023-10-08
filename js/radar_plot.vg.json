@@ -1,0 +1,141 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/hfi_cc_2022.csv"
+    },
+    "width": 400,
+    "height": 400,
+    "autosize": {"type": "none", "contains": "padding"},
+    "config": {
+      "axisX": {"grid": false},
+      "axisY": {"grid": false}
+    },
+    "scales": [
+      {
+        "name": "angular",
+        "type": "point",
+        "range": {"signal": "[-PI, PI]"},
+        "padding": 0.5,
+        "domain": ["ef_score", "hf_score"]
+      },
+      {
+        "name": "radial",
+        "type": "linear",
+        "range": {"signal": "[0, radius]"},
+        "zero": true,
+        "nice": false,
+        "domain": {"data": "table", "fields": ["ef_score", "hf_score"]},
+        "domainMin": 0
+      },
+      {
+        "name": "color",
+        "type": "ordinal",
+        "domain": {"data": "table", "field": "countries"},
+        "range": {"scheme": "category10"}
+      }
+    ],
+    "encode": {
+      "enter": {
+        "x": {"signal": "radius"},
+        "y": {"signal": "radius"}
+      }
+    },
+    "marks": [
+      {
+        "type": "group",
+        "name": "categories",
+        "zindex": 1,
+        "from": {
+          "facet": {"data": "table", "name": "facet", "groupby": ["countries"]}
+        },
+        "marks": [
+          {
+            "type": "line",
+            "name": "category-line-ef",
+            "from": {"data": "facet"},
+            "encode": {
+              "enter": {
+                "interpolate": {"value": "linear-closed"},
+                "x": {"signal": "scale('radial', datum.ef_score) * cos(scale('angular', 'ef_score'))"},
+                "y": {"signal": "scale('radial', datum.ef_score) * sin(scale('angular', 'ef_score'))"},
+                "stroke": {"value": "blue"},
+                "strokeWidth": {"value": 1},
+                "fill": {"value": "blue"},
+                "fillOpacity": {"value": 0.1}
+              }
+            }
+          },
+          {
+            "type": "line",
+            "name": "category-line-hf",
+            "from": {"data": "facet"},
+            "encode": {
+              "enter": {
+                "interpolate": {"value": "linear-closed"},
+                "x": {"signal": "scale('radial', datum.hf_score) * cos(scale('angular', 'hf_score'))"},
+                "y": {"signal": "scale('radial', datum.hf_score) * sin(scale('angular', 'hf_score'))"},
+                "stroke": {"value": "red"},
+                "strokeWidth": {"value": 1},
+                "fill": {"value": "red"},
+                "fillOpacity": {"value": 0.1}
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "rule",
+        "name": "radial-grid",
+        "from": {"data": "keys"},
+        "zindex": 0,
+        "encode": {
+          "enter": {
+            "x": {"value": 0},
+            "y": {"value": 0},
+            "x2": {"signal": "radius * cos(scale('angular', datum.key))"},
+            "y2": {"signal": "radius * sin(scale('angular', datum.key))"},
+            "stroke": {"value": "lightgray"},
+            "strokeWidth": {"value": 1}
+          }
+        }
+      },
+      {
+        "type": "text",
+        "name": "key-label",
+        "from": {"data": "keys"},
+        "zindex": 1,
+        "encode": {
+          "enter": {
+            "x": {"signal": "(radius + 5) * cos(scale('angular', datum.key))"},
+            "y": {"signal": "(radius + 5) * sin(scale('angular', datum.key))"},
+            "text": {"field": "key"},
+            "align": [
+              {
+                "test": "abs(scale('angular', datum.key)) > PI / 2",
+                "value": "right"
+              },
+              {
+                "value": "left"
+              }
+            ],
+            "baseline": [
+              {
+                "test": "scale('angular', datum.key) > 0",
+                "value": "top"
+              },
+              {
+                "test": "scale('angular', datum.key) == 0",
+                "value": "middle"
+              },
+              {
+                "value": "bottom"
+              }
+            ],
+            "fill": {"value": "black"},
+            "fontWeight": {"value": "bold"}
+          }
+        }
+      }
+    ]
+  }
+  
