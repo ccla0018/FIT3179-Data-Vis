@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
-    "description": "A radar chart example, showing multiple dimensions in a radial layout.",
+    "description": "A radar chart",
     "width": 400,
     "height": 400,
     "padding": 40,
@@ -16,7 +16,7 @@
         "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/freedom_radar.csv"
       },
       {
-        "name": "country",
+        "name": "keys",
         "source": "table",
         "transform": [
           {
@@ -77,9 +77,9 @@
                 "interpolate": {"value": "linear-closed"},
                 "x": {"signal": "scale('radial', datum.score) * cos(scale('angular', datum.countries))"},
                 "y": {"signal": "scale('radial', datum.score) * sin(scale('angular', datum.countries))"},
-                "stroke": {"scale": "color", "field": "category"},
+                "stroke": {"scale": "color", "field": "categories"},
                 "strokeWidth": {"value": 1},
-                "fill": {"scale": "color", "field": "category"},
+                "fill": {"scale": "color", "field": "categories"},
                 "fillOpacity": {"value": 0.1}
               }
             }
@@ -104,7 +104,7 @@
       {
         "type": "rule",
         "name": "radial-grid",
-        "from": {"data": "country"},
+        "from": {"data": "keys"},
         "zindex": 0,
         "encode": {
           "enter": {
@@ -120,13 +120,13 @@
       {
         "type": "text",
         "name": "key-label",
-        "from": {"data": "country"},
+        "from": {"data": "keys"},
         "zindex": 1,
         "encode": {
           "enter": {
             "x": {"signal": "(radius + 5) * cos(scale('angular', datum.countries))"},
             "y": {"signal": "(radius + 5) * sin(scale('angular', datum.countries))"},
-            "text": {"field": "key"},
+            "text": {"field": "countries"},
             "align": [
               {
                 "test": "abs(scale('angular', datum.countries)) > PI / 2",
