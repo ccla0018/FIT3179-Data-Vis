@@ -12,17 +12,17 @@
     "params": [
       {
         "name": "year_selection",
-        "value": 2019,
+        "value": 2020,
         "bind": {
           "input": "range",
           "min": 2000,
-          "max": 2019,
+          "max": 2020,
           "step": 1,
           "name": "Year Selection: "
         }
       },
       {
-        "name": "Freedom Score Type",
+        "name": "freedom_type",
         "value": "hf_score",
         "bind": {
           "input": "select",
@@ -89,7 +89,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/human_freedom.csv"
+          "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/test.csv"
         },
         "projection": {"type": "equalEarth"},
         "transform": [
@@ -109,7 +109,7 @@
           },
           {"filter": "datum.year == year_selection"},
           {
-            "calculate": "datum[hf_score]",
+            "calculate": "datum[freedom_type]",
             "as": "Selected Freedom Type"
           }
         ],
