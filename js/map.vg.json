@@ -7,7 +7,7 @@
   "width": 600,
   "height": 400,
   "data": {
-    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/freedom_score.csv"
+    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/freedom_score.csv"
   },
   "params": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/freedom_score.csv"
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/freedom_score.csv"
       },
       "projection": {"type": "equalEarth"},
       "transform": [
@@ -118,7 +118,6 @@
         "shape": {"field": "geo", "type": "geojson"},
         "color": {
           "field": "Selected Freedom Type",
-          "type": "quantitative",
           "scale": {
             "type": "threshold",
             "domain": [0, 2, 4, 6, 8, 10],
