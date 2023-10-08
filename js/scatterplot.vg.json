@@ -12,8 +12,8 @@
       }
     }
   },
-  "width": "500",
-  "height": "500",
+  "width": "600",
+  "height": "600",
   "title": {
     "text": "Economic and Human Freedom",
     "fontSize": 16,
@@ -52,37 +52,6 @@
   },
   "layer": [
     {
-      "mark": {"type": "circle", "color": "#18288f"},
-      "encoding": {
-        "size": {
-          "field": "population",
-          "type": "quantitative",
-          "scale": {
-            "type": "threshold",
-            "domain": [0, 100000, 1000000, 50000000, 100000000, 500000000, 1000000000],
-            "range": [0, 5, 10, 20, 40, 80, 160, 320]
-          },
-          "legend": {"format": ".1s"}
-        },
-        "opacity": {"value": 0.5},
-        "tooltip": [
-          {"field": "countries", "type": "nominal", "title": "Country"},
-          {
-            "field": "hf_score",
-            "type": "quantitative",
-            "title": "Human Freedom",
-            "format": ",.2f"
-          },
-          {
-            "field": "ef_score",
-            "type": "quantitative",
-            "title": "Economic Freedom",
-            "format": ",.2f"
-          }
-        ]
-      }
-    },
-    {
       "mark": {
         "type": "text",
         "align": "right",
@@ -101,6 +70,37 @@
           },
           "value": 0
         },
+        "tooltip": [
+          {"field": "countries", "type": "nominal", "title": "Country"},
+          {
+            "field": "hf_score",
+            "type": "quantitative",
+            "title": "Human Freedom",
+            "format": ",.2f"
+          },
+          {
+            "field": "ef_score",
+            "type": "quantitative",
+            "title": "Economic Freedom",
+            "format": ",.2f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {"type": "circle", "color":"navy"},
+      "encoding": {
+        "size": {
+          "field": "population",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 100000, 1000000, 50000000, 100000000, 500000000, 1000000000],
+            "range": [0, 10, 20, 40, 80, 160, 320, 640]
+          },
+          "legend": {"format": ".1s"}
+        },
+        "opacity": {"value": 0.5},
         "tooltip": [
           {"field": "countries", "type": "nominal", "title": "Country"},
           {
@@ -147,8 +147,8 @@
         "color": "black"
       },
       "encoding": {
-        "x": {"value": 500},
-        "y": {"value": 450},
+        "x": {"value": 550},
+        "y": {"value": 515},
         "text": {
           "value": "These countries that fall below the diagonal line have more"
         },
@@ -166,8 +166,8 @@
         "color": "black"
       },
       "encoding": {
-        "x": {"value": 500},
-        "y": {"value": 460},
+        "x": {"value": 550},
+        "y": {"value": 525},
         "text": {
           "value": "human freedom compared to the economic freedom"
         },

@@ -12,20 +12,9 @@
 </head>
 <body>
   
-  <div class="fixed_page">
-
-  <div class="grid-1">
-    <div id="chloropleth_map">
-    
-    </div>
-  </div>
-
-  <div class="grid-2">
-    <div id="scatterplot">
-    
-    </div>
-  </div>
-
+  <div id="choropleth_map"></div>
+  <div id="scatterplot"></div>
+  <div id="dot_distribution"></div>
 
   <script type="text/javascript">
 
@@ -34,12 +23,15 @@
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-
     var spec3 = "js/scatterplot.vg.json";
     vegaEmbed('#scatterplot', spec3, { "actions": false }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
+    var spec4 = "js/dot_distribution.vg.json";
+    vegaEmbed('#dot_distribution', spec4, { "actions": false }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
   </script>
 </body>
 </html>

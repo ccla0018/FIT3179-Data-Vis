@@ -3,7 +3,7 @@
     "data": {
       "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/hfi_cc_2022.csv"
     },
-    "width": 800,
+    "width": 600,
     "height": 400,
     "mark": {
       "type": "circle",
