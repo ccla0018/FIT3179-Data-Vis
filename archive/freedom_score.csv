@@ -157,7 +157,7 @@
 2020,Ukraine,Eastern Europe,6.68,6.11,123155
 2020,United Arab Emirates,Middle East & North Africa,5.76,7.35,123156
 2020,United Kingdom,Western Europe,8.3,7.71,123157
-2020,United States,North America,8.23,7.97,123158
+2020,United States of America,North America,8.23,7.97,123158
 2020,Uruguay,Latin America & the Caribbean,7.97,7.06,123159
 2020,"Venezuela, RB",Latin America & the Caribbean,4.09,3.32,123160
 2020,Vietnam,South Asia,5.64,6.42,123161
@@ -322,7 +322,7 @@
 2019,Ukraine,Eastern Europe,6.77,6.2,123320
 2019,United Arab Emirates,Middle East & North Africa,5.89,7.28,123321
 2019,United Kingdom,Western Europe,8.79,8.16,123322
-2019,United States,North America,8.75,8.25,123323
+2019,United States of America,North America,8.75,8.25,123323
 2019,Uruguay,Latin America & the Caribbean,8.4,7.38,123324
 2019,"Venezuela, RB",Latin America & the Caribbean,3.9,2.87,123325
 2019,Vietnam,South Asia,5.74,6.4,123326
@@ -484,7 +484,7 @@
 2018,Ukraine,Eastern Europe,6.69,6.16,123482
 2018,United Arab Emirates,Middle East & North Africa,5.85,7.09,123483
 2018,United Kingdom,Western Europe,8.83,8.17,123484
-2018,United States,North America,8.8,8.28,123485
+2018,United States of America,North America,8.8,8.28,123485
 2018,Uruguay,Latin America & the Caribbean,8.38,7.36,123486
 2018,"Venezuela, RB",Latin America & the Caribbean,4.15,3.36,123487
 2018,Vietnam,South Asia,5.73,6.36,123488
@@ -646,7 +646,7 @@
 2017,Ukraine,Eastern Europe,6.68,5.95,123644
 2017,United Arab Emirates,Middle East & North Africa,5.8,7.02,123645
 2017,United Kingdom,Western Europe,8.87,8.3,123646
-2017,United States,North America,8.83,8.38,123647
+2017,United States of America,North America,8.83,8.38,123647
 2017,Uruguay,Latin America & the Caribbean,8.42,7.38,123648
 2017,"Venezuela, RB",Latin America & the Caribbean,3.97,2.72,123649
 2017,Vietnam,South Asia,5.67,6.22,123650
@@ -808,7 +808,7 @@
 2016,Ukraine,Eastern Europe,6.69,5.92,123806
 2016,United Arab Emirates,Middle East & North Africa,5.95,7.17,123807
 2016,United Kingdom,Western Europe,8.93,8.26,123808
-2016,United States,North America,8.86,8.34,123809
+2016,United States of America,North America,8.86,8.34,123809
 2016,Uruguay,Latin America & the Caribbean,8.28,7.3,123810
 2016,"Venezuela, RB",Latin America & the Caribbean,4.14,2.75,123811
 2016,Vietnam,South Asia,5.67,6.15,123812
@@ -967,7 +967,7 @@
 2015,Ukraine,Eastern Europe,6.27,5.39,123965
 2015,United Arab Emirates,Middle East & North Africa,5.89,7.05,123966
 2015,United Kingdom,Western Europe,8.93,8.27,123967
-2015,United States,North America,8.9,8.31,123968
+2015,United States of America,North America,8.9,8.31,123968
 2015,Uruguay,Latin America & the Caribbean,8.27,7.29,123969
 2015,"Venezuela, RB",Latin America & the Caribbean,4.47,2.82,123970
 2015,Vietnam,South Asia,5.59,6.04,123971
@@ -1126,7 +1126,7 @@
 2014,Ukraine,Eastern Europe,6.5,5.96,124124
 2014,United Arab Emirates,Middle East & North Africa,6,7.19,124125
 2014,United Kingdom,Western Europe,8.9,8.17,124126
-2014,United States,North America,8.9,8.25,124127
+2014,United States of America,North America,8.9,8.25,124127
 2014,Uruguay,Latin America & the Caribbean,8.32,7.25,124128
 2014,"Venezuela, RB",Latin America & the Caribbean,4.6,3.08,124129
 2014,Vietnam,South Asia,5.58,6,124130
@@ -1283,7 +1283,7 @@
 2013,Ukraine,Eastern Europe,6.97,6.06,124281
 2013,United Arab Emirates,Middle East & North Africa,6.07,7.25,124282
 2013,United Kingdom,Western Europe,8.87,8.11,124283
-2013,United States,North America,8.85,8.23,124284
+2013,United States of America,North America,8.85,8.23,124284
 2013,Uruguay,Latin America & the Caribbean,8.34,7.37,124285
 2013,"Venezuela, RB",Latin America & the Caribbean,4.7,3.13,124286
 2013,Vietnam,South Asia,5.57,5.94,124287
@@ -1436,7 +1436,7 @@
 2012,Ukraine,Eastern Europe,7.04,6.16,124434
 2012,United Arab Emirates,Middle East & North Africa,6.14,7.33,124435
 2012,United Kingdom,Western Europe,8.87,8.15,124436
-2012,United States,North America,8.83,8.26,124437
+2012,United States of America,North America,8.83,8.26,124437
 2012,Uruguay,Latin America & the Caribbean,8.47,7.49,124438
 2012,"Venezuela, RB",Latin America & the Caribbean,5.05,3.68,124439
 2012,Vietnam,South Asia,5.56,5.89,124440
@@ -1589,7 +1589,7 @@
 2011,Ukraine,Eastern Europe,7.04,6.02,124587
 2011,United Arab Emirates,Middle East & North Africa,6.13,7.31,124588
 2011,United Kingdom,Western Europe,8.88,8.12,124589
-2011,United States,North America,8.82,8.16,124590
+2011,United States of America,North America,8.82,8.16,124590
 2011,Uruguay,Latin America & the Caribbean,8.5,7.49,124591
 2011,"Venezuela, RB",Latin America & the Caribbean,5.14,3.78,124592
 2011,Vietnam,South Asia,5.63,5.83,124593
@@ -1742,7 +1742,7 @@
 2010,Ukraine,Eastern Europe,7.02,5.81,124740
 2010,United Arab Emirates,Middle East & North Africa,6.24,7.23,124741
 2010,United Kingdom,Western Europe,8.87,8.1,124742
-2010,United States,North America,8.81,8.14,124743
+2010,United States of America,North America,8.81,8.14,124743
 2010,Uruguay,Latin America & the Caribbean,8.5,7.5,124744
 2010,"Venezuela, RB",Latin America & the Caribbean,5.12,3.78,124745
 2010,Vietnam,South Asia,5.78,5.9,124746
@@ -1884,7 +1884,7 @@
 2009,Ukraine,Eastern Europe,7.11,5.74,124882
 2009,United Arab Emirates,Middle East & North Africa,6.13,7.05,124883
 2009,United Kingdom,Western Europe,8.87,8.08,124884
-2009,United States,North America,8.76,8.05,124885
+2009,United States of America,North America,8.76,8.05,124885
 2009,Uruguay,Latin America & the Caribbean,8.42,7.31,124886
 2009,"Venezuela, RB",Latin America & the Caribbean,5.15,4.1,124887
 2009,Vietnam,South Asia,5.79,5.92,124888
@@ -2025,7 +2025,7 @@
 2008,Ukraine,Eastern Europe,7.08,5.7,125023
 2008,United Arab Emirates,Middle East & North Africa,6.19,7.24,125024
 2008,United Kingdom,Western Europe,8.91,8.17,125025
-2008,United States,North America,8.87,8.33,125026
+2008,United States of America,North America,8.87,8.33,125026
 2008,Uruguay,Latin America & the Caribbean,8.42,7.31,125027
 2008,"Venezuela, RB",Latin America & the Caribbean,5.27,4.19,125028
 2008,Vietnam,South Asia,5.71,5.75,125029
@@ -2166,7 +2166,7 @@
 2007,Ukraine,Eastern Europe,7.07,5.73,125164
 2007,United Arab Emirates,Middle East & North Africa,6.19,7.31,125165
 2007,United Kingdom,Western Europe,8.94,8.29,125166
-2007,United States,North America,8.92,8.53,125167
+2007,United States of America,North America,8.92,8.53,125167
 2007,Uruguay,Latin America & the Caribbean,8.42,7.34,125168
 2007,"Venezuela, RB",Latin America & the Caribbean,5.28,4.29,125169
 2007,Vietnam,South Asia,5.7,5.9,125170
@@ -2307,7 +2307,7 @@
 2006,Ukraine,Eastern Europe,7.05,5.75,125305
 2006,United Arab Emirates,Middle East & North Africa,6.1,7.23,125306
 2006,United Kingdom,Western Europe,8.99,8.39,125307
-2006,United States,North America,8.9,8.51,125308
+2006,United States of America,North America,8.9,8.51,125308
 2006,Uruguay,Latin America & the Caribbean,8.4,7.29,125309
 2006,"Venezuela, RB",Latin America & the Caribbean,5.46,4.68,125310
 2006,Vietnam,South Asia,5.75,5.9,125311
@@ -2448,7 +2448,7 @@
 2005,Ukraine,Eastern Europe,6.91,5.62,125446
 2005,United Arab Emirates,Middle East & North Africa,6.02,7.06,125447
 2005,United Kingdom,Western Europe,8.93,8.45,125448
-2005,United States,North America,8.91,8.51,125449
+2005,United States of America,North America,8.91,8.51,125449
 2005,Uruguay,Latin America & the Caribbean,8.42,7.32,125450
 2005,"Venezuela, RB",Latin America & the Caribbean,5.54,4.83,125451
 2005,Vietnam,South Asia,5.68,5.82,125452
@@ -2578,7 +2578,7 @@
 2004,Ukraine,Eastern Europe,6.67,5.56,125576
 2004,United Arab Emirates,Middle East & North Africa,6.01,7.19,125577
 2004,United Kingdom,Western Europe,9.03,8.49,125578
-2004,United States,North America,8.93,8.7,125579
+2004,United States of America,North America,8.93,8.7,125579
 2004,Uruguay,Latin America & the Caribbean,8.29,7.2,125580
 2004,"Venezuela, RB",Latin America & the Caribbean,5.58,4.89,125581
 2004,Vietnam,South Asia,5.55,5.74,125582
@@ -2705,7 +2705,7 @@
 2003,Ukraine,Eastern Europe,6.61,5.44,125703
 2003,United Arab Emirates,Middle East & North Africa,6.1,7.22,125704
 2003,United Kingdom,Western Europe,9.05,8.56,125705
-2003,United States,North America,8.93,8.61,125706
+2003,United States of America,North America,8.93,8.61,125706
 2003,Uruguay,Latin America & the Caribbean,8.22,7.02,125707
 2003,"Venezuela, RB",Latin America & the Caribbean,5.55,4.37,125708
 2003,Vietnam,South Asia,5.43,5.46,125709
@@ -2829,7 +2829,7 @@
 2002,Ukraine,Eastern Europe,6.64,5.53,125827
 2002,United Arab Emirates,Middle East & North Africa,6.13,7.26,125828
 2002,United Kingdom,Western Europe,9.06,8.58,125829
-2002,United States,North America,8.88,8.61,125830
+2002,United States of America,North America,8.88,8.61,125830
 2002,Uruguay,Latin America & the Caribbean,8.27,7.18,125831
 2002,"Venezuela, RB",Latin America & the Caribbean,5.75,4.78,125832
 2002,Zambia,Sub-Saharan Africa,7,6.8,125833
@@ -2952,7 +2952,7 @@
 2001,Ukraine,Eastern Europe,6.38,5.02,125950
 2001,United Arab Emirates,Middle East & North Africa,6.03,7.07,125951
 2001,United Kingdom,Western Europe,9.05,8.5,125952
-2001,United States,North America,8.72,8.56,125953
+2001,United States of America,North America,8.72,8.56,125953
 2001,Uruguay,Latin America & the Caribbean,8.22,7.08,125954
 2001,"Venezuela, RB",Latin America & the Caribbean,6.67,6.17,125955
 2001,Zambia,Sub-Saharan Africa,7.11,7.1,125956
@@ -3076,7 +3076,7 @@
 2000,Ukraine,Eastern Europe,6.25,4.75,126074
 2000,United Arab Emirates,Middle East & North Africa,6.08,7.11,126075
 2000,United Kingdom,Western Europe,9.12,8.58,126076
-2000,United States,North America,8.97,8.7,126077
+2000,United States of America,North America,8.97,8.7,126077
 2000,Uruguay,Latin America & the Caribbean,8.25,7.14,126078
 2000,"Venezuela, RB",Latin America & the Caribbean,6.43,5.92,126079
 2000,Vietnam,South Asia,5.51,5.58,126080
