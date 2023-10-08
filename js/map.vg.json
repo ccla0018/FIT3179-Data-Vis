@@ -1,147 +1,147 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": {
-      "text": "Human Freedom Score 2000 - 2019",
-      "fontSize": 16
-    },
-    "width": "container",
-    "height": 500,
-    "data": {
-      "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/freedom_score.csv"
-    },
-    "params": [
-      {
-        "name": "year_selection",
-        "value": "2020",
-        "bind": {
-          "input": "range",
-          "min": 2000,
-          "max": 2020,
-          "step": 1,
-          "name": "Year Selection: "
-        }
-      },
-      {
-        "name": "freedom_type",
-        "value": "hf_score",
-        "bind": {
-          "input": "select",
-          "options": [
-            "hf_score",
-            "ef_score"
-          ],
-          "labels": [
-            "Human Freedom Score",
-            "Economic Freedom Score"
-          ],
-          "name": "Freedom Type: "
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Human Freedom Score 2000 - 2019",
+    "fontSize": 16
+  },
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/freedom_score.csv"
+  },
+  "params": [
+    {
+      "name": "year_selection",
+      "value": "2020",
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2020,
+        "step": 1,
+        "name": "Year Selection: "
       }
-    ],
-    "layer": [
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_100m_ocean.json",
-          "format": {"type": "topojson", "feature": "oceans"}
-        },
-        "mark": {"type": "geoshape", "fill": "aliceblue"}
-      },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/WorldMapWithGraticules.topojson",
-          "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
-        },
-        "mark": {"type": "geoshape", "fill": "", "stroke": "lightgray"}
-      },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
-          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
-        },
-        "mark": {"type": "geoshape", "fill": "darkgrey", "stroke": "white"}
-      },
-      {
-        "data": {
-                "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
-                "format": {
-                  "type": "topojson",
-                  "feature": "ne_110m_admin_0_countries"
-                }
-              },
-              "transform":[
-          {
-            "calculate": "'Data is not available in ' + datum.properties.NAME", "as": "N/A"
-          }
+    },
+    {
+      "name": "freedom_type",
+      "value": "hf_score",
+      "bind": {
+        "input": "select",
+        "options": [
+          "hf_score",
+          "ef_score"
         ],
-        "mark":{
-          "type": "geoshape",
-          "fill": "lightgrey",
-          "stroke": "white"
-        },
-        "encoding": {
-          "tooltip":[
-            {
-              "field": "N/A",
-              "type": "nominal"
-            }
-          ]
-        }
+        "labels": [
+          "Human Freedom Score",
+          "Economic Freedom Score"
+        ],
+        "name": "Freedom Type: "
+      }
+    }
+  ],
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_100m_ocean.json",
+        "format": {"type": "topojson", "feature": "oceans"}
       },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/test.csv"
-        },
-        "projection": {"type": "equalEarth"},
-        "transform": [
-          {
-            "lookup": "countries",
-            "from": {
-              "data": {
-                "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
-                "format": {
-                  "type": "topojson",
-                  "feature": "ne_110m_admin_0_countries"
-                }
-              },
-              "key": "properties.NAME"
+      "mark": {"type": "geoshape", "fill": "aliceblue"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/WorldMapWithGraticules.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {"type": "geoshape", "fill": "", "stroke": "lightgray"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "mark": {"type": "geoshape", "fill": "darkgrey", "stroke": "white"}
+    },
+    {
+      "data": {
+              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "ne_110m_admin_0_countries"
+              }
             },
-            "as": "geo"
-          },
-          {"filter": "datum.year == year_selection"},
+            "transform":[
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME", "as": "N/A"
+        }
+      ],
+      "mark":{
+        "type": "geoshape",
+        "fill": "lightgrey",
+        "stroke": "white"
+      },
+      "encoding": {
+        "tooltip":[
           {
-            "calculate": "datum[freedom_type]",
-            "as": "Selected Freedom Type"
+            "field": "N/A",
+            "type": "nominal"
           }
-        ],
-        "mark": {"type": "geoshape", "stroke": "white"},
-        "encoding": {
-          "shape": {"field": "geo", "type": "geojson"},
-          "color": {
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/archive/freedom_score.csv"
+      },
+      "projection": {"type": "equalEarth"},
+      "transform": [
+        {
+          "lookup": "countries",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/ne_110m_admin_0_countries.topojson",
+              "format": {
+                "type": "topojson",
+                "feature": "ne_110m_admin_0_countries"
+              }
+            },
+            "key": "properties.NAME"
+          },
+          "as": "geo"
+        },
+        {"filter": "datum.year == year_selection"},
+        {
+          "calculate": "datum[freedom_type]",
+          "as": "Selected Freedom Type"
+        }
+      ],
+      "mark": {"type": "geoshape", "stroke": "white"},
+      "encoding": {
+        "shape": {"field": "geo", "type": "geojson"},
+        "color": {
+          "field": "Selected Freedom Type",
+          "type": "quantitative",
+          "scale": {
+            "type": "threshold",
+            "domain": [0, 2, 4, 6, 8, 10],
+            "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
+          },
+          "legend": {
+            "title": "Selected Freedom Score Type",
+            "titleLimit": 320,
+            "titleFontSize": 13,
+            "direction": "horizontal",
+            "orient": "bottom"
+          }
+        },
+        "tooltip": [
+          {"field": "countries", "type": "nominal", "title": "Country"},
+          {
             "field": "Selected Freedom Type",
-            "type": "quantitative",
-            "scale": {
-              "type": "threshold",
-              "domain": [0, 2, 4, 6, 8, 10],
-              "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
-            },
-            "legend": {
-              "title": "Selected Freedom Score Type",
-              "titleLimit": 320,
-              "titleFontSize": 13,
-              "direction": "horizontal",
-              "orient": "bottom"
-            }
-          },
-          "tooltip": [
-            {"field": "countries", "type": "nominal", "title": "Country"},
-            {
-              "field": "Selected Freedom Type",
-              "type": "nominal",
-              "title": "Freedom Score",
-              "format": ",.2f"
-            }
-          ]
-        }
+            "type": "nominal",
+            "title": "Freedom Score",
+            "format": ",.2f"
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
+}
