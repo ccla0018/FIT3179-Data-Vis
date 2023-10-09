@@ -9,7 +9,18 @@
     "signals": [
       {"name": "radius", "update": "width / 2"}
     ],
-  
+    "params": [
+      {
+        "name": "year_selection",
+        "value": "2020",
+        "bind": {
+          "input": "range",
+          "min": 2000,
+          "max": 2020,
+          "step": 1,
+          "name": "Year Selection: "
+        }
+      }],
     "data": [
       {
         "name": "table",
@@ -20,7 +31,8 @@
         "name": "keys",
         "source": "table",
         "transform": [
-          { "type": "aggregate", "groupby": ["countries"] }
+          { "type": "aggregate", "groupby": ["countries"] },
+          {"filter": "datum.year == year_selection"}
         ]
       }
     ],
