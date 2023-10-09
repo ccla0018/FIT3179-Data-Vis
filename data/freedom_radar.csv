@@ -1,221 +1,221 @@
-﻿year,region,category,score
-2010,Caucasus & Central Asia,ef_score,6.78
-2010,Caucasus & Central Asia,hf_score,6.54
-2010,East Asia,ef_score,7.56
-2010,East Asia,hf_score,7.93
-2010,Eastern Europe,ef_score,7.21
-2010,Eastern Europe,hf_score,7.96
-2010,Latin America & the Caribbean,ef_score,6.89
-2010,Latin America & the Caribbean,hf_score,7.48
-2010,Middle East & North Africa,ef_score,6.61
-2010,Middle East & North Africa,hf_score,5.90
-2010,North America,ef_score,8.11
-2010,North America,hf_score,8.83
-2010,Oceania,ef_score,7.55
-2010,Oceania,hf_score,8.09
-2010,South Asia,ef_score,6.46
-2010,South Asia,hf_score,6.46
-2010,Sub-Saharan Africa,ef_score,6.10
-2010,Sub-Saharan Africa,hf_score,6.43
-2010,Western Europe,ef_score,7.75
-2010,Western Europe,hf_score,8.71
-2011,Caucasus & Central Asia,ef_score,6.87
-2011,Caucasus & Central Asia,hf_score,6.54
-2011,East Asia,ef_score,7.54
-2011,East Asia,hf_score,7.94
-2011,Eastern Europe,ef_score,7.28
-2011,Eastern Europe,hf_score,7.97
-2011,Latin America & the Caribbean,ef_score,6.90
-2011,Latin America & the Caribbean,hf_score,7.48
-2011,Middle East & North Africa,ef_score,6.58
-2011,Middle East & North Africa,hf_score,5.81
-2011,North America,ef_score,8.05
-2011,North America,hf_score,8.80
-2011,Oceania,ef_score,7.60
-2011,Oceania,hf_score,8.12
-2011,South Asia,ef_score,6.52
-2011,South Asia,hf_score,6.51
-2011,Sub-Saharan Africa,ef_score,6.09
-2011,Sub-Saharan Africa,hf_score,6.45
-2011,Western Europe,ef_score,7.81
-2011,Western Europe,hf_score,8.74
-2012,Caucasus & Central Asia,ef_score,6.96
-2012,Caucasus & Central Asia,hf_score,6.58
-2012,East Asia,ef_score,7.53
-2012,East Asia,hf_score,7.92
-2012,Eastern Europe,ef_score,7.30
-2012,Eastern Europe,hf_score,7.94
-2012,Latin America & the Caribbean,ef_score,6.86
-2012,Latin America & the Caribbean,hf_score,7.45
-2012,Middle East & North Africa,ef_score,6.52
-2012,Middle East & North Africa,hf_score,5.78
-2012,North America,ef_score,8.14
-2012,North America,hf_score,8.81
-2012,Oceania,ef_score,7.62
-2012,Oceania,hf_score,8.12
-2012,South Asia,ef_score,6.62
-2012,South Asia,hf_score,6.50
-2012,Sub-Saharan Africa,ef_score,6.11
-2012,Sub-Saharan Africa,hf_score,6.41
-2012,Western Europe,ef_score,7.80
-2012,Western Europe,hf_score,8.73
-2013,Caucasus & Central Asia,ef_score,6.97
-2013,Caucasus & Central Asia,hf_score,6.61
-2013,East Asia,ef_score,7.56
-2013,East Asia,hf_score,7.90
-2013,Eastern Europe,ef_score,7.28
-2013,Eastern Europe,hf_score,7.91
-2013,Latin America & the Caribbean,ef_score,6.83
-2013,Latin America & the Caribbean,hf_score,7.39
-2013,Middle East & North Africa,ef_score,6.43
-2013,Middle East & North Africa,hf_score,5.68
-2013,North America,ef_score,8.16
-2013,North America,hf_score,8.85
-2013,Oceania,ef_score,7.36
-2013,Oceania,hf_score,8.03
-2013,South Asia,ef_score,6.69
-2013,South Asia,hf_score,6.49
-2013,Sub-Saharan Africa,ef_score,6.12
-2013,Sub-Saharan Africa,hf_score,6.41
-2013,Western Europe,ef_score,7.81
-2013,Western Europe,hf_score,8.74
-2014,Caucasus & Central Asia,ef_score,7.12
-2014,Caucasus & Central Asia,hf_score,6.71
-2014,East Asia,ef_score,7.61
-2014,East Asia,hf_score,7.90
-2014,Eastern Europe,ef_score,7.40
-2014,Eastern Europe,hf_score,7.95
-2014,Latin America & the Caribbean,ef_score,6.85
-2014,Latin America & the Caribbean,hf_score,7.39
-2014,Middle East & North Africa,ef_score,6.44
-2014,Middle East & North Africa,hf_score,5.58
-2014,North America,ef_score,8.27
-2014,North America,hf_score,8.93
-2014,Oceania,ef_score,7.40
-2014,Oceania,hf_score,8.08
-2014,South Asia,ef_score,6.71
-2014,South Asia,hf_score,6.39
-2014,Sub-Saharan Africa,ef_score,6.20
-2014,Sub-Saharan Africa,hf_score,6.44
-2014,Western Europe,ef_score,7.91
-2014,Western Europe,hf_score,8.78
-2015,Caucasus & Central Asia,ef_score,7.07
-2015,Caucasus & Central Asia,hf_score,6.68
-2015,East Asia,ef_score,7.66
-2015,East Asia,hf_score,7.90
-2015,Eastern Europe,ef_score,7.35
-2015,Eastern Europe,hf_score,7.90
-2015,Latin America & the Caribbean,ef_score,6.88
-2015,Latin America & the Caribbean,hf_score,7.38
-2015,Middle East & North Africa,ef_score,6.35
-2015,Middle East & North Africa,hf_score,5.49
-2015,North America,ef_score,8.27
-2015,North America,hf_score,8.92
-2015,Oceania,ef_score,7.33
-2015,Oceania,hf_score,8.10
-2015,South Asia,ef_score,6.75
-2015,South Asia,hf_score,6.40
-2015,Sub-Saharan Africa,ef_score,6.21
-2015,Sub-Saharan Africa,hf_score,6.42
-2015,Western Europe,ef_score,7.89
-2015,Western Europe,hf_score,8.76
-2016,Caucasus & Central Asia,ef_score,7.11
-2016,Caucasus & Central Asia,hf_score,6.71
-2016,East Asia,ef_score,7.67
-2016,East Asia,hf_score,7.89
-2016,Eastern Europe,ef_score,7.35
-2016,Eastern Europe,hf_score,7.86
-2016,Latin America & the Caribbean,ef_score,6.85
-2016,Latin America & the Caribbean,hf_score,7.36
-2016,Middle East & North Africa,ef_score,6.35
-2016,Middle East & North Africa,hf_score,5.47
-2016,North America,ef_score,8.31
-2016,North America,hf_score,8.90
-2016,Oceania,ef_score,7.32
-2016,Oceania,hf_score,8.10
-2016,South Asia,ef_score,6.82
-2016,South Asia,hf_score,6.44
-2016,Sub-Saharan Africa,ef_score,6.25
-2016,Sub-Saharan Africa,hf_score,6.39
-2016,Western Europe,ef_score,7.91
-2016,Western Europe,hf_score,8.77
-2017,Caucasus & Central Asia,ef_score,7.11
-2017,Caucasus & Central Asia,hf_score,6.76
-2017,East Asia,ef_score,7.74
-2017,East Asia,hf_score,7.98
-2017,Eastern Europe,ef_score,7.36
-2017,Eastern Europe,hf_score,7.86
-2017,Latin America & the Caribbean,ef_score,6.84
-2017,Latin America & the Caribbean,hf_score,7.41
-2017,Middle East & North Africa,ef_score,6.23
-2017,Middle East & North Africa,hf_score,5.41
-2017,North America,ef_score,8.30
-2017,North America,hf_score,8.87
-2017,Oceania,ef_score,7.35
-2017,Oceania,hf_score,8.16
-2017,South Asia,ef_score,6.78
-2017,South Asia,hf_score,6.42
-2017,Sub-Saharan Africa,ef_score,6.19
-2017,Sub-Saharan Africa,hf_score,6.38
-2017,Western Europe,ef_score,7.92
-2017,Western Europe,hf_score,8.75
-2018,Caucasus & Central Asia,ef_score,7.25
-2018,Caucasus & Central Asia,hf_score,6.86
-2018,East Asia,ef_score,7.77
-2018,East Asia,hf_score,7.98
-2018,Eastern Europe,ef_score,7.41
-2018,Eastern Europe,hf_score,7.85
-2018,Latin America & the Caribbean,ef_score,6.88
-2018,Latin America & the Caribbean,hf_score,7.41
-2018,Middle East & North Africa,ef_score,6.25
-2018,Middle East & North Africa,hf_score,5.44
-2018,North America,ef_score,8.20
-2018,North America,hf_score,8.83
-2018,Oceania,ef_score,7.23
-2018,Oceania,hf_score,8.14
-2018,South Asia,ef_score,6.82
-2018,South Asia,hf_score,6.46
-2018,Sub-Saharan Africa,ef_score,6.22
-2018,Sub-Saharan Africa,hf_score,6.41
-2018,Western Europe,ef_score,7.90
-2018,Western Europe,hf_score,8.74
-2019,Caucasus & Central Asia,ef_score,7.31
-2019,Caucasus & Central Asia,hf_score,6.88
-2019,East Asia,ef_score,7.72
-2019,East Asia,hf_score,7.91
-2019,Eastern Europe,ef_score,7.44
-2019,Eastern Europe,hf_score,7.86
-2019,Latin America & the Caribbean,ef_score,6.86
-2019,Latin America & the Caribbean,hf_score,7.37
-2019,Middle East & North Africa,ef_score,6.28
-2019,Middle East & North Africa,hf_score,5.45
-2019,North America,ef_score,8.15
-2019,North America,hf_score,8.80
-2019,Oceania,ef_score,7.28
-2019,Oceania,hf_score,8.10
-2019,South Asia,ef_score,6.81
-2019,South Asia,hf_score,6.44
-2019,Sub-Saharan Africa,ef_score,6.27
-2019,Sub-Saharan Africa,hf_score,6.36
-2019,Western Europe,ef_score,7.91
-2019,Western Europe,hf_score,8.73
-2020,Caucasus & Central Asia,ef_score,7.13
-2020,Caucasus & Central Asia,hf_score,6.70
-2020,East Asia,ef_score,7.51
-2020,East Asia,hf_score,7.63
-2020,Eastern Europe,ef_score,7.23
-2020,Eastern Europe,hf_score,7.59
-2020,Latin America & the Caribbean,ef_score,6.68
-2020,Latin America & the Caribbean,hf_score,7.07
-2020,Middle East & North Africa,ef_score,6.20
-2020,Middle East & North Africa,hf_score,5.33
-2020,North America,ef_score,7.89
-2020,North America,hf_score,8.35
-2020,Oceania,ef_score,7.25
-2020,Oceania,hf_score,7.88
-2020,South Asia,ef_score,6.72
-2020,South Asia,hf_score,6.30
-2020,Sub-Saharan Africa,ef_score,6.18
-2020,Sub-Saharan Africa,hf_score,6.22
-2020,Western Europe,ef_score,7.66
-2020,Western Europe,hf_score,8.41
+﻿year,region,category,score,,,,,,
+2010,Caucasus & Central Asia,ef_score,6.78,,,,,,
+2010,Caucasus & Central Asia,hf_score,6.54,,,,,,
+2010,East Asia,ef_score,7.56,,,,,,
+2010,East Asia,hf_score,7.93,,,,,,Caucasus & Central Asia
+2010,Eastern Europe,ef_score,7.21,,,,,,East Asia
+2010,Eastern Europe,hf_score,7.96,,,,,,Eastern Europe
+2010,Latin America & the Caribbean,ef_score,6.89,,,,,,Latin America & the Caribbean
+2010,Latin America & the Caribbean,hf_score,7.48,,,,,,Middle East & North Africa
+2010,Middle East & North Africa,ef_score,6.61,,,,,,North America
+2010,Middle East & North Africa,hf_score,5.9,,,,,,Oceania
+2010,North America,ef_score,8.11,,,,,,South Asia
+2010,North America,hf_score,8.83,,,,,,Sub-Saharan Africa
+2010,Oceania,ef_score,7.55,,,,,,Western Europe
+2010,Oceania,hf_score,8.09,,,,,,
+2010,South Asia,ef_score,6.46,,,,,,
+2010,South Asia,hf_score,6.46,,,,,,
+2010,Sub-Saharan Africa,ef_score,6.1,,,,,,
+2010,Sub-Saharan Africa,hf_score,6.43,,,,,,
+2010,Western Europe,ef_score,7.75,,,,,,
+2010,Western Europe,hf_score,8.71,,,,,,
+2011,Caucasus & Central Asia,ef_score,6.87,,,,,,
+2011,Caucasus & Central Asia,hf_score,6.54,,,,,,
+2011,East Asia,ef_score,7.54,,,,,,
+2011,East Asia,hf_score,7.94,,,,,,
+2011,Eastern Europe,ef_score,7.28,,,,,,
+2011,Eastern Europe,hf_score,7.97,,,,,,
+2011,Latin America & the Caribbean,ef_score,6.9,,,,,,
+2011,Latin America & the Caribbean,hf_score,7.48,,,,,,
+2011,Middle East & North Africa,ef_score,6.58,,,,,,
+2011,Middle East & North Africa,hf_score,5.81,,,,,,
+2011,North America,ef_score,8.05,,,,,,
+2011,North America,hf_score,8.8,,,,,,
+2011,Oceania,ef_score,7.6,,,,,,
+2011,Oceania,hf_score,8.12,,,,,,
+2011,South Asia,ef_score,6.52,,,,,,
+2011,South Asia,hf_score,6.51,,,,,,
+2011,Sub-Saharan Africa,ef_score,6.09,,,,,,
+2011,Sub-Saharan Africa,hf_score,6.45,,,,,,
+2011,Western Europe,ef_score,7.81,,,,,,
+2011,Western Europe,hf_score,8.74,,,,,,
+2012,Caucasus & Central Asia,ef_score,6.96,,,,,,
+2012,Caucasus & Central Asia,hf_score,6.58,,,,,,
+2012,East Asia,ef_score,7.53,,,,,,
+2012,East Asia,hf_score,7.92,,,,,,
+2012,Eastern Europe,ef_score,7.3,,,,,,
+2012,Eastern Europe,hf_score,7.94,,,,,,
+2012,Latin America & the Caribbean,ef_score,6.86,,,,,,
+2012,Latin America & the Caribbean,hf_score,7.45,,,,,,
+2012,Middle East & North Africa,ef_score,6.52,,,,,,
+2012,Middle East & North Africa,hf_score,5.78,,,,,,
+2012,North America,ef_score,8.14,,,,,,
+2012,North America,hf_score,8.81,,,,,,
+2012,Oceania,ef_score,7.62,,,,,,
+2012,Oceania,hf_score,8.12,,,,,,
+2012,South Asia,ef_score,6.62,,,,,,
+2012,South Asia,hf_score,6.5,,,,,,
+2012,Sub-Saharan Africa,ef_score,6.11,,,,,,
+2012,Sub-Saharan Africa,hf_score,6.41,,,,,,
+2012,Western Europe,ef_score,7.8,,,,,,
+2012,Western Europe,hf_score,8.73,,,,,,
+2013,Caucasus & Central Asia,ef_score,6.97,,,,,,
+2013,Caucasus & Central Asia,hf_score,6.61,,,,,,
+2013,East Asia,ef_score,7.56,,,,,,
+2013,East Asia,hf_score,7.9,,,,,,
+2013,Eastern Europe,ef_score,7.28,,,,,,
+2013,Eastern Europe,hf_score,7.91,,,,,,
+2013,Latin America & the Caribbean,ef_score,6.83,,,,,,
+2013,Latin America & the Caribbean,hf_score,7.39,,,,,,
+2013,Middle East & North Africa,ef_score,6.43,,,,,,
+2013,Middle East & North Africa,hf_score,5.68,,,,,,
+2013,North America,ef_score,8.16,,,,,,
+2013,North America,hf_score,8.85,,,,,,
+2013,Oceania,ef_score,7.36,,,,,,
+2013,Oceania,hf_score,8.03,,,,,,
+2013,South Asia,ef_score,6.69,,,,,,
+2013,South Asia,hf_score,6.49,,,,,,
+2013,Sub-Saharan Africa,ef_score,6.12,,,,,,
+2013,Sub-Saharan Africa,hf_score,6.41,,,,,,
+2013,Western Europe,ef_score,7.81,,,,,,
+2013,Western Europe,hf_score,8.74,,,,,,
+2014,Caucasus & Central Asia,ef_score,7.12,,,,,,
+2014,Caucasus & Central Asia,hf_score,6.71,,,,,,
+2014,East Asia,ef_score,7.61,,,,,,
+2014,East Asia,hf_score,7.9,,,,,,
+2014,Eastern Europe,ef_score,7.4,,,,,,
+2014,Eastern Europe,hf_score,7.95,,,,,,
+2014,Latin America & the Caribbean,ef_score,6.85,,,,,,
+2014,Latin America & the Caribbean,hf_score,7.39,,,,,,
+2014,Middle East & North Africa,ef_score,6.44,,,,,,
+2014,Middle East & North Africa,hf_score,5.58,,,,,,
+2014,North America,ef_score,8.27,,,,,,
+2014,North America,hf_score,8.93,,,,,,
+2014,Oceania,ef_score,7.4,,,,,,
+2014,Oceania,hf_score,8.08,,,,,,
+2014,South Asia,ef_score,6.71,,,,,,
+2014,South Asia,hf_score,6.39,,,,,,
+2014,Sub-Saharan Africa,ef_score,6.2,,,,,,
+2014,Sub-Saharan Africa,hf_score,6.44,,,,,,
+2014,Western Europe,ef_score,7.91,,,,,,
+2014,Western Europe,hf_score,8.78,,,,,,
+2015,Caucasus & Central Asia,ef_score,7.07,,,,,,
+2015,Caucasus & Central Asia,hf_score,6.68,,,,,,
+2015,East Asia,ef_score,7.66,,,,,,
+2015,East Asia,hf_score,7.9,,,,,,
+2015,Eastern Europe,ef_score,7.35,,,,,,
+2015,Eastern Europe,hf_score,7.9,,,,,,
+2015,Latin America & the Caribbean,ef_score,6.88,,,,,,
+2015,Latin America & the Caribbean,hf_score,7.38,,,,,,
+2015,Middle East & North Africa,ef_score,6.35,,,,,,
+2015,Middle East & North Africa,hf_score,5.49,,,,,,
+2015,North America,ef_score,8.27,,,,,,
+2015,North America,hf_score,8.92,,,,,,
+2015,Oceania,ef_score,7.33,,,,,,
+2015,Oceania,hf_score,8.1,,,,,,
+2015,South Asia,ef_score,6.75,,,,,,
+2015,South Asia,hf_score,6.4,,,,,,
+2015,Sub-Saharan Africa,ef_score,6.21,,,,,,
+2015,Sub-Saharan Africa,hf_score,6.42,,,,,,
+2015,Western Europe,ef_score,7.89,,,,,,
+2015,Western Europe,hf_score,8.76,,,,,,
+2016,Caucasus & Central Asia,ef_score,7.11,,,,,,
+2016,Caucasus & Central Asia,hf_score,6.71,,,,,,
+2016,East Asia,ef_score,7.67,,,,,,
+2016,East Asia,hf_score,7.89,,,,,,
+2016,Eastern Europe,ef_score,7.35,,,,,,
+2016,Eastern Europe,hf_score,7.86,,,,,,
+2016,Latin America & the Caribbean,ef_score,6.85,,,,,,
+2016,Latin America & the Caribbean,hf_score,7.36,,,,,,
+2016,Middle East & North Africa,ef_score,6.35,,,,,,
+2016,Middle East & North Africa,hf_score,5.47,,,,,,
+2016,North America,ef_score,8.31,,,,,,
+2016,North America,hf_score,8.9,,,,,,
+2016,Oceania,ef_score,7.32,,,,,,
+2016,Oceania,hf_score,8.1,,,,,,
+2016,South Asia,ef_score,6.82,,,,,,
+2016,South Asia,hf_score,6.44,,,,,,
+2016,Sub-Saharan Africa,ef_score,6.25,,,,,,
+2016,Sub-Saharan Africa,hf_score,6.39,,,,,,
+2016,Western Europe,ef_score,7.91,,,,,,
+2016,Western Europe,hf_score,8.77,,,,,,
+2017,Caucasus & Central Asia,ef_score,7.11,,,,,,
+2017,Caucasus & Central Asia,hf_score,6.76,,,,,,
+2017,East Asia,ef_score,7.74,,,,,,
+2017,East Asia,hf_score,7.98,,,,,,
+2017,Eastern Europe,ef_score,7.36,,,,,,
+2017,Eastern Europe,hf_score,7.86,,,,,,
+2017,Latin America & the Caribbean,ef_score,6.84,,,,,,
+2017,Latin America & the Caribbean,hf_score,7.41,,,,,,
+2017,Middle East & North Africa,ef_score,6.23,,,,,,
+2017,Middle East & North Africa,hf_score,5.41,,,,,,
+2017,North America,ef_score,8.3,,,,,,
+2017,North America,hf_score,8.87,,,,,,
+2017,Oceania,ef_score,7.35,,,,,,
+2017,Oceania,hf_score,8.16,,,,,,
+2017,South Asia,ef_score,6.78,,,,,,
+2017,South Asia,hf_score,6.42,,,,,,
+2017,Sub-Saharan Africa,ef_score,6.19,,,,,,
+2017,Sub-Saharan Africa,hf_score,6.38,,,,,,
+2017,Western Europe,ef_score,7.92,,,,,,
+2017,Western Europe,hf_score,8.75,,,,,,
+2018,Caucasus & Central Asia,ef_score,7.25,,,,,,
+2018,Caucasus & Central Asia,hf_score,6.86,,,,,,
+2018,East Asia,ef_score,7.77,,,,,,
+2018,East Asia,hf_score,7.98,,,,,,
+2018,Eastern Europe,ef_score,7.41,,,,,,
+2018,Eastern Europe,hf_score,7.85,,,,,,
+2018,Latin America & the Caribbean,ef_score,6.88,,,,,,
+2018,Latin America & the Caribbean,hf_score,7.41,,,,,,
+2018,Middle East & North Africa,ef_score,6.25,,,,,,
+2018,Middle East & North Africa,hf_score,5.44,,,,,,
+2018,North America,ef_score,8.2,,,,,,
+2018,North America,hf_score,8.83,,,,,,
+2018,Oceania,ef_score,7.23,,,,,,
+2018,Oceania,hf_score,8.14,,,,,,
+2018,South Asia,ef_score,6.82,,,,,,
+2018,South Asia,hf_score,6.46,,,,,,
+2018,Sub-Saharan Africa,ef_score,6.22,,,,,,
+2018,Sub-Saharan Africa,hf_score,6.41,,,,,,
+2018,Western Europe,ef_score,7.9,,,,,,
+2018,Western Europe,hf_score,8.74,,,,,,
+2019,Caucasus & Central Asia,ef_score,7.31,,,,,,
+2019,Caucasus & Central Asia,hf_score,6.88,,,,,,
+2019,East Asia,ef_score,7.72,,,,,,
+2019,East Asia,hf_score,7.91,,,,,,
+2019,Eastern Europe,ef_score,7.44,,,,,,
+2019,Eastern Europe,hf_score,7.86,,,,,,
+2019,Latin America & the Caribbean,ef_score,6.86,,,,,,
+2019,Latin America & the Caribbean,hf_score,7.37,,,,,,
+2019,Middle East & North Africa,ef_score,6.28,,,,,,
+2019,Middle East & North Africa,hf_score,5.45,,,,,,
+2019,North America,ef_score,8.15,,,,,,
+2019,North America,hf_score,8.8,,,,,,
+2019,Oceania,ef_score,7.28,,,,,,
+2019,Oceania,hf_score,8.1,,,,,,
+2019,South Asia,ef_score,6.81,,,,,,
+2019,South Asia,hf_score,6.44,,,,,,
+2019,Sub-Saharan Africa,ef_score,6.27,,,,,,
+2019,Sub-Saharan Africa,hf_score,6.36,,,,,,
+2019,Western Europe,ef_score,7.91,,,,,,
+2019,Western Europe,hf_score,8.73,,,,,,
+2020,Caucasus & Central Asia,ef_score,7.13,,,,,,
+2020,Caucasus & Central Asia,hf_score,6.7,,,,,,
+2020,East Asia,ef_score,7.51,,,,,,
+2020,East Asia,hf_score,7.63,,,,,,
+2020,Eastern Europe,ef_score,7.23,,,,,,
+2020,Eastern Europe,hf_score,7.59,,,,,,
+2020,Latin America & the Caribbean,ef_score,6.68,,,,,,
+2020,Latin America & the Caribbean,hf_score,7.07,,,,,,
+2020,Middle East & North Africa,ef_score,6.2,,,,,,
+2020,Middle East & North Africa,hf_score,5.33,,,,,,
+2020,North America,ef_score,7.89,,,,,,
+2020,North America,hf_score,8.35,,,,,,
+2020,Oceania,ef_score,7.25,,,,,,
+2020,Oceania,hf_score,7.88,,,,,,
+2020,South Asia,ef_score,6.72,,,,,,
+2020,South Asia,hf_score,6.3,,,,,,
+2020,Sub-Saharan Africa,ef_score,6.18,,,,,,
+2020,Sub-Saharan Africa,hf_score,6.22,,,,,,
+2020,Western Europe,ef_score,7.66,,,,,,
+2020,Western Europe,hf_score,8.41,,,,,,
