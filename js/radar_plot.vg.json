@@ -13,7 +13,7 @@
         "value": "2020",
         "bind": {
           "input": "range",
-          "min": 2018,
+          "min": 2005,
           "max": 2020,
           "step": 1,
           "name": "Year Selection: "
@@ -24,15 +24,20 @@
     "data": [
       {
         "name": "table",
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/freedom_radar.csv", 
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/freedom_score.csv", 
         "format": { "type": "csv" } 
       },
+      
       {
         "name": "keys",
         "source": "table",
         "transform": [
           { "type": "filter", "expr": "datum.year == year_selection" },
-          { "type": "aggregate", "groupby": ["countries"] }
+          {"type": "aggregate",
+          "groupby": ["region"],
+          "fields": ["score"],
+          "ops": ["average"],
+          "as": ["average_score"] }
           ]
       }
     ],
@@ -43,7 +48,7 @@
         "type": "point",
         "range": {"signal": "[-PI, PI]"},
         "padding": 0.5,
-        "domain": {"data": "table", "field": "countries"}
+        "domain": {"data": "table", "field": "region"}
       },
       {
         "name": "radial",
@@ -51,7 +56,7 @@
         "range": {"signal": "[0, radius]"},
         "zero": true,
         "nice": false,
-        "domain": {"data": "table", "field": "score"},
+        "domain": {"data": "table", "field": "average_score"},
         "domainMin": 0
       },
       {
@@ -85,8 +90,8 @@
             "encode": {
               "enter": {
                 "interpolate": {"value": "linear-closed"},
-                "x": {"signal": "scale('radial', datum.score) * cos(scale('angular', datum.countries))"},
-                "y": {"signal": "scale('radial', datum.score) * sin(scale('angular', datum.countries))"},
+                "x": {"signal": "scale('radial', datum.average_score) * cos(scale('angular', datum.region))"},
+                "y": {"signal": "scale('radial', datum.average_score) * sin(scale('angular', datum.region))"},
                 "stroke": {"scale": "color", "field": "category"},
                 "strokeWidth": {"value": 1},
                 "fill": {"scale": "color", "field": "category"},
@@ -102,7 +107,7 @@
               "enter": {
                 "x": {"signal": "datum.x"},
                 "y": {"signal": "datum.y"},
-                "text": {"signal": "datum.datum.score"},
+                "text": {"signal": "datum.datum.average_score"},
                 "align": {"value": "center"},
                 "baseline": {"value": "middle"},
                 "fill": {"value": "black"}
@@ -120,8 +125,8 @@
           "enter": {
             "x": {"value": 0},
             "y": {"value": 0},
-            "x2": {"signal": "radius * cos(scale('angular', datum.countries))"},
-            "y2": {"signal": "radius * sin(scale('angular', datum.countries))"},
+            "x2": {"signal": "radius * cos(scale('angular', datum.region))"},
+            "y2": {"signal": "radius * sin(scale('angular', datum.region))"},
             "stroke": {"value": "lightgray"},
             "strokeWidth": {"value": 1}
           }
@@ -134,12 +139,12 @@
         "zindex": 1,
         "encode": {
           "enter": {
-            "x": {"signal": "(radius + 5) * cos(scale('angular', datum.countries))"},
-            "y": {"signal": "(radius + 5) * sin(scale('angular', datum.countries))"},
-            "text": {"field": "countries"},
+            "x": {"signal": "(radius + 5) * cos(scale('angular', datum.region))"},
+            "y": {"signal": "(radius + 5) * sin(scale('angular', datum.region))"},
+            "text": {"field": "region"},
             "align": [
               {
-                "test": "abs(scale('angular', datum.countries)) > PI / 2",
+                "test": "abs(scale('angular', datum.region)) > PI / 2",
                 "value": "right"
               },
               {
@@ -148,10 +153,10 @@
             ],
             "baseline": [
               {
-                "test": "scale('angular', datum.countries) > 0", "value": "top"
+                "test": "scale('angular', datum.region) > 0", "value": "top"
               },
               {
-                "test": "scale('angular', datum.countries) == 0", "value": "middle"
+                "test": "scale('angular', datum.region) == 0", "value": "middle"
               },
               {
                 "value": "bottom"
