@@ -30,6 +30,7 @@
     },
     {
       "name": "selected_region",
+      "value":"Caucasus & Central Asia",
       "bind": {
         "input": "select",
         "options": [
@@ -57,7 +58,7 @@
       "transform": [
         {
           "filter": {
-            "field": "year",
+            "field": "region",
             "equal": {"expr": "selected_region"}
           }
         },
