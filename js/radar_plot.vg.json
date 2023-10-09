@@ -24,7 +24,7 @@
     "data": [
       {
         "name": "table",
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/freedom_score.csv", 
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/freedom_radar.csv", 
         "format": { "type": "csv" } 
       },
       
