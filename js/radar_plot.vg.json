@@ -7,9 +7,7 @@
     "autosize": {"type": "none", "contains": "padding"},
   
     "signals": [
-      {"name": "radius", "update": "width / 2"}
-    ],
-    "params": [
+      {"name": "radius", "update": "width / 2"},
       {
         "name": "year_selection",
         "value": "2020",
@@ -20,7 +18,9 @@
           "step": 1,
           "name": "Year Selection: "
         }
-      }],
+      }
+    ],
+
     "data": [
       {
         "name": "table",
@@ -32,7 +32,7 @@
         "source": "table",
         "transform": [
           { "type": "aggregate", "groupby": ["countries"] },
-          {"filter": "datum.year == year_selection"}
+          { "type": "filter", "expr": "datum.year == year_selection" }
         ]
       }
     ],
