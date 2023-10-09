@@ -13,7 +13,7 @@
         "value": "2020",
         "bind": {
           "input": "range",
-          "min": 2000,
+          "min": 2018,
           "max": 2020,
           "step": 1,
           "name": "Year Selection: "
@@ -31,9 +31,9 @@
         "name": "keys",
         "source": "table",
         "transform": [
-          { "type": "aggregate", "groupby": ["countries"] },
-          { "type": "filter", "expr": "datum.year == year_selection" }
-        ]
+          { "type": "filter", "expr": "datum.year == year_selection" },
+          { "type": "aggregate", "groupby": ["countries"] }
+          ]
       }
     ],
   
