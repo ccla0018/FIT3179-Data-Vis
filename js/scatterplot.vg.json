@@ -12,20 +12,15 @@
       }
     }
   },
-  "width": "600",
-  "height": "600",
-  "title": {
-    "text": "Economic and Human Freedom",
-    "fontSize": 16,
-    "offset": 12
-  },
+  "width": "350",
+  "height": "350",
   "params": [
     {
       "name": "year_selection",
       "value": "2020",
       "bind": {
         "input": "range",
-        "min": 2005,
+        "min": 2010,
         "max": 2020,
         "step": 1,
         "name": "Year Selection: "
@@ -120,6 +115,37 @@
     },
     {
       "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/freedom_score_population.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.population == '2880913'"
+        },
+        {
+          "calculate": "'These countries that fall below the diagonal line have; more human freedom compared to the economic freedom'",
+          "as": "text_annotation_raw"
+        },
+        {
+          "calculate": "split(datum.text_annotation_raw, ';')",
+          "as": "text_annotation"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": 70,
+        "dy": 235,
+        "fontSize": 11,
+        "baseline": "middle"
+      },
+      "encoding": {
+        "text": {
+          "field": "text_annotation"
+        }
+      }
+    },
+    {
+      "data": {
         "values": [
           {"y": "0", "x": "0"},
           {"y": "10", "x": "10"}
@@ -134,44 +160,6 @@
       "encoding": {
         "x": {"field": "x", "type": "quantitative"},
         "y": {"field": "y", "type": "quantitative"}
-      }
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 12.5,
-        "font": "Arial",
-        "color": "black"
-      },
-      "encoding": {
-        "x": {"value": 575},
-        "y": {"value": 560},
-        "text": {
-          "value": "These countries that fall below the diagonal line have more"
-        },
-        "opacity": {"value": 1}
-      }
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 12.5,
-        "font": "Arial",
-        "color": "black"
-      },
-      "encoding": {
-        "x": {"value": 575},
-        "y": {"value": 575},
-        "text": {
-          "value": "human freedom compared to the economic freedom"
-        },
-        "opacity": {"value": 1}
       }
     }
   ]

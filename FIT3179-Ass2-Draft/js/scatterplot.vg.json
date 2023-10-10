@@ -115,6 +115,37 @@
     },
     {
       "data": {
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/freedom_score_population.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.population == '2880913'"
+        },
+        {
+          "calculate": "'These countries that fall below the diagonal line have; more human freedom compared to the economic freedom'",
+          "as": "text_annotation_raw"
+        },
+        {
+          "calculate": "split(datum.text_annotation_raw, ';')",
+          "as": "text_annotation"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "dx": 70,
+        "dy": 235,
+        "fontSize": 11,
+        "baseline": "middle"
+      },
+      "encoding": {
+        "text": {
+          "field": "text_annotation"
+        }
+      }
+    },
+    {
+      "data": {
         "values": [
           {"y": "0", "x": "0"},
           {"y": "10", "x": "10"}
@@ -129,44 +160,6 @@
       "encoding": {
         "x": {"field": "x", "type": "quantitative"},
         "y": {"field": "y", "type": "quantitative"}
-      }
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 11,
-        "font": "Arial",
-        "color": "black"
-      },
-      "encoding": {
-        "x": {"value": 335},
-        "y": {"value": 325},
-        "text": {
-          "value": "These countries that fall below the diagonal line have"
-        },
-        "opacity": {"value": 1}
-      }
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "middle",
-        "dx": -12,
-        "fontSize": 11,
-        "font": "Arial",
-        "color": "black"
-      },
-      "encoding": {
-        "x": {"value": 335},
-        "y": {"value": 335},
-        "text": {
-          "value": "more human freedom compared to the economic freedom"
-        },
-        "opacity": {"value": 1}
       }
     }
   ]
