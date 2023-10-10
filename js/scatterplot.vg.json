@@ -12,8 +12,8 @@
       }
     }
   },
-  "width": "350",
-  "height": "350",
+  "width": "500",
+  "height": "500",
   "params": [
     {
       "name": "year_selection",
@@ -133,9 +133,9 @@
       "mark": {
         "type": "text",
         "align": "right",
-        "dx": 70,
-        "dy": 235,
-        "fontSize": 11,
+        "dx": 80,
+        "dy": 300,
+        "fontSize": 12.5,
         "baseline": "middle"
       },
       "encoding": {
