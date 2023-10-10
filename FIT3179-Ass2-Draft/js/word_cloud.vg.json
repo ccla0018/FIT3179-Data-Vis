@@ -20,10 +20,6 @@
             "stopwords": "(the|and|,)"
           },
           {
-            "type": "formula", "as": "angle",
-            "expr": "[-45, 0, 45][~~(random() * 3)]"
-          },
-          {
             "type": "formula",
             "as": "weight",
             "expr": "if(datum.count >= '150', 1000, 200)"
@@ -37,7 +33,7 @@
         "name": "color",
         "type": "ordinal",
         "domain": {"data": "table", "field": "text"},
-        "range": ["#fcae91", "#cb181d", "#cb181d"]
+        "range": ["#000080", "#4682B4", "#ADD8E6"]
       }
     ],
   
@@ -64,7 +60,6 @@
             "type": "wordcloud",
             "size": [700, 400],
             "text": {"field": "text"},
-            "rotate": {"field": "datum.angle"},
             "font": "Helvetica Neue, Arial",
             "fontSize": {"field": "datum.count"},
             "fontWeight": {"field": "datum.weight"},
