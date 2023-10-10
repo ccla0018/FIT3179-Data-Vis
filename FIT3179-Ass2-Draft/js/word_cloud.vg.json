@@ -1,0 +1,77 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "description": "A word cloud visualization depicting Vega research paper abstracts.",
+    "width": 400,
+    "height": 300,
+    "padding": 0,
+  
+    "data": [
+      {
+        "name": "table",
+        "values": [
+          "Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland Switzerland New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand New Zealand Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Estonia Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Denmark Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Ireland Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Sweden Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Iceland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Finland Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Netherlands Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Luxembourg Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Australia Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Norway Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Canada Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Taiwan Latvia Latvia Latvia Latvia Latvia Latvia Latvia Latvia Latvia Latvia Latvia Latvia Latvia Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Japan Lithuania Lithuania Lithuania Lithuania Lithuania Lithuania Lithuania Lithuania Lithuania Czechia Czechia Czechia Czechia Czechia Czechia Czechia Czechia Czechia Germany Germany Germany Germany Germany Germany Germany Germany United Kingdom United Kingdom United Kingdom United Kingdom United Kingdom United Kingdom United Kingdom Belgium Belgium Belgium Belgium Belgium Belgium Austria Austria Austria Austria United States of America United States of America United States of America Malta Malta Malta Portugal Portugal Portugal Armenia Armenia Armenia Bahamas Bahamas Bahamas Cyprus Cyprus Cyprus Cabo Verde Cabo Verde Cabo Verde South Korea South Korea South Korea Spain Spain Spain Chile Chile Chile Italy Italy Italy Hong Kong SAR, China Hong Kong SAR, China Hong Kong SAR, China Costa Rica Costa Rica Costa Rica Uruguay Uruguay Uruguay Slovak Republic Slovak Republic Slovak Republic Romania Romania Romania Slovenia Slovenia Slovenia Croatia Croatia Croatia Bulgaria Bulgaria Bulgaria France France France Georgia Georgia Georgia Seychelles Seychelles Seychelles Singapore Singapore Singapore Barbados Barbados Barbados Albania Albania Albania North Macedonia North Macedonia North Macedonia Poland Poland Poland Mauritius Mauritius Mauritius Mongolia Mongolia Mongolia Dominican Republic Dominican Republic Dominican Republic Jamaica Jamaica Jamaica Trinidad and Tobago Trinidad and Tobago"
+        ],
+        "transform": [
+          {
+            "type": "countpattern",
+            "field": "data",
+            "case": "upper",
+            "pattern": "[\\w']{3,}",
+            "stopwords": "(the|and|,)"
+          },
+          {
+            "type": "formula", "as": "angle",
+            "expr": "[-45, 0, 45][~~(random() * 3)]"
+          },
+          {
+            "type": "formula",
+            "as": "weight",
+            "expr": "if(datum.count >= '150', 1000, 200)"
+          }
+        ]
+      }
+    ],
+  
+    "scales": [
+      {
+        "name": "color",
+        "type": "ordinal",
+        "domain": {"data": "table", "field": "text"},
+        "range": ["#fcae91", "#cb181d", "#cb181d"]
+      }
+    ],
+  
+    "marks": [
+      {
+        "type": "text",
+        "from": {"data": "table"},
+        "encode": {
+          "enter": {
+            "text": {"field": "text"},
+            "align": {"value": "center"},
+            "baseline": {"value": "alphabetic"},
+            "fill": {"scale": "color", "field": "text"}
+          },
+          "update": {
+            "fillOpacity": {"value": 1}
+          },
+          "hover": {
+            "fillOpacity": {"value": 0.5}
+          }
+        },
+        "transform": [
+          {
+            "type": "wordcloud",
+            "size": [700, 400],
+            "text": {"field": "text"},
+            "rotate": {"field": "datum.angle"},
+            "font": "Helvetica Neue, Arial",
+            "fontSize": {"field": "datum.count"},
+            "fontWeight": {"field": "datum.weight"},
+            "fontSizeRange": [12, 56],
+            "padding": 2
+          }
+        ]
+      }
+    ]
+  }
