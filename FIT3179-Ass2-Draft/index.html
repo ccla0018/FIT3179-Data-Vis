@@ -297,8 +297,8 @@
       <div class="map-text"> 
         <p>
             Accross 2010 - 2020, the <b>World Human and Economic Freedom Index</b> is a comprehensive and influential measure that assesses the degree of freedom 
-            enjoyed by individuals and businesses in countries around the world. Countries with <b>high scores</b> on the World Human and Economic Freedom Index are often characterized by <b>strong protections for individual rights</b>
-            , <b>minimal government interference in economic activities</b>, and <b>vibrant free markets</b>. Conversely, nations with lower scores may 
+            enjoyed by individuals and businesses in countries around the world. Countries with <b>high scores</b> on the World Human and Economic Freedom Index are often characterized by strong protections for individual rights
+            , minimal government interference in economic activities, and vibrant free markets. Conversely, nations with lower scores may 
             face challenges related to corruption, excessive regulations, and restrictions on personal freedoms.
          </p>
 
@@ -401,6 +401,8 @@
     <br>
       <!-- end section 3 and 4-->
 
+    <div id = "binned_heat_map"> </div>
+
     <script type="text/javascript">
 
     var spec2 = "js/map.vg.json";
@@ -425,6 +427,11 @@
 
     var spec6 = "js/word_cloud.vg.json";
     vegaEmbed('#word_cloud', spec6, { "actions": false }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var spec7 = "js/binned_heat_map.vg.json";
+    vegaEmbed('#binned_heat_map', spec7, { "actions": false }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
