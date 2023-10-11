@@ -99,7 +99,7 @@
     {
       "hconcat": [
         {
-          "width": 200,
+          "width": 195,
           "height": 100,
           "title": "Top 5 Countries",
           "transform": [
@@ -136,7 +136,7 @@
               "x": {
                 "field": "average_economy_measure",
                 "type": "quantitative",
-                "title": "Average Score of the Selected Economic Measure",
+                "title": "Selected Economic Measure Score",
                 "scale": { "domain": [0, 10] }
               },
               "y": {
@@ -165,7 +165,7 @@
           ]
         },
         {
-          "width": 200,
+          "width": 195,
           "height": 100,
           "title": "Bottom 5 Countries",
           "transform": [
@@ -200,7 +200,7 @@
                 "x": {
                   "field": "average_economy_measure",
                   "type": "quantitative",
-                  "title": "Average Score of the Selected Economic Measure",
+                  "title": "Selected Economic Measure Score",
                   "scale": { "domain": [0, 10] }
                 },
                 "y": {
