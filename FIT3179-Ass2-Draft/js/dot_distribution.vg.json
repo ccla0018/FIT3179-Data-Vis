@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/hfi_cc_2022.csv"
+    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"
   },
   "width": 500,
   "height": 300,
@@ -30,11 +30,11 @@
     },
     {
       "name": "selected_region",
-      "value": "Show All",  
+      "value": "Worldwide",  
       "bind": {
         "input": "select",
         "options": [
-          "Show All",
+          "Worldwide",
           "Asia Pacific",
           "Europe",
           "Americas",
@@ -47,11 +47,11 @@
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/hfi_cc_2022.csv"
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"
       },
       "transform": [
         {
-          "filter": "selected_region === 'Show All' || datum.region === selected_region"
+          "filter": "selected_region === 'Worldwide' || datum.region === selected_region"
         },
         {
           "calculate": "datum[economy_measures]",
@@ -75,13 +75,17 @@
           "scale": {"domain": [0, 10]}
         },
         "color": {
-          "field": "region",
-          "type": "nominal",
-          "title": "Region",
-          "scale": {
-            "domain": ["Caucasus & Central Asia", "East Asia", "Eastern Europe", "Latin America & Caribbean", "Middle East & North Africa", "North America", "Oceania", "South Asia", "Sub-Saharan Africa", "Western Europe"],
-            "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"]
-          }
+          "condition": {
+            "test": "selected_region !== 'Worldwide'",
+            "field": "region",
+            "type": "nominal",
+            "title": "Region",
+            "scale": {
+              "domain": ["Worldwide", "Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
+              "range": ["#555555", "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
+            }
+          },
+          "value": "#555555" 
         },
         "tooltip": [
           {"field": "countries", "type": "nominal", "title": "Country"},
