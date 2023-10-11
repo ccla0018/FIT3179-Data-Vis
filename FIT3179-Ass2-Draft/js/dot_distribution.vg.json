@@ -30,25 +30,19 @@
     },
     {
       "name": "selected_region",
-      "value": "Caucasus & Central Asia",
+      "value": "Show All",  
       "bind": {
         "input": "select",
         "options": [
-          "Caucasus & Central Asia",
-          "East Asia",
-          "Eastern Europe",
-          "Latin America & the Caribbean",
-          "Middle East & North Africa",
-          "North America",
-          "Oceania",
-          "South Asia",
-          "Sub-Saharan Africa",
-          "Western Europe"
+          "Show All",
+          "Asia Pacific",
+          "Europe",
+          "Americas",
+          "Middle East/Africa"
         ],
         "name": "Select a Region: "
       }
     }
-    
   ],
   "layer": [
     {
@@ -57,10 +51,7 @@
       },
       "transform": [
         {
-          "filter": {
-            "field": "region",
-            "oneOf": [{"expr": "selected_region"}] 
-          }
+          "filter": "selected_region === 'Show All' || datum.region === selected_region"
         },
         {
           "calculate": "datum[economy_measures]",
@@ -84,9 +75,13 @@
           "scale": {"domain": [0, 10]}
         },
         "color": {
-          "field": "countries",
+          "field": "region",
           "type": "nominal",
-          "title": "Country"
+          "title": "Region",
+          "scale": {
+            "domain": ["Caucasus & Central Asia", "East Asia", "Eastern Europe", "Latin America & Caribbean", "Middle East & North Africa", "North America", "Oceania", "South Asia", "Sub-Saharan Africa", "Western Europe"],
+            "range": ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"]
+          }
         },
         "tooltip": [
           {"field": "countries", "type": "nominal", "title": "Country"},
