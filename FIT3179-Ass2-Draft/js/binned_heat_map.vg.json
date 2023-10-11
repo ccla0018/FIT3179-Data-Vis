@@ -3,6 +3,9 @@
   "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/binned_heat_map.csv"},
   "transform": [
     {
+      "filter": "datum.year == 2020"
+    },
+    {
       "filter": {"and": [
         {"field": "ef_money", "valid": true},
         {"field": "ef_legal", "valid": true}
@@ -14,20 +17,22 @@
   "height": 300,
   "encoding": {
     "x": {
-      "bin": {"maxbins": 20},
+      "bin": {"maxbins": 10},
       "field": "ef_money",
-      "type": "quantitative"
+      "type": "quantitative",
+      "title": "Money Rights Score Range"
     },
     "y": {
-      "bin": {"maxbins": 20},
+      "bin": {"maxbins": 10},
       "field": "ef_legal",
-      "type": "quantitative"
+      "type": "quantitative",
+      "title": "Legal Score Range"
     },
     "color": {
       "aggregate": "count",
       "type": "quantitative",
       "scale": {
-        "scheme": "tealblues"  
+        "scheme": "blues"  
       },
       "legend": {"title": "Number of Countries"} 
     },
