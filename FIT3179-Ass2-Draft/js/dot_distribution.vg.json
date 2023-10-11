@@ -3,9 +3,22 @@
   "data": {
     "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"
   },
-  "width": 500,
-  "height": 300,
   "params": [
+    {
+      "name": "selected_region",
+      "value": "Worldwide",
+      "bind": {
+        "input": "select",
+        "options": [
+          "Worldwide",
+          "Asia Pacific",
+          "Europe",
+          "Americas",
+          "Middle East/Africa"
+        ],
+        "name": "Select a Region: "
+      }
+    },
     {
       "name": "economy_measures",
       "value": "ef_money",
@@ -27,28 +40,12 @@
         ],
         "name": "Selected Economic Measure: "
       }
-    },
-    {
-      "name": "selected_region",
-      "value": "Worldwide",  
-      "bind": {
-        "input": "select",
-        "options": [
-          "Worldwide",
-          "Asia Pacific",
-          "Europe",
-          "Americas",
-          "Middle East/Africa"
-        ],
-        "name": "Select a Region: "
-      }
     }
   ],
-  "layer": [
+  "vconcat": [
     {
-      "data": {
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"
-      },
+      "width": 500,
+      "height": 300,
       "transform": [
         {
           "filter": "selected_region === 'Worldwide' || datum.region === selected_region"
@@ -76,7 +73,7 @@
         },
         "color": {
           "condition": {
-            "test": "selected_region !== 'Worldwide'",
+            "test": "selected_region != 'Worldwide'",
             "field": "region",
             "type": "nominal",
             "title": "Region",
@@ -85,7 +82,7 @@
               "range": ["#555555", "#1f77b4", "#ffb400", "#776bcd", "#d62728"]
             }
           },
-          "value": "#555555" 
+          "value": "#555555"
         },
         "tooltip": [
           {"field": "countries", "type": "nominal", "title": "Country"},
@@ -97,6 +94,42 @@
             "format": ",.2f"
           }
         ]
+      }
+    },
+    {
+      "width": 500,
+      "height": 150,
+      "transform": [
+        {
+          "filter": "selected_region === 'Worldwide' || datum.region === selected_region"
+        },
+        {
+          "calculate": "datum[economy_measures]",
+          "as": "Selected Economic Measure"
+        },
+        {
+          "aggregate": [
+            {"op": "average", "field": "Selected Economic Measure", "as": "average_economy_measure"}
+          ],
+          "groupby": ["countries"]
+        },
+        {
+          "window": [{"op": "rank", "as": "rank"}],
+          "sort": [{"field": "average_economy_measure", "order": "descending"}]
+        },
+        {
+          "filter": "datum.rank <= 5"
+        }
+      ],      
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": "average_economy_measure", "type": "quantitative", "title": "Average Score of the Selected Economic Measure"},
+        "y": {"field": "countries", "type": "nominal", "title": "Country"},
+        "color": {
+          "field": "countries",
+          "type": "nominal",
+          "title": "Country"
+        }
       }
     }
   ]
