@@ -1,16 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {
-    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/binned_heat_map.csv"
-  },
+  "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/binned_heat_map.csv"},
   "transform": [
     {
-      "filter": {
-        "and": [
-          { "field": "ef_money", "valid": true },
-          { "field": "ef_legal", "valid": true }
-        ]
-      }
+      "filter": {"and": [
+        {"field": "ef_money", "valid": true},
+        {"field": "ef_legal", "valid": true}
+      ]}
     }
   ],
   "mark": "rect",
@@ -18,12 +14,12 @@
   "height": 300,
   "encoding": {
     "x": {
-      "bin": { "maxbins": 20 },
+      "bin": {"maxbins": 20},
       "field": "ef_money",
       "type": "quantitative"
     },
     "y": {
-      "bin": { "maxbins": 20 },
+      "bin": {"maxbins": 20},
       "field": "ef_legal",
       "type": "quantitative"
     },
@@ -31,13 +27,14 @@
       "aggregate": "count",
       "type": "quantitative",
       "scale": {
-        "scheme": "tealblues"
-      }
+        "scheme": "tealblues"  
+      },
+      "legend": {"title": "Number of Countries"} 
     },
     "tooltip": [
-      { "field": "ef_legal_range", "title": "EF Legal Range" },
-      { "field": "ef_money_range", "title": "EF Money Range" },
-      { "aggregate": "count", "type": "quantitative", "title": "Count" }
+      {"field": "ef_legal_range", "title": "Legal Score Range"},
+      {"field": "ef_money_range", "title": "Money Score Range"},
+      {"aggregate": "count", "type": "quantitative", "title": "Count"}
     ]
   },
   "config": {
