@@ -82,7 +82,7 @@
             "title": "Region",
             "scale": {
               "domain": ["Worldwide", "Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
-              "range": ["#555555", "#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
+              "range": ["#555555", "#1f77b4", "#ffb400", "#776bcd", "#d62728"]
             }
           },
           "value": "#555555" 
