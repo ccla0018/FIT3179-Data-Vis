@@ -31,17 +31,17 @@
         "transform": [
           {
             "type": "filter",
-            "expr": "!groupSelector || groupSelector.Country == datum.Country || groupSelector.key == datum.key"
+            "expr": "!groupSelector || groupSelector.Region == datum.Region || groupSelector.key == datum.key"
           },
           {
             "type": "formula",
-            "expr": "datum.Country+datum.key",
+            "expr": "datum.Region+datum.key",
             "as": "key1"
           },
           {
             "type": "fold",
             "fields": [
-              "Country",
+              "Region",
               "key"
             ],
             "as": [
@@ -51,7 +51,7 @@
           },
           {
             "type": "formula",
-            "expr": "datum.stack == 'Country' ? datum.Country+' '+datum.key : datum.key+' '+datum.Country",
+            "expr": "datum.stack == 'Region' ? datum.Region+' '+datum.key : datum.key+' '+datum.Region",
             "as": "sortField"
           },
           {
@@ -115,7 +115,7 @@
           },
           {
             "type": "formula",
-            "expr": "datum.stack == 'Country'",
+            "expr": "datum.stack == 'Region'",
             "as": "rightLabel"
           },
           {
@@ -131,12 +131,12 @@
         "transform": [
           {
             "type": "filter",
-            "expr": "datum.stack == 'Country'"
+            "expr": "datum.stack == 'Region'"
           },
           {
             "type": "aggregate",
             "groupby": [
-              "Country"
+              "Region"
             ],
             "fields": [
               "value",
@@ -151,7 +151,7 @@
           },
           {
             "type": "formula",
-            "expr": "'Country'",
+            "expr": "'Region'",
             "as": "stack"
           }
         ]
@@ -172,7 +172,7 @@
         "transform": [
           {
             "type": "filter",
-            "expr": "datum.stack == 'Country'"
+            "expr": "datum.stack == 'Region'"
           },
           {
             "type": "lookup",
@@ -193,7 +193,7 @@
               "expr": "scale('y', datum.yc)"
             },
             "sourceX": {
-              "expr": "scale('x', 'Country') + bandwidth('x')"
+              "expr": "scale('x', 'Region') + bandwidth('x')"
             },
             "targetY": {
               "expr": "scale('y', datum.target.yc)"
@@ -221,7 +221,7 @@
         "type": "band",
         "range": "width",
         "domain": [
-          "Country",
+          "Region",
           "key"
         ],
         "paddingOuter": 0.05,
@@ -305,13 +305,13 @@
               "field": "path"
             },
             "strokeOpacity": {
-              "signal": "!groupSelector && (groupHover.Country == datum.Country || groupHover.key == datum.key) ? 0.9 : 0.3"
+              "signal": "!groupSelector && (groupHover.Region == datum.Region || groupHover.key == datum.key) ? 0.9 : 0.3"
             },
             "zindex": {
-              "signal": "!groupSelector && (groupHover.Country == datum.Country || groupHover.key == datum.key) ? 1 : 0"
+              "signal": "!groupSelector && (groupHover.Region == datum.Region || groupHover.key == datum.key) ? 1 : 0"
             },
             "tooltip": {
-              "signal": "datum.Country + ' → ' + datum.key + '    = ' + format(datum.value, ',.0f') + ' countries (' + format(datum.percentage, '.1%') + ')'"
+              "signal": "datum.Region + ' → ' + datum.key + '    = ' + format(datum.value, ',.0f') + ' countries (' + format(datum.percentage, '.1%') + ')'"
             }
           },
           "hover": {
@@ -545,7 +545,7 @@
         "on": [
           {
             "events": "@groupMark:mouseover",
-            "update": "{Country:datum.stack=='Country' && datum.quarter_group, key:datum.stack=='key' && datum.quarter_group}"
+            "update": "{Region:datum.stack=='Region' && datum.quarter_group, key:datum.stack=='key' && datum.quarter_group}"
           },
           {
             "events": "mouseout",
@@ -559,7 +559,7 @@
         "on": [
           {
             "events": "@groupMark:click!",
-            "update": "{stack:datum.stack, Country:datum.stack=='Country' && datum.quarter_group, key:datum.stack=='key' && datum.quarter_group}"
+            "update": "{stack:datum.stack, Region:datum.stack=='Region' && datum.quarter_group, key:datum.stack=='key' && datum.quarter_group}"
           },
           {
             "events": [
