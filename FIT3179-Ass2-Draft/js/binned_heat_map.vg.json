@@ -1,36 +1,51 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {
-    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv",
-    "format": {"type": "csv"}
-  },
-  "mark": "rect",
-  "encoding": {
-    "x": {
-      "field": "region",
-      "type": "nominal",
-      "sort": "x",
-      "title": "Region"
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"},
+    "transform": [
+      {
+        "filter": "datum.year == 2020"
+      },
+      {
+        "filter": {"and": [
+          {"field": "ef_government_consumption_data", "valid": true},
+          {"field": "ef_government_investment_data", "valid": true}
+        ]}
+      }
+    ],
+    "mark": "rect",
+    "width": 325,
+    "height": 300,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins": 10},
+        "field": "ef_government_consumption_data",
+        "type": "quantitative",
+        "title": "Government Consumption (% of GDP)"
+      },
+      "y": {
+        "bin": {"maxbins": 10},
+        "field": "ef_government_investment_data",
+        "type": "quantitative",
+        "title": "Government Investment (% of GDP)"
+      },
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "scale": {
+          "scheme": "blues"  
+        },
+        "legend": {"title": "Number of Countries"} 
+      },
+      "tooltip": [
+        {"field": "ef_government_consumption_range", "title": "Consumption (% of GDP)"},
+        {"field": "ef_government_investment_range", "title": "Investment (% of GDP)"},
+        {"aggregate": "count", "type": "quantitative", "title": "Count"}
+      ]
     },
-    "y": {
-      "field": "ef_government_consumption_data",
-      "type": "quantitative",
-      "sort": "-y",
-      "title": "Government Consumption"
-    },
-    "color": {
-      "field": "ef_government_investment_data",
-      "type": "quantitative",
-      "scale": {"scheme": "blues"},
-      "legend": {"title": "Government Investment"}
-    },
-    "tooltip": [
-      {"field": "region", "title": "Region"},
-      {"field": "ef_government_consumption_data", "title": "Government Consumption"},
-      {"field": "ef_government_investment_data", "title": "Government Spending"}
-    ]
-  },
-  "config": {
-    "axis": {"grid": true, "tickBand": "extent"}
+    "config": {
+      "view": {
+        "stroke": "white"
+      },
+      "axis": {"grid": true, "tickBand": "extent", "gridColor": "white"}
+    }
   }
-}
