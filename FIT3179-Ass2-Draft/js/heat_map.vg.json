@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/binned_heat_map.csv"}, 
+    "transform": [
+        {
+          "filter": "datum.year == '2020'"
+        }
+      ],
+    "mark": "rect", 
+    "encoding": {
+      "x": 
+        {
+            "field": "ef_legal_range",
+            "type": "nominal",
+            "sort": "x",
+            "title": "Legal Score Range"
+        },  
+      "y": 
+        {
+            "field": "ef_money_range", 
+            "type": "nominal",
+            "sort": "-y",
+            "title": "Money Score Range"
+        },  
+      "color": 
+        {
+            "aggregate": "count",
+            "field": "countries",
+            "scale": {
+                "scheme": "blues"  
+            },
+            "legend": {"title": "Number of Countries"} 
+        },
+      "tooltip": [
+        {"field": "ef_legal_range", "title": "Legal Score Range"},
+        {"field": "ef_money_range", "title": "Money Score Range"},
+        {"aggregate": "count", "type": "quantitative", "title": "Number of Countries"}
+      ]  
+    },
+    "config": {
+      "axis": {"grid": true, "tickBand": "extent"}
+    }
+  }
+  
