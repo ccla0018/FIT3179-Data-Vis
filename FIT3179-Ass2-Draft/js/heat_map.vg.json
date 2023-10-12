@@ -1,9 +1,22 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/binned_heat_map.csv"}, 
+    "params": [
+      {
+        "name": "year_selection",
+        "value": "2020",
+        "bind": {
+          "input": "range",
+          "min": 2010,
+          "max": 2020,
+          "step": 1,
+          "name": "Year Selection: "
+        }
+      }
+    ],
     "transform": [
         {
-          "filter": "datum.year == '2020'"
+          "filter": "datum.year == year_selection"
         }
       ],
     "mark": "rect", 
