@@ -402,6 +402,7 @@
       <!-- end section 3 and 4-->
 
     <div id = "binned_heat_map"> </div>
+    <div id = "flow"> </div>
 
     <script type="text/javascript">
 
@@ -432,6 +433,11 @@
 
     var spec7 = "js/binned_heat_map.vg.json";
     vegaEmbed('#binned_heat_map', spec7, { "actions": false }).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var spec8 = "js/flow.vg.json";
+    vegaEmbed('#flow', spec8, { "actions": false }).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 

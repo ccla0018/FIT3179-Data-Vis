@@ -2,6 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 1075,
   "height": 400,
+  "config": {
+    "view": {
+      "stroke": "grey"
+    }
+  },
   "data": {
     "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/data/freedom_score.csv"
   },
