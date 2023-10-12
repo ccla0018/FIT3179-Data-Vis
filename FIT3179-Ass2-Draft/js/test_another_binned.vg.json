@@ -1,0 +1,50 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"},
+    "transform": [
+      {
+        "filter": "datum.year == 2020"
+      },
+      {
+        "filter": {"and": [
+          {"field": "ef_government_consumption_data", "valid": true},
+          {"field": "ef_government_investment_data", "valid": true}
+        ]}
+      }
+    ],
+    "mark": "rect",
+    "width": 325,
+    "height": 300,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins": 10},
+        "field": "ef_government_consumption_data",
+        "type": "quantitative",
+        "title": "Government Consumption (million)"
+      },
+      "y": {
+        "bin": {"maxbins": 10},
+        "field": "ef_government_investment_data",
+        "type": "quantitative",
+        "title": "Government Investment (million)"
+      },
+      "color": {
+        "aggregate": "count",
+        "type": "quantitative",
+        "scale": {
+          "scheme": "blues"  
+        },
+        "legend": {"title": "Number of Countries"} 
+      },
+      "tooltip": [
+        {"field": "ef_government_consumption_range", "title": "Consumption Range"},
+        {"field": "ef_government_investment_range", "title": "Investment Range"},
+        {"aggregate": "count", "type": "quantitative", "title": "Count"}
+      ]
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }
