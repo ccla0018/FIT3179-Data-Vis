@@ -1,50 +1,36 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/binned_heat_map.csv"},
-  "transform": [
-    {
-      "filter": "datum.year == 2020"
-    },
-    {
-      "filter": {"and": [
-        {"field": "ef_money", "valid": true},
-        {"field": "ef_legal", "valid": true}
-      ]}
-    }
-  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv",
+    "format": {"type": "csv"}
+  },
   "mark": "rect",
-  "width": 325,
-  "height": 300,
   "encoding": {
     "x": {
-      "bin": {"maxbins": 10},
-      "field": "ef_money",
-      "type": "quantitative",
-      "title": "Money Rights Score Range"
+      "field": "region",
+      "type": "nominal",
+      "sort": "x",
+      "title": "Region"
     },
     "y": {
-      "bin": {"maxbins": 10},
-      "field": "ef_legal",
+      "field": "ef_government_consumption_data",
       "type": "quantitative",
-      "title": "Legal Score Range"
+      "sort": "-y",
+      "title": "Government Consumption"
     },
     "color": {
-      "aggregate": "count",
+      "field": "ef_government_investment_data",
       "type": "quantitative",
-      "scale": {
-        "scheme": "blues"  
-      },
-      "legend": {"title": "Number of Countries"} 
+      "scale": {"scheme": "blues"},
+      "legend": {"title": "Government Investment"}
     },
     "tooltip": [
-      {"field": "ef_legal_range", "title": "Legal Score Range"},
-      {"field": "ef_money_range", "title": "Money Score Range"},
-      {"aggregate": "count", "type": "quantitative", "title": "Count"}
+      {"field": "region", "title": "Region"},
+      {"field": "ef_government_consumption_data", "title": "Government Consumption"},
+      {"field": "ef_government_investment_data", "title": "Government Spending"}
     ]
   },
   "config": {
-    "view": {
-      "stroke": "transparent"
-    }
+    "axis": {"grid": true, "tickBand": "extent"}
   }
 }
