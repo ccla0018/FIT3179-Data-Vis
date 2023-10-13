@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 1080,
+  "width": 1100,
   "height": 400,
   "config": {
     "view": {
@@ -125,11 +125,10 @@
             "range": ["#BCD2E8", "#91BAD6", "#73A5C6", "#528AAE", "#2E5984", "#1E3F66", "#00224B"]
           },
           "legend": {
-            "title": "Selected Freedom Type",
-            "titleLimit": 320,
+            "title": "Freedom Score Index",
             "titleFontSize": 12,
-            "direction": "horizontal",
-            "orient": "bottom"
+            "direction": "vertical",
+            "orient": "top-left"
           }
         },
         "tooltip": [
