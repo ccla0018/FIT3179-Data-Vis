@@ -136,10 +136,21 @@
           
         }
 
-        .map-text{
-          grid-column: 1;
-          grid-row: 1;
+        .map-text {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: auto; 
+            grid-column-gap: 50px;
+        }
 
+        .left-column {
+            grid-column: 1;
+            grid-row: 1;
+        }
+
+        .right-column {
+            grid-column: 2;
+            grid-row: 1;
         }
 
         /* Section 2 */
@@ -293,15 +304,21 @@
       <br>
 
     <div id="choropleth_map" class="map_container"></div>
-
-      <div class="map-text"> 
-        <p>
+      <div class="map-text">
+        <div class="left-column">
+          <p>
             Accross 2010 - 2020, the <b>World Human and Economic Freedom Index</b> is a comprehensive and influential measure that assesses the degree of freedom 
-            enjoyed by individuals and businesses in countries around the world. Countries with <b>high scores</b> on the World Human and Economic Freedom Index are often characterized by strong protections for individual rights
-            , minimal government interference in economic activities, and vibrant free markets. Conversely, nations with lower scores may 
-            face challenges related to corruption, excessive regulations, and restrictions on personal freedoms.
-         </p>
-
+            enjoyed by individuals and businesses in countries around the world. Countries with <b>high scores</b> on the World Human and Economic Freedom Index 
+            are often characterised 
+          </p>
+        </div>
+        <div class="right-column">
+          <p>
+            by strong protections for individual rights, minimal government interference in 
+            economic activities, and vibrant free markets. Conversely, nations with lower scores may face challenges
+            related to corruption, excessive regulations, and restrictions on personal freedoms.
+          </p>
+        </div>
     </div>
     <br>
     <hr>

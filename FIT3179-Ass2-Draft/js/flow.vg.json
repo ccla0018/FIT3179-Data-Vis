@@ -239,7 +239,7 @@
       {
         "name": "color",
         "type": "ordinal",
-        "range": ["lightgray", "slategray", "dustyblue", "olive", "mauve", "tan", "ash", "steelblue"],
+        "range": ["#1f77b4", "#d62728", "#9467bd", "#ff7f0e", "#e377c2", "#bcbd22", "#8c564b", "#000080"],
         "domain": [
           "Americas",
           "Asia Pacific",

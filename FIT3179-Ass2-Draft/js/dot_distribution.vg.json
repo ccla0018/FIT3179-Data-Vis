@@ -25,17 +25,11 @@
       "bind": {
         "input": "select",
         "options": [
-          "ef_money",
           "ef_legal",
-          "ef_government",
-          "ef_regulation",
           "ef_trade"
         ],
         "labels": [
-          "Money Rights",
           "Legal",
-          "Limited Government Rights",
-          "Regulatory Efficiency",
           "Open Markets / Trade"
         ],
         "name": "Selected Economic Measure: "
