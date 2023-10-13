@@ -21,7 +21,6 @@
     <!-- style -->
     <link href="https://fonts.googleapis.com/css?family=Ultra|Alfa+Slab+One|Merriweather:400,400i|Source+Serif+Pro:400,700" rel="stylesheet">
 
-
     <style>
         .page{
           width: 1100px; 
@@ -118,11 +117,24 @@
           margin-bottom: 5px; 
           line-height: 20pt;
         }
+      
+        .numbered-part{
+          content: "1"; /* Set the desired number */
+          display: inline-block;
+          width: 30px; /* Adjust as needed */
+          height: 30px; /* Adjust as needed */
+          border: 1px solid black; /* Add styling for the number box */
+          text-align: center;
+          line-height: 30px; /* Adjust as needed for vertical centering */
+          margin-right: 10px; /* Adjust as needed for spacing */
+        }
+
         /* Section 1 */
 
         .map_container{
           width: 100%;
           margin-bottom: 20px;
+          border: none;
         }
 
         .map-title{
@@ -290,26 +302,19 @@
     <div class="page">
       <h1>World Freedom: 2010 - 2020</h1>
 
-      <hr>
-
       <!-- section 1 -->
-      
-
-      <div class="map-title">
-        <h2> Human and Economic Freedom Index </h2>
-        <br> 
-      </div>
-
-      <hr>
       <br>
 
     <div id="choropleth_map" class="map_container"></div>
+      <div class="numbered-part">1</div>
+
       <div class="map-text">
         <div class="left-column">
           <p>
-            Accross 2010 - 2020, the <b>World Human and Economic Freedom Index</b> is a comprehensive and influential measure that assesses the degree of freedom 
-            enjoyed by individuals and businesses in countries around the world. Countries with <b>high scores</b> on the World Human and Economic Freedom Index 
-            are often characterised 
+            Accross 2010 - 2020, the <b>World Human and Economic Freedom Index</b> is a comprehensive 
+            and influential measure that assesses the degree of freedom enjoyed by individuals and 
+            businesses in countries around the world. Countries with <b>high scores</b> on the World 
+            Human and Economic Freedom Index are often characterised 
           </p>
         </div>
         <div class="right-column">
