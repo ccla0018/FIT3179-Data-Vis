@@ -38,7 +38,7 @@
   ],
   "vconcat": [
     {
-      "width": 500,
+      "width": 350,
       "height": 300,
       "transform": [
         {
@@ -93,7 +93,7 @@
     {
       "hconcat": [
         {
-          "width": 195,
+          "width": 150,
           "height": 100,
           "title": "Top 5 Countries",
           "transform": [
@@ -159,7 +159,7 @@
           ]
         },
         {
-          "width": 195,
+          "width": 150,
           "height": 100,
           "title": "Bottom 5 Countries",
           "transform": [

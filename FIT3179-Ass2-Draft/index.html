@@ -241,13 +241,11 @@
           padding-left: 15px;
         }
 
-        /* Section 3*/
-
-        .economic-section{
-          
+        .economic-section {
           display: grid;
           grid-template-columns: auto auto;
           grid-template-rows: 50px auto;
+          grid-gap: 10px; /* Add a gap between the elements */
         }
 
         .freedom-title {
@@ -258,60 +256,58 @@
         }
 
         .dot-distribution-title {
-        padding-top: 30px;
-        grid-column: 2;
-        grid-row: 1;
-        padding-left: 15px;
+          padding-top: 15px;
+          grid-column: 2;
+          grid-row: 1;
         }
 
         .dot-distribution {
-
           grid-column: 1;
           grid-row: 2;
-          padding-right: 15px;
         }
 
         .dot-distribution-text {
-          padding-top: 70px;
+          padding-top: 20px; /* Adjust the top padding as needed */
           grid-column: 2;
           grid-row: 2;
           padding-left: 15px;
         }
 
+        .heat-map {
+          margin-top: 20px; /* Adjust the top margin as needed */
+          padding-left: 15px; /* Adjust the left padding as needed */
+        }
+
         /* Section 4*/
 
-        .human-section{
-          padding-top: 30px;
+        .human-section {
+          padding-top: 30px; /* Adjust the top padding as needed */
+          margin-top: 30px; /* Adjust the top margin as needed */
           display: grid;
           grid-template-columns: auto auto;
           grid-template-rows: 50px auto;
-          
+          grid-gap: 20px; /* Add a gap between the elements */
         }
 
         .word-cloud-title {
-          padding-left: 15px; 
-          grid-column: 2;
-          grid-row: 1;
-        }
-
-        .word-cloud {
-          padding-right: 15px; 
+          padding-left: 15px;
           grid-column: 1;
           grid-row: 1;
         }
 
+        .word-cloud {
+          padding-right: 15px;
+          grid-column: 1;
+          grid-row: 2;
+        }
+
         .word-cloud-text {
-          padding-top: 30px;
-          padding-left: 15px; 
+          padding-top: 20px; /* Adjust the top padding as needed */
+          padding-left: 15px;
           grid-column: 2;
           grid-row: 2;
         }
 
-        .freedom-container {
-          padding-top: 40px;
-          grid-column: 2;
-          grid-row: 2;
-        }
 
     </style>
   
@@ -326,13 +322,15 @@
 
 
       <div class="map-title">
-        <h2> Freedom Index around the World </h2>
+        <h2> 
+          Freedom Index around the World 
+        </h2>
       </div>
 
       <hr>
       <br>
 
-    <div id="choropleth_map" class="map_container"></div>
+      <div id="choropleth_map" class="map_container"></div>
 
       <div class="map-text">
         <div class="left-column">
@@ -352,105 +350,102 @@
         </div>
       </div>
     <br>
-    <hr>
 
     <!-- end section 1 -->
 
-    <!-- section 2 -->
-      <div class="section-2">
-        <div class="scatterplot-title">
-          <div class="title-sub-div">
-            
-            <div class="subtitle">
-              <h2>Countries</h2>
-            </div>
-          </div>
-          <hr>
-        </div>
-        <div class="scatterplot"> 
-          <div id="scatterplot"></div>
-          <br>
-        </div>
+    <!-- economic freedom section -->
 
-        <div class="scatterplot-text">
-          <p>
-            TEXT </p>
-        </div>
-        <div class="radar-plot-title">
-          <div class="title-sub-div">
-
-            <div class="subtitle">
-              <h2>Regions</h2>
-            </div>
-          </div>
-          <hr>
-        </div>
-        <div class="radar-plot">
-          <div id="radar_plot"></div>
-        </div>
-        <div class="radar-plot-text">
-          <p> TEXT </p>
-        </div>
-      </div>
-      <!-- end section 2 -->
-
-      <!-- section 3 and 4-->
-
+    <hr>
       <div class="freedom-title">
         <h2>Economic Freedom</h2>
-        <hr>
-          
       </div>
-      
-      <div class="economic-section">
-
-        <div class="dot-distribution"> 
-          <div id="dot_distribution"></div>
-        </div>
-
-        <div class="dot-distribution-title">
-          <h3>Distribution of 5 Main Factors of Economic Freedom Index</h3>
-          <hr>
-            
-        </div>
-
-        
-        
-        <div class="dot-distribution-text">
-          <p>
-            TEXT
-          </p>
-      </div>
-    </div>
-
-    <br>
     <hr>
-    <div class="human-section">
-        <div class="word-cloud-title">
-          <h2>Human Freedom</h2>
-          <hr>
-          
-        </div>
-        <div class="word-cloud-text">
-          <p>
-            TEXT
+    
+    <div class="economic-section">
+      <div class="dot-distribution"> 
+        <div id="dot_distribution"></div>
+      </div>
+
+      <div class="dot-distribution-title">
+        <h3>Main Factors of Economic Freedom</h3>
+      </div>
+
+      <div class="dot-distribution-text">
+        <p>
+          There are 5 main factors of economic freedom, with 
         </p>
-        </div>
+      </div>  
+    </div>
 
-        <div class="word-cloud"> 
-          <div id="word_cloud"></div>
-          <div id = "binned_heat_map"> </div>
-          <div id = "flow"> </div>
-        </div>
+    <br>
+        <div id="binned_heat_map"></div>
+    
+    <br>
+    <br> 
 
-      </div> 
+    <!-- human freedom section -->
+    <hr>
+    <div class="word-cloud-title">
+      <h2>Human Freedom</h2>
+    </div>
+    <hr>
+
+    <div class="human-section">
+      <div class="word-cloud-text">
+        <p>
+          TEXT
+        </p>
+      </div>
+      <div id = "word_cloud" class="word-cloud"> 
+
     </div>
     <br>
     <br>
-    <br>
-      <!-- end section 3 and 4-->
+    <!-- end section 3 and 4-->
 
-  
+
+    <!-- section 2 -->
+    <div class="section-2">
+      <div class="scatterplot-title">
+        <div class="title-sub-div">
+          
+          <div class="subtitle">
+            <h2>Countries</h2>
+          </div>
+        </div>
+        <hr>
+      </div>
+      <div class="scatterplot"> 
+        <div id="scatterplot"></div>
+        <br>
+      </div>
+
+      <div class="scatterplot-text">
+        <p>
+          TEXT </p>
+      </div>
+      <div class="radar-plot-title">
+        <div class="title-sub-div">
+
+          <div class="subtitle">
+            <h2>Regions</h2>
+          </div>
+        </div>
+        <hr>
+      </div>
+      <div class="radar-plot">
+        <div id="radar_plot"></div>
+      </div>
+      <div class="radar-plot-text">
+        <p> TEXT </p>
+      </div>
+    </div>
+    <!-- end section 2 -->
+
+    <div id = "binned_heat_map"> </div>
+    <div id = "flow"> </div>
+
+
     </body>
 
     <script type="text/javascript">
