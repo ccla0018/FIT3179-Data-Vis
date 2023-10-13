@@ -23,6 +23,7 @@
 
     <style>
         html {
+          width: 100%;
           height: 100%;
           background-color: rgba(18, 25, 50, 0.872); /* Set the background color to dark blue */
           padding-top: 20px;
@@ -163,6 +164,15 @@
             grid-template-columns: 1fr 1fr;
             grid-template-rows: auto; 
             grid-column-gap: 50px;
+        }
+
+        .map-text p {
+            text-align: justify;
+            font-family: Georgia, serif;
+            font-size: 12px; /* Update the font size as needed */
+            margin-top: 5px;
+            margin-bottom: 5px;
+            line-height: 20pt;
         }
 
         .left-column {
@@ -324,6 +334,8 @@
       <hr>
       <br>
 
+    <div id="choropleth_map" class="map_container"></div>
+
       <div class="map-text">
         <div class="left-column">
           <p>
@@ -341,8 +353,6 @@
           </p>
         </div>
       </div>
-
-    <div id="choropleth_map" class="map_container"></div>
     <br>
     <hr>
 
