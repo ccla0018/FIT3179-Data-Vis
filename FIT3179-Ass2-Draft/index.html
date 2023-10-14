@@ -76,7 +76,7 @@
         }
 
         h2{
-          font-size: 27px;
+          font-size: 30px;
           text-transform: uppercase;
           line-height: 1.25;
 
@@ -123,7 +123,7 @@
         p{
           text-align: justify;
           font-family: Georgia, serif;
-          font-size: 14px;
+          font-size: 12px;
           margin-top: 5px;
           margin-bottom: 5px; 
           line-height: 20pt;
@@ -146,7 +146,6 @@
           grid-column: 1;
           grid-row: 1;
           padding-left: 15px;
-          font-size: 35px;
         }
 
         /* Section 1 */
@@ -259,11 +258,6 @@
           grid-column-gap: 40px;
         }
 
-        .dot-distribution-title {
-          grid-column: 2;
-          grid-row: 1;
-        }
-
         .dot-distribution {
           grid-column: 1;
           grid-row: 1;
@@ -275,7 +269,13 @@
         }
 
         .heat-map {
-          margin-top: 20px;
+          grid-column: 2;
+          grid-row: 1;
+        }
+
+        .heat-map-text {
+          grid-column: 1;
+          grid-row: 1;
         }
 
         /* Section 4*/
@@ -338,7 +338,7 @@
             Accross 2010 - 2020, the <b>World Human and Economic Freedom Index</b> is a comprehensive 
             and influential measure that assesses the degree of freedom enjoyed by individuals and 
             businesses in countries around the world. Countries with <b>high scores</b> on the World 
-            Human and Economic Freedom Index are 
+            Human and Economic Freedom Index are
           </p>
         </div>
         <div class="right-column">
@@ -361,12 +361,15 @@
       </div>
     <hr>
     
+    <!-- economic freedom: dot distribution section -->
     <div class="economic-section">
       <div class="dot-distribution"> 
+        <br>
         <div id="dot_distribution"></div>
       </div>
 
       <div class="dot-distribution-text">
+        <br>
         <p>
           A handful of crucial factors stand as the foundation in assessing a nation's economic 
           well-being and vitality.
@@ -400,8 +403,30 @@
     </div>
 
     <br>
+    <br>
+    <!-- economic freedom: heat map section -->
+    <div class="economic-section">
+      <div class = "heat-map-text">
+        <p>
+          <br><br>
+          <div class = "numbered-part"> 3</div>
+          <b> Government Money Measure </b><br>
+        </p>
+        <p>
+          Government spending and investment significantly impact economic freedom. Excessive government spending 
+          can lead to budget deficits and inflation, while strategic spending on infrastructure and human development 
+          can foster growth and productivity. Similarly, well-directed government investment in education and 
+          innovation can drive economic opportunities, while misdirected investments may hinder economic dynamism and freedom.
+        </p>
+      </div>
+
+      <div class="heat-map"> 
+        <br>
         <div id="binned_heat_map"></div>
-    
+      </div>
+
+
+    </div>
     <br>
     <br> 
 
