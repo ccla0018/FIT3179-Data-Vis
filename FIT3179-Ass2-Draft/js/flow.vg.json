@@ -5,7 +5,7 @@
     "data": [
       {
         "name": "table",
-        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/test.csv",
+        "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/alluvial.csv",
         "format": {
           "type": "csv"
         }
