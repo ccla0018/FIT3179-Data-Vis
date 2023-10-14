@@ -32,7 +32,6 @@
 
         .page{
           width: 1200px; 
-          height: 3500px;
           margin: auto; 
           padding: 50px;
           padding-top: 20px;     
@@ -202,33 +201,17 @@
           grid-template-rows: auto; 
           grid-column-gap: 50px;
         }
-          
-        .title-sub-div{
-          display: grid;
-          grid-template-columns: 48px auto;
-          margin: 0px; 
-        }
-
-        .subtitle{
-          grid-column: 2;
-        }
-
-        .scatterplot-title {
-          grid-column: 1;
-          grid-row: 1;
-          padding-right: 15px;
-        }
 
         .scatterplot{
           grid-column: 1;
-          grid-row: 2;
+          grid-row: 1;
           padding-right: 15px;
           padding-top: 40px;
         }
 
         .scatterplot-text {
           grid-column: 1;
-          grid-row: 3;
+          grid-row: 2;
           padding-right: 15px;
           
         }
@@ -417,8 +400,6 @@
         <br>
         <div id="binned_heat_map"></div>
       </div>
-
-
     </div>
     <br>
     <br> 
@@ -478,20 +459,26 @@
 
 
     <!-- section 2 -->
+    <hr>
+    <div class="freedom-title">
+      <h2> Relationship Between Human and Economic Freedom</h2>
+    </div>
+    <hr>
+
     <div class="section-2">
       <div class="scatterplot-title">
-        <div class="title-sub-div">
-          
-          <div class="subtitle">
-            <h2>Countries</h2>
+        <div class="subtitle">
+          <p>
+            <div class = "numbered-part"> 1 </div>
+            <b> COUNTRIES </b>
+            <br>
+          </p>
+
+          <div class="scatterplot"> 
+            <div id="scatterplot"></div>
+            <br>
           </div>
         </div>
-        <hr>
-      </div>
-      <div class="scatterplot"> 
-        <div id="scatterplot"></div>
-        <br>
-      </div>
 
       <div class="scatterplot-text">
         <p>
