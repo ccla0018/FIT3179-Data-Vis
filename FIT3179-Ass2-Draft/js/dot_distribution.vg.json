@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
     "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022_region.csv"
-  },
+  },  
   "params": [
     {
       "name": "selected_region",
@@ -21,7 +21,7 @@
     },
     {
       "name": "economy_measures",
-      "value": "ef_money",
+      "value": "ef_legal",
       "bind": {
         "input": "select",
         "options": [
@@ -38,7 +38,7 @@
   ],
   "vconcat": [
     {
-      "width": 350,
+      "width": 440,
       "height": 300,
       "transform": [
         {
@@ -74,7 +74,8 @@
             "scale": {
               "domain": ["Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
               "range": ["#1f77b4", "#ffb400", "#776bcd", "#d62728"]
-            }
+            },
+            "legend": {"orient": "top", "direction": "horizontal"}
           },
           "value": "#555555"
         },
@@ -93,7 +94,7 @@
     {
       "hconcat": [
         {
-          "width": 150,
+          "width": 175,
           "height": 100,
           "title": "Top 5 Countries",
           "transform": [
@@ -144,8 +145,8 @@
                 "type": "nominal",
                 "title": "Region",
                 "scale": {
-                  "domain": ["Worldwide", "Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
-                  "range": ["#555555", "#1f77b4", "#ffb400", "#776bcd", "#d62728"]
+                  "domain": ["Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
+                  "range": ["#1f77b4", "#ffb400", "#776bcd", "#d62728"]
                 }
               },
               "tooltip": [
@@ -159,7 +160,7 @@
           ]
         },
         {
-          "width": 150,
+          "width": 175,
           "height": 100,
           "title": "Bottom 5 Countries",
           "transform": [
@@ -208,8 +209,8 @@
                   "type": "nominal",
                   "title": "Region",
                   "scale": {
-                    "domain": ["Worldwide", "Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
-                    "range": ["#555555", "#1f77b4", "#ffb400", "#776bcd", "#d62728"]
+                    "domain": ["Asia Pacific", "Europe", "Americas", "Middle East/Africa"],
+                    "range": ["#1f77b4", "#ffb400", "#776bcd", "#d62728"]
                   }
                 },
                 "tooltip": [
