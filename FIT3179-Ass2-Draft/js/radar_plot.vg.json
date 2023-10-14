@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A radar chart example, showing multiple dimensions in a radial layout.",
-  "width": 450,
-  "height": 450,
-  "padding": 75,
+  "width": 500,
+  "height": 500,
+  "padding": 150,
   "autosize": {"type": "none", "contains": "padding"},
   "signals": [
     {"name": "radius", "update": "width / 2"},
@@ -63,9 +63,8 @@
       "type": "ordinal",
       "domain": {"data": "table", "field": "category"},
       "range": {"scheme": "category10"}
-    }
+      }
   ],
-
   "encode": {
     "enter": {
       "x": {"signal": "radius"},
@@ -94,7 +93,10 @@
               "stroke": {"scale": "color", "field": "category"},
               "strokeWidth": {"value": 1},
               "fill": {"scale": "color", "field": "category"},
-              "fillOpacity": {"value": 0.1}
+              "fillOpacity": {"value": 0.1},
+              "tooltip": {
+                "signal": "{'Category': datum.category, 'Score': datum.score }"
+              }
             }
           }
         }
