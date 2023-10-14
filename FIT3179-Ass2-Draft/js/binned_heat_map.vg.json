@@ -1,71 +1,59 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"},
-    "params": [
-      {
-        "name": "selected_region",
-        "value": "Worldwide",
-        "bind": {
-          "input": "select",
-          "options": [
-            "Worldwide",
-            "Asia Pacific",
-            "Europe",
-            "Americas",
-            "Middle East/Africa"
-          ],
-          "name": "Select a Region: "
-        }
-      }
-    ],
-    "transform": [
-      {
-        "filter": "datum.year == 2020"
-      },
-      {
-        "filter": {"and": [
-          {"field": "ef_government_consumption_data", "valid": true},
-          {"field": "ef_government_investment_data", "valid": true}
-        ]}
-      },
-      {
-        "filter": "selected_region === 'Worldwide' || datum.region === selected_region"
-      }
-    ],
-    "mark": "rect",
-    "width": 325,
-    "height": 300,
-    "encoding": {
-      "x": {
-        "bin": {"maxbins": 10},
-        "field": "ef_government_consumption_data",
-        "type": "quantitative",
-        "title": "Government Consumption (% of GDP)"
-      },
-      "y": {
-        "bin": {"maxbins": 10},
-        "field": "ef_government_investment_data",
-        "type": "quantitative",
-        "title": "Government Investment (% of GDP)"
-      },
-      "color": {
-        "aggregate": "count",
-        "type": "quantitative",
-        "scale": {
-          "scheme": "blues"  
-        },
-        "legend": {"title": "Number of Countries"} 
-      },
-      "tooltip": [
-        {"field": "ef_government_consumption_range", "title": "Consumption (% of GDP)"},
-        {"field": "ef_government_investment_range", "title": "Investment (% of GDP)"},
-        {"aggregate": "count", "type": "quantitative", "title": "Count"}
-      ]
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"},
+  "transform": [
+    {
+      "calculate": "datum.ef_government ? datum.ef_government : 0",
+      "as": "ef_government_filled"
     },
-    "config": {
-      "view": {
-        "stroke": "white"
-      },
-      "axis": {"grid": true, "tickBand": "extent", "gridColor": "white"}
+    {
+      "filter": {"and": [
+        {"field": "ef_government_consumption_data", "valid": true},
+        {"field": "ef_government_investment_data", "valid": true}
+      ]}
+    },
+    {
+      "filter": "datum.ef_government_investment_data < 200"
     }
+  ],
+  "mark": "rect",
+  "width": 325,
+  "height": 300,
+  "encoding": {
+    "x": {
+      "bin": {"maxbins": 10},
+      "field": "ef_government_consumption_data",
+      "type": "quantitative",
+      "title": "Government Consumption (% of GDP)"
+    },
+    "y": {
+      "bin": {"maxbins": 10},
+      "field": "ef_government_investment_data",
+      "type": "quantitative",
+      "title": "Government Investment (% of GDP)"
+    },
+    "color": {
+      "aggregate": "average",
+      "field": "ef_government_filled",
+      "type": "quantitative",
+      "scale": {"scheme": "blues"},
+      "legend": {
+        "title": "Average Economic Freedom Score",
+        "orient": "right",
+        "direction": "vertical"
+      }
+    },
+    "tooltip": [
+      {"field": "ef_government_consumption_range", "title": "Consumption (% of GDP)"},
+      {"field": "ef_government_investment_range", "title": "Investment (% of GDP)"},
+      {"aggregate": "count", "type": "quantitative", "title": "Count"},
+      {"aggregate": "average", "type": "quantitative", "field": "ef_government", "title": "Average Score", "format": ".2f"}
+    ]
+  },
+  "config": {
+    "view": {
+      "stroke": "white"
+    },
+    "axis": {"grid": true, "tickBand": "extent", "gridColor": "black"}
   }
+}
