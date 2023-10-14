@@ -88,15 +88,18 @@
           "encode": {
             "enter": {
               "interpolate": {"value": "linear-closed"},
-              "x": {"signal": "scale('radial', datum.score) * cos(scale('angular', datum.region))"},
-              "y": {"signal": "scale('radial', datum.score) * sin(scale('angular', datum.region))"},
-              "stroke": {"scale": "color", "field": "category"},
-              "strokeWidth": {"value": 1},
-              "fill": {"scale": "color", "field": "category"},
-              "fillOpacity": {"value": 0.1},
               "tooltip": {
                 "signal": "{'Category': datum.category, 'Score': datum.score }"
-              }
+              },
+              "x": {"signal": "scale('radial', datum.score) * cos(scale('angular', datum.region))"},
+              "y": {"signal": "scale('radial', datum.score) * sin(scale('angular', datum.region))"},
+              "stroke": {
+                "scale": "color", 
+                "field": "category"
+              },
+              "strokeWidth": {"value": 1},
+              "fill": {"scale": "color", "field": "category"},
+              "fillOpacity": {"value": 0.1}
             }
           }
         }
@@ -163,7 +166,25 @@
           "x": {"field": "x2"},
           "y": {"field": "y2"},
           "stroke": {"value": "lightgray"},
-          "strokeWidth": {"value": 1}
+          "strokeWidth": {"value": 1},
+          "tooltip": {
+            "signal": "{'Category': datum.category, 'Score': datum.score }"
+          }
+        }
+      }
+    }
+  ],
+  "legend": [
+    {
+      "orient": "right",
+      "fill": "color",
+      "field": "category",
+      "title": "Freedom Category",
+      "encode": {
+        "symbols": {
+          "update": {
+            "strokeWidth": {"value": 1}
+          }
         }
       }
     }
