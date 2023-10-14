@@ -12,23 +12,10 @@
       }
     }
   },
-  "width": "350",
-  "height": "350",
-  "params": [
-    {
-      "name": "year_selection",
-      "value": "2020",
-      "bind": {
-        "input": "range",
-        "min": 2010,
-        "max": 2020,
-        "step": 1,
-        "name": "Year Selection: "
-      }
-    }
-  ],
+  "width": "500",
+  "height": "500",
   "transform": [
-    {"filter": "datum.year == year_selection"},
+    {"filter": "datum.year == '2020'"},
     {"filter": "datum.population > 0"},
     {"filter": "datum.hf_score > 0"},
     {"filter": "datum.ef_score > 0"}
@@ -93,7 +80,11 @@
             "domain": [1, 100000, 1000000, 50000000, 100000000, 500000000, 1000000000],
             "range": [5, 10, 20, 40, 80, 160, 320, 640]
           },
-          "legend": {"format": ".1s"}
+          "legend": {
+                      "format": ".1s", 
+                      "orient": "top-left",
+                      "title": "Number of Population"  
+                    }
         },
         "opacity": {"value": 0.5},
         "tooltip": [

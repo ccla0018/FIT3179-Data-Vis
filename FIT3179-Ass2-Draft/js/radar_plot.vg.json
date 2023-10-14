@@ -3,7 +3,7 @@
   "description": "A radar chart example, showing multiple dimensions in a radial layout.",
   "width": 500,
   "height": 500,
-  "padding": 150,
+  "padding": 80,
   "autosize": {"type": "none", "contains": "padding"},
   "signals": [
     {"name": "radius", "update": "width / 2"},
@@ -12,7 +12,7 @@
       "value": "2020",
       "bind": {
         "input": "range",
-        "min": 2010,
+        "min": 2015,
         "max": 2020,
         "step": 1,
         "name": "Year Selection: "
@@ -22,7 +22,7 @@
   "data": [
     {
       "name": "dataset",
-      "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/draft/data/freedom_radar.csv", 
+      "url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/freedom_radar.csv", 
       "format": { "type": "csv" } 
     },
     {
