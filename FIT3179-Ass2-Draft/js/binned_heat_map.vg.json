@@ -1,6 +1,23 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/ccla0018/FIT3179-Data-Vis/main/FIT3179-Ass2-Draft/data/hfi_cc_2022.csv"},
+    "params": [
+      {
+        "name": "selected_region",
+        "value": "Worldwide",
+        "bind": {
+          "input": "select",
+          "options": [
+            "Worldwide",
+            "Asia Pacific",
+            "Europe",
+            "Americas",
+            "Middle East/Africa"
+          ],
+          "name": "Select a Region: "
+        }
+      }
+    ],
     "transform": [
       {
         "filter": "datum.year == 2020"
@@ -10,6 +27,9 @@
           {"field": "ef_government_consumption_data", "valid": true},
           {"field": "ef_government_investment_data", "valid": true}
         ]}
+      },
+      {
+        "filter": "selected_region === 'Worldwide' || datum.region === selected_region"
       }
     ],
     "mark": "rect",
