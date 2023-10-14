@@ -31,7 +31,7 @@
         }
 
         .page{
-          width: 1100px; 
+          width: 1200px; 
           height: 3500px;
           margin: auto; 
           padding: 50px;
@@ -281,31 +281,20 @@
         /* Section 4*/
 
         .human-section {
-          padding-top: 30px; /* Adjust the top padding as needed */
-          margin-top: 30px; /* Adjust the top margin as needed */
           display: grid;
-          grid-template-columns: auto auto;
-          grid-template-rows: 50px auto;
-          grid-gap: 20px;
+          grid-template-columns: 1fr 1fr;
+          grid-template-rows: auto; 
+          grid-column-gap: 50px;
         }
 
-        .word-cloud-title {
-          padding-left: 15px;
+        .word-cloud-1 {
           grid-column: 1;
           grid-row: 1;
         }
 
-        .word-cloud {
-          padding-right: 15px;
-          grid-column: 1;
-          grid-row: 2;
-        }
-
-        .word-cloud-text {
-          padding-top: 20px; 
-          padding-left: 15px;
+        .word-cloud-2 {
           grid-column: 2;
-          grid-row: 2;
+          grid-row: 1;
         }
 
 
@@ -431,18 +420,50 @@
     <br> 
 
     <!-- human freedom section -->
-    <!-- human freedom section -->
     <hr>
     <div class="freedom-title">
       <h2>Human Freedom</h2>
     </div>
     <hr>
-    <div class="human-section">
+    <h3> What aspects contribute to human freedom? </h3>
 
-      <div class="word-cloud-text">
-        <p>WORD CLOUD TEXT</p>
+    <div class="human-section">
+      <div class="word-cloud-1">
+        <p>
+          <div class = "numbered-part"> 1</div>
+          <b> Expression </b>
+          <br>
+        </p>
+        <p>
+          Freedom of expression empowers individuals to voice opinions, dissent, and 
+          engage in artistry without fear of retribution. This fundamental right fosters 
+          an inclusive environment, valuing diverse perspectives and enabling a vibrant 
+          intellectual landscape. 
+          
+          <br><br>
+          Below are countries that have the highest freedom of expression around the world.
+        </p>
+        <div id="word_cloud"></div>
       </div>
-      <div id="word_cloud" class="word-cloud"></div>
+      <div class = "word-cloud-2">
+        <p>
+          <div class = "numbered-part"> 2 </div>
+          <b> Religion </b>
+          <br>
+        </p>
+
+        <p>
+          Religious freedom serves as a pillar of human freedom, promoting tolerance, diversity, and societal 
+          harmony. By safeguarding this liberty, individuals can express their beliefs freely, fostering a 
+          culture of mutual respect and understanding, ultimately enhancing the overall fabric of human freedom 
+          and dignity.
+          
+          <br><br>
+          The first quartile of the highest score in this aspect are still dominated by countries in 
+          Europe region, while African countries seem to have poor score on this aspect.
+        </p>
+        <div id = "flow"> </div>
+      </div>
     </div>
     <br>
     <br>
@@ -488,8 +509,6 @@
     </div>
     <!-- end section 2 -->
 
-    <div id = "binned_heat_map"> </div>
-    <div id = "flow"> </div>
 
 
     </body>
