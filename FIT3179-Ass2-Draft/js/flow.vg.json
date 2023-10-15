@@ -17,10 +17,10 @@
           {
             "type": "fold",
             "fields": [
-              "Top",
-              "Upper-Middle",
-              "Bottom-Middle",
-              "Bottom"
+              "Quartile 1",
+              "Quartile 2",
+              "Quartile 3",
+              "Quartile 4"
             ]
           }
         ]
@@ -245,10 +245,10 @@
           "Europe", 
           "Americas", 
           "Middle East/Africa",
-          "Top",
-          "Upper-Middle",
-          "Bottom-Middle",
-          "Bottom"
+          "Quartile 1",
+          "Quartile 2",
+          "Quartile 3",
+          "Quartile 4"
         ]
       }
     ],
