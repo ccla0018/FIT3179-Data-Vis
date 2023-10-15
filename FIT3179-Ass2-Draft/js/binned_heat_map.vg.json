@@ -38,7 +38,7 @@
       "type": "quantitative",
       "scale": {"scheme": "blues"},
       "legend": {
-        "title": "Average Economic Freedom Score",
+        "title": "Average Score",
         "orient": "right",
         "direction": "vertical"
       }

@@ -239,7 +239,7 @@
       {
         "name": "color",
         "type": "ordinal",
-        "range": ["#1f77b4", "#ffb400", "#776bcd", "#d62728", "#e377c2", "#bcbd22", "#8c564b", "#000080"],
+        "range": ["#1f77b4", "#ffb400", "#776bcd", "#d62728", "#FFB6C1", "#686868", "#C4A484", "#AA98A9"],
         "domain": [
           "Asia Pacific", 
           "Europe", 
