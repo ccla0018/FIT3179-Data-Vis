@@ -25,16 +25,17 @@
         html {
           width: 100%;
           height: 100%;
-          background-color: rgba(18, 25, 50, 0.872); /* Set the background color to dark blue */
+          background-color: rgba(18, 25, 50, 0.872); 
           padding-top: 20px;
-          padding-bottom: 20px;
+          padding-bottom: 50px;
         }
 
         .page{
           width: 1200px; 
           margin: auto; 
           padding: 50px;
-          padding-top: 20px;     
+          padding-top: 20px;    
+          padding-bottom: 50px;
           background-color: white;
         }
 
@@ -51,6 +52,13 @@
           font-family: Georgia, 'Times New Roman', Times, serif, serif;
         }
 
+        .custom-bold {
+          color: black;
+          font-weight: bold;
+          font-size: 18px;
+          font-family: Georgia, 'Times New Roman', Times, serif, serif;
+        }
+
         h1{
           font-size: 60px; 
           color: black; 
@@ -63,19 +71,8 @@
           margin-inline-start: 0px;
         }
 
-        h2.title-desc{
-          font-family: Georgia, 'Times New Roman', Times, serif, serif;
-          font-size: 18px; 
-          color: black; 
-          font-weight: bold;
-          letter-spacing: -.05em;
-          text-align: center;
-          padding-bottom: 10px;
-
-        }
-
         h2{
-          font-size: 30px;
+          font-size: 32px;
           text-transform: uppercase;
           line-height: 1.25;
 
@@ -89,19 +86,8 @@
           font-variant: normal;  
         }
 
-        h3.title-desc{
-          font-family: 'Merriweather', serif;
-          font-size: 14px; 
-          color: black; 
-          font-weight: bold;
-          letter-spacing: -.05em;
-          padding-bottom: 10px;
-          text-align: center;
-
-        }
-
         h3{
-          font-size: 20px;
+          font-size: 22px;
           text-transform: uppercase;
           line-height: 1.25;
           text-align: center;
@@ -111,6 +97,17 @@
           padding-top: 2px;
           margin-top: 5px;
           margin-bottom: 5px; 
+          font-weight: bold;
+          font-style: normal; 
+          font-variant: normal;  
+        }
+
+        h4{
+          font-size: 16px;
+          line-height: 1.25;
+
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          color: rgb(187, 87, 0); 
           font-weight: bold;
           font-style: normal; 
           font-variant: normal;  
@@ -288,17 +285,19 @@
       <div class="map-text">
         <div class="left-column">
           <p>
-            Accross 2010 - 2020, the <b>World Human and Economic Freedom Index</b> is a comprehensive 
-            and influential measure that assesses the degree of freedom enjoyed by individuals and 
-            businesses in countries around the world. Countries with <b>high scores</b> on the World 
-            Human and Economic Freedom Index are
+            Over the years, the World Freedom Index has emerged as a <b>prominent measure </b>
+            evaluating the freedom levels of individuals and businesses globally. This comprehensive index 
+            comprises two distinct dimensions: the <b>Human Freedom </b>and the <b>Economic Freedom</b>. 
+            Nations excelling in these indices typically exhibit robust safeguards for individual rights, 
+            limited government intervention in economic 
           </p>
         </div>
         <div class="right-column">
           <p>
-            often characterised by strong protections for individual rights, minimal government interference in 
-            economic activities, and vibrant free markets. Conversely, nations with lower scores may face challenges
-            related to corruption, excessive regulations, and restrictions on personal freedoms.
+            affairs, and flourishing open markets. 
+            On the contrary, countries with <b>lower scores </b>often <b>grapple with issues </b>such as corruption, 
+            regulatory burdens, and constraints on personal liberties, underscoring the significance of both 
+            economic and human freedom in assessing a nation's overall freedom landscape.
           </p>
         </div>
       </div>
@@ -327,30 +326,31 @@
       <div class="dot-distribution-text">
         <br>
         <p>
-          A handful of crucial factors stand as the foundation in assessing a nation's economic 
-          well-being and vitality.
+          This index measures the extent to which individuals and businesses in a country are <b>free to 
+          make </b>their <b>own economic decisions</b>. A handful of crucial factors stand as the foundation in 
+          assessing a nation's economic well-being and vitality.
           <br><br>
           <div class = "numbered-part"> 1</div>
-          <b>Legal Measures </b><br>
+          <span class = "custom-bold"> Legal Measures</span><br>
         </p>
         <p>
-          Legal measures profoundly shape economic freedom by establishing transparent regulations that 
+          Legal measures profoundly shape economic freedom by <b>establishing transparent regulations</b> that 
           protect property rights, contracts, and intellectual property. A strong legal framework fosters 
-          investor confidence and business integrity, laying the groundwork for a thriving economy.
+          investor <b>confidence and business integrity</b>, laying the groundwork for a thriving economy.
         </p>
 
         <br>
         <p>
           <div class = "numbered-part"> 2</div>
-          <b> Open Markets / Trade </b><br>
+          <span class = "custom-bold"> Open Markets / Trade </span><br>
         </p>
         <p>
-          Open markets and global trade drive economic growth by promoting healthy competition and enabling 
+          Open markets and global trade drive economic growth by <b>promoting healthy competition</b> and enabling 
           the exchange of goods and services. Countries benefit from comparative advantages, expansion of market 
           reach, and enhanced innovation through the facilitation of free trade agreements.
 
           <br><br>
-          The data depicted in the graph indicates that <b>Africa's performance</b> in both factors appear to be
+          In <b>both measures</b>, the data depicted in the graph indicates that <b>Africa's performance</b> appear to be
           <b>relatively weaker</b> compared to Europe and the Asia Pacific region. This highlights the need for potential 
           enhancements in Africa's legal and trade measures to foster a more conducive environment for 
           economic activities and growth.
@@ -364,15 +364,20 @@
     <div class="economic-section">
       <div class = "heat-map-text">
         <p>
-          <br>
           <div class = "numbered-part"> 3</div>
-          <b> Government Money Measure </b><br>
+          <span class = "custom-bold"> Government Money Measure </span><br>
         </p>
         <p>
-          Government spending and investment significantly impact economic freedom. Excessive government spending 
-          can lead to budget deficits and inflation, while strategic spending on infrastructure and human development 
-          can foster growth and productivity. Similarly, well-directed government investment in education and 
-          innovation can drive economic opportunities, while misdirected investments may hinder economic dynamism and freedom.
+          Being a key component of economic freedom, as shown on the graph, a darker shade or higher score closer to the bottom-left edge signifies a <b>robust 
+          correlation</b> between <b>lower government spending</b> and <b>investment</b> relative to GDP and the mentioned <b>positive 
+          economic indicators</b>.
+
+          <br><br>
+          This indicates fiscal discipline and <b>macroeconomic stability</b>, fostering private sector confidence 
+          and long-term growth prospects. This trend often reflects efficient debt management, potentially alleviating 
+          the burden of interest payments and enabling resources to be channeled into productive investments, thus 
+          contributing to the <b>overall economic well-being</b>. 
+
         </p>
       </div>
 
@@ -396,36 +401,36 @@
       <div class="word-cloud-1">
         <p>
           <div class = "numbered-part"> 1</div>
-          <b> Expression </b>
+          <span class = "custom-bold"> Expression </span><br>
           <br>
         </p>
         <p>
-          Freedom of expression empowers individuals to voice opinions, dissent, and 
-          engage in artistry without fear of retribution. This fundamental right fosters 
+          Freedom of expression empowers individuals to <b>voice opinions</b>, dissent, and 
+          engage in artistry <b>without fear</b> of retribution. This fundamental right fosters 
           an inclusive environment, valuing diverse perspectives and enabling a vibrant 
           intellectual landscape. 
           
           <br><br>
-          Below are countries that have the highest freedom of expression around the world.
+          Below are countries that have the <b>highest freedom of expression</b> around the world.
         </p>
         <div id="word_cloud"></div>
       </div>
       <div class = "word-cloud-2">
         <p>
           <div class = "numbered-part"> 2 </div>
-          <b> Religion </b>
+          <span class = "custom-bold"> Religion </span><br>
           <br>
         </p>
 
         <p>
-          Religious freedom serves as a pillar of human freedom, promoting tolerance, diversity, and societal 
-          harmony. By safeguarding this liberty, individuals can express their beliefs freely, fostering a 
+          Religious freedom serves as a pillar of human freedom, promoting <b>tolerance</b>, <b>diversity</b>, 
+          and <b>societal harmony</b>. By safeguarding this liberty, individuals can express their beliefs freely, fostering a 
           culture of mutual respect and understanding, ultimately enhancing the overall fabric of human freedom 
           and dignity.
           
           <br><br>
-          The first quartile of the highest score in this aspect are still dominated by countries in 
-          Europe region, while African countries seem to have poor score on this aspect.
+          The first quartile of the <b>highest score</b> in this aspect are still dominated by countries in 
+          <b>Europe region</b>, while African countries seem to have poor score on this aspect.
         </p>
         <br>
         <div id = "flow"> </div>
@@ -446,7 +451,7 @@
       <div class="scatterplot">
         <p>
           <div class = "numbered-part"> 1 </div>
-          <b> Breakdown per Countries </b>
+          <span class = "custom-bold"> Breakdown per Countries </span><br>
         </p>
 
         <div id="scatterplot"></div>
@@ -455,7 +460,7 @@
       <div class="radar-plot">
         <p>
           <div class = "numbered-part"> 2 </div>
-          <b> Breakdown per Sub-Regions </b>
+          <span class = "custom-bold"> Breakdown per Sub-Regions</span><br>
           <br>
         </p>
 

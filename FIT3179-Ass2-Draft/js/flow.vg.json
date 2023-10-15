@@ -17,10 +17,10 @@
           {
             "type": "fold",
             "fields": [
-              "Quartile 1",
-              "Quartile 2",
-              "Quartile 3",
-              "Quartile 4"
+              "Top",
+              "Upper-Middle",
+              "Bottom-Middle",
+              "Bottom"
             ]
           }
         ]
@@ -239,16 +239,16 @@
       {
         "name": "color",
         "type": "ordinal",
-        "range": ["#1f77b4", "#d62728", "#9467bd", "#ff7f0e", "#e377c2", "#bcbd22", "#8c564b", "#000080"],
+        "range": ["#1f77b4", "#ffb400", "#776bcd", "#d62728", "#e377c2", "#bcbd22", "#8c564b", "#000080"],
         "domain": [
-          "Americas",
-          "Asia Pacific",
+          "Asia Pacific", 
+          "Europe", 
+          "Americas", 
           "Middle East/Africa",
-          "Europe",
-          "Quartile 1",
-          "Quartile 2",
-          "Quartile 3",
-          "Quartile 4"
+          "Top",
+          "Upper-Middle",
+          "Bottom-Middle",
+          "Bottom"
         ]
       }
     ],

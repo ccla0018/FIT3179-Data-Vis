@@ -46,8 +46,8 @@
     "tooltip": [
       {"field": "ef_government_consumption_range", "title": "Consumption (% of GDP)"},
       {"field": "ef_government_investment_range", "title": "Investment (% of GDP)"},
-      {"aggregate": "count", "type": "quantitative", "title": "Count"},
-      {"aggregate": "average", "type": "quantitative", "field": "ef_government", "title": "Average Score", "format": ".2f"}
+      {"aggregate": "count", "type": "quantitative", "title": "Number of Countries"},
+      {"aggregate": "average", "type": "quantitative", "field": "ef_government", "title": "Average Freedom Score", "format": ".2f"}
     ]
   },
   "config": {
